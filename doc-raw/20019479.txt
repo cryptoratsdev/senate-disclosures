@@ -1,0 +1,54 @@
+Filing Id #20019479
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer information
+
+name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+JT Advanced Micro devices, Inc. P 08/04/2021 09/13/2021 $1,001-$15,000, ;
+(AM) (ST)
+FurnoSeares New
+Somsio.aoOr. Morgan Stanley - Select UMA Account # 1
+JT booking Holdings Inc. (bKNG) P 08/04/2021 09/13/2021 $1,001-$15,000
+(ST
+
+FuunoSers New
+‘SopotaivcOr, Morgan Stanley - Select UMA Account # 1
+
+JT Endava plc American depositar§ (partial) 08/20/2021 09/13/2021 $1,001- $15,000.
+Shares (dAVA) [ST
+
+FuunoSerus New
+
+SopuotaicOr Morgan Stanley - Select UMA Account # 1
+JT Halozyme Therapeutics, Inc. P 08/20/2021 09/13/2021 $1,001-$15,000g ;
+(HALO) (ST)
+
+FuunoSers New
+‘SopotaivcOr, Morgan Stanley - Select UMA Account # 1
+
+JT Microsoft Corporation (MSFT) P 08/16/2021 09/13/2021 $1,000,001 - ec
+(OP) $5,000,000
+FuunoSerus New
+StniiotiscOr, Morgan Stanley - Portfolio Management Active Assets Account
+
+descrurnox Call options; Strike Price $150; Expires 10/15/21
+
+JT Microsoft Corporation (MSFT) P 08/16/2021 09/13/2021 $500,001 - eS
+[OP $1,000,000
+

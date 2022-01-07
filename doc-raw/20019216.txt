@@ -1,0 +1,56 @@
+Filing ID #20019216
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Suzan K, DelBene
+Status: Member
+State/District:WA01
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+JT Energy Northwest Wash Elec S 07/01/202107/01/2021 $250,001 - ec
+5.00% Due 07/01/2021 [gS $500,000
+
+Fung Seamus: New
+Descntrmiom Redemption
+
+JT Florida HSg Fin Corp Homeownféfpartial) _07/01/202107/01/2021 $15,001 -
+MTS Rev 2.15% Due 07/01/2029 $50,000
+[9S
+Fung Sears: New
+Desciirnon Redemption
+
+JT Florida ST Constr Ref DBS S 07/01/202107/01/2021 $250,001 -
+Ser.2016 A 5.00% Due 07/01/2021 $500,000
+[gS
+Fung Stare: New
+Descruvnox Redemption
+
+SP Microsoft Corporation (MSFT) P 07/02/2021 07/02/2021 $1,001 - $15,000
+[ST]
+
+Furxg Scxrus: New
+
+ 
+
+JT Pasco CNTY FI SB CO 0.00% SCH 07/21/202107/21/2021 $500,001 - ec
+Cops Due 08/01/2032 [gS $1,000,000
+Fung Seamus: New
+
+JT Seattle WA MNIT PW 0.00% P 07/21/202107/21/2021 $500,001 - ec
+PWR util Due 05/01/2045 (gS) $1,000,000
+
+Furxg Scxrus: New
+

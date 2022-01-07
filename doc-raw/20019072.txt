@@ -1,0 +1,65 @@
+PerioDic
+
+ 
+
+tranSaction
+
+Yr ePort
+
+Filing ID #2019072
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Michael Waltz
+Status: Member
+State/District:FLO6
+
+transactions
+
+iD owner asset
+
+Bitcoin (OT)
+
+Fung Sexrus New
+Location US
+Descrtrtios Cryptocurrency
+
+Bitcoin (OT)
+
+Fung Sus New
+Location US
+Descrtrtiow Cryptocurrency
+
+transaction Date _notification amount
+
+type Date
+
+P 06/14/2021 06/14/2021 $15,001 -
+$50,000
+
+P 06/16/2021 06/16/2021 $15,001 -
+$50,000
+
+cap.
+gains >
+$200?
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+initial Public Offerings
+
+Yes No
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Michael Waltz , 07/14/2021
+

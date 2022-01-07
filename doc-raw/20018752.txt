@@ -1,0 +1,46 @@
+Filing ID #20018752
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District:VA08
+‘TraNsACTIONS
+ID Owner Asset TransactionDate _—NotificationAmount —Cap.
+Type Date Gains >
+$200?
+JT. BLFFedFund TDDXX[CS]_S 05/13/2021 05/16/2021 $15,001 - ec
+$50,000
+FurnoSeares New
+SunnotoivcOr: Stocks, Bonds, & Mutual Funds
+Desciummox sweep sale of Blackrock Liq FDS Fed
+JT BLFFedFund TDDXX[CS]_ P 05/11/2021 05/16/2021 $1,001-$15,000
+FurnoSrarus New
+SunnotoiveOr Stocks, Bonds, & Mutual Funds
+Descrummox sweep purchase of Blackrock Liq FDS Fed
+JT BLFFedFund TDDXX[CS]_P 05/07/2021 05/16/2021 $1,001-$15,000g
+FurnoSeares New
+SunnotoiveOr: Stocks, Bonds, & Mutual Funds
+Descrummon sweep purchase of Blackrock Liq FDS Fed
+JT —-BLFFedFund TDDXX[CS] S$ 05/06/2021 05/16/2021 $1,001-$15,000
+FurnoSrarus New
+SunnotoiveOr Stocks, Bonds, & Mutual Funds
+Descrummox sweep sale of Blackrock Liq FDS Fed
+JT. -BLFFedFund TDDXX[CS]_S 05/04/2021 05/16/2021 $1,001-$15,000
+
+FuunoSerus New
+SumnounnicOr Stocks, Bonds, & Mutual Funds
+Descrurnox sweep sale of Blackrock Liq FDS Fed
+
+JT BLE FedFund TDDXX[CS]_ 05/04/2021 05/16/2021 $1,001-$15,000
+

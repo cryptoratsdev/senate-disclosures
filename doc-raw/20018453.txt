@@ -1,0 +1,57 @@
+Filing ID #20018453
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+SP Adobe Inc. (ADBE) [ST P 03/11/202103/18/2021 $1,001 - $15,000
+
+ex
+Fiting Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP Americold Realty Trust Commor§ (partial) _03/12/202103/19/2021 $1,001 - $15,000
+Shares (COLD) [ST
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+ec
+
+SP Americold Realty Trust Commor8 03/15/202103/22/2021 $15,001 - ec
+Shares (COLD) [ST $50,000
+Fiting Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP NVIDIA Corporation (NVDA) [SP 03/11/202103/18/2021 $1,001 - $15,000
+
+ec
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+* For the complete list of asset type abbreviations, please visit ttps,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+initial Public Offerings
+
+Yes No
+

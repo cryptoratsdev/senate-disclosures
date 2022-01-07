@@ -1,0 +1,56 @@
+Filing ID #20018431
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District:VA08
+
+transactions
+
+iD owner asset transaction Date _notificationamount —_—_cap.
+type Date gains >
+
+$200?
+JT Amazon.com, Inc. (AMZN) [ST] S 03/18/2021 03/20/2021 $1,001-$15,000g ;
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descrurniox sale one unit Amazon.Com Inc; capital gain $1,354
+
+JT BLE FedFund TDDXX[CS]_ P 03/18/2021 03/20/2021 $1,001-$15,000
+
+Fung Sous New
+SonnioupnsOr Stocks, Bonds, & Mutual Funds
+Descrirnox sweep purchase Blackrock Liq FDS Fed
+
+JT BLF FedFund TDDXX[CS. P 03/01/2021 03/20/2021 $15,001 - e
+$50,000
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descrirnom sweep purchase Blackrock Liq FDS Fed
+
+JT BLF FedFund TDDXX[CS]_ 03/03/2021 03/20/2021 $1,001-$15,000
+
+Fung Sous New
+SonnioupngOr Stocks, Bonds, & Mutual Funds
+Descrurnox sweep sale Blackrock Liq FDS Fed
+
+JT BLF FedFund TDDXX[CS. P 03/15/2021 03/20/2021 $1,001-$15,000
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descrirnom sweep purchase Blackrock Liq FDS Fed
+
+JT BLE FedFund TDDXX[CS]_ P 03/11/2021 03/20/2021 $1,001-$15,000
+

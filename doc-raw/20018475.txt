@@ -1,0 +1,52 @@
+Filing ID #20018475
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+
+JT Adobe Inc. (ADBE) [ST P 03/17/202103/24/2021 $898.16 ec
+Fiung Sanus: New
+SwnouoingOr: Neuberger Berman - Malumed Lowenthal Rev Trust,
+
+JT Ares Capital [CS s 03/18/2021 03/25/2021 $1,001-$15,000 . ,
+Fung Seamus: New
+SwnouoingOr: Neuberger Berman - Malumed Lowenthal Rev Trust,
+Descrumos Maturity date is 12/19/21, interest rate is 1.096%
+
+JT Autodesk, Inc. (ADSK) [ST] P 03/17/202103/24/2021 $1,001- $15,000 g ;
+Fiung Sanus: New
+SwnouoingOr: Neuberger Berman - Malumed Lowenthal Rev Trust,
+
+JT _ SPDR S&P Regional Banking ETF 03/18/2021 03/25/2021 $1,001-$15,000 . ,
+(KRE) (ET)
+
+Fins Sexnus: New
+‘Suntiotping Or: Neuberger Berman - Malumed Lowenthal Rev Trust
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
+Neuberger Berman - Malumed Lowenthal Rev Trust (Owner: JT)
+
+initial Public Offerings
+
+Yes No
+

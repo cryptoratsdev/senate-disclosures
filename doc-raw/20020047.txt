@@ -1,0 +1,46 @@
+Filing ID #20020047
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon, Donald Sternoff Beyer Jr.
+Status: Member
+State/District:VA08
+‘TraNsACTIONS
+ID Owner Asset TransactionDate _—NotificationAmount —Cap.
+Type Date Gains >
+$200?
+JT AIA group, Ltd. Sponsored S 12/06/202112/16/2021 $1,001-$15,000 g
+American Depository Receipt
+(AAgIY) [ST]
+Fung Searus New
+SunnotoisgOr Stocks, Bonds, & Mutual Funds
+Descrummo sale 405 units AIA group Ltd
+JT. BLF FedFund TDDXX [CS s 12/06/202112/16/2021 $15,001 - a
+$50,000
+Fung Srarus New
+SunnotoigOr Stocks, Bonds, & Mutual Funds
+Descrummox sweep sale Blackrock Liq FDS Fed
+JT BLF FedFund TDDXX [CS P 12/01/202112/16/2021 $1,001-$15,000g -
+Fung Searus New
+SunnotoisgOr Stocks, Bonds, & Mutual Funds
+Descrummox sweep purchase Blackrock Liq FDS Fed
+JT. BLF FedFund TDDXX [CS s 12/02/202112/16/2021 $1,001- $15,000
+Fung Srarus New
+SunnotoigOr Stocks, Bonds, & Mutual Funds
+Descrummox sweep sale Blackrock Liq FDS Fed
+JT CVS Health Corporation (CVS) [97° 12/21/202112/26/2021 $1,001-$15,000 g
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descntrniom purchase 36 units CVS Health Corp common
+

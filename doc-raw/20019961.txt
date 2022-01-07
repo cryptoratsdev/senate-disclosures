@@ -1,0 +1,53 @@
+Filing Id #20019961
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer information
+
+name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+
+$200?
+JT Alphabet Inc. - Class C Capital P 11/03/202112/06/2021 $1,001-$15,000g ;
+
+Stock (GOOG) [ST
+
+FuunoSerus New
+
+ 
+
+SopuotaicOr Morgan Stanley - Select UMA Account # 1
+JT AutoZone, Inc. (AZO) [ST] P 11/10/202112/06/2021 $15,001 - ec
+$50,000
+FuunoSers New
+‘SopotaivcOr, Morgan Stanley - Select UMA Account # 1
+JT Compass Minerals Inti Inc (CME) 11/16/202112/06/2021 $1,001-$15,000
+[STi
+FuunoSerus New
+SopuotaicOr Morgan Stanley - Select UMA Account # 1
+JT _ Emergent biosolutions, Inc. (EbS) 11/05/202112/06/2021 $1,001-$15,000g ;
+[ST]
+FuunoSers New
+‘SopotaivcOr, Morgan Stanley - Select UMA Account # 1
+JT Equifax, Inc. (EFX) | P 11/19/202112/06/2021 $1,001-$15,000g ;
+FuunoSerus New
+SopuotaicOr Morgan Stanley - Select UMA Account # 1
+JT Haier Smart Home Co Ltd AdR P 11/19/202112/06/2021 $1,001-$15,000g ;
+(HSHCY) (OT)
+
+FuunoSers New
+SopotaicOr, Morgan Stanley - Select UMA Account # 1
+

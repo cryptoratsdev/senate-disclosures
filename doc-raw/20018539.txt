@@ -1,0 +1,58 @@
+Filing ID #2018539
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Nancy Pelosi
+
+Status: Member
+
+State/District:CA12
+
+‘TraNsACTIONS
+
+1D Owner Asset TransactionDate _—NotificationAmount —Cap.
+Type Date Gains >
+
+$200?
+2000074389 SP _AllianceBemnstein Holding LP. 12/22/2020 12/22/2020 $500,001 - ec
+Units (AB) [OL $1,000,000
+
+Fung Sexrus Amended
+Location New York, NY, US
+
+Descrurnox Purchased 20,000 units in a global asset management firm providing investment management and
+research services worldwide to institutional, high-net-worth and retail investors.
+
+2000076481SP _AllianceBemstein Holding LP. 02/18/202102/18/2021 $500,001 -
+Units (AB) [OL] $1,000,000
+Fung Serus Amended
+Locarios New York, NY, US
+Descrurnox Purchased 15,000 units in a global asset management firm providing investment management and
+research services worldwide to institutional, high-net-worth and retail investors.
+
+2000076482 SP _AllianceBemstein Holding LP. 02/23/2021 02/23/2021 $500,001 -
+Units (AB) [OL $1,000,000
+Fung Seamus Amended
+Location New York, NY, US
+Descrirnox Purchased 25,000 units in a global asset management firm providing investment management and
+research services worldwide to institutional, high-net-worth and retail investors.
+
+SP Microsoft Corporation (MSFP, 03/19/2021 03/19/2021 $1,000,001 - me
+[ST] $5,000,000
+Fung Sous New
+Descrirnox Exercised 150 call options (15,000 shares) expiring 3/19/2021 at a strike price of $130.
+SP Microsoft Corporation (MSFP, 03/19/202103/19/2021 $1,000,001 - ec
+[st] $5,000,000
+
+Fung Sexrus New
+

@@ -1,0 +1,60 @@
+Filing ID #20019637
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Blake Moore
+Status: Member
+State/District:UTO1
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+‘Wynn Resorts, Limited (WYNN)S 10/13/202110/13/2021 $1,001-$15,000g ,
+[or
+
+FuunoSerus New
+SumniauenicOr: Iron Gate GA Brokerage Portfolio
+Descrurnios WYNN Oct 15 21 100.0 PUT Not part of a compensation package or held as an ESOP
+
+‘Wynn Resorts, Limited (WYNN)S 10/13/202110/14/2021 $1,001- $15,000.
+[OP]
+
+FuunoSers New
+
+SumniauncOr: Iron Gate GA Brokerage Portfolio
+
+Descrurnos WYNN Dec 17 21 105.0 PUT Not part of a compensation package or held as an ESOP
+
+‘Wynn Resorts, Limited (WYNN)P 10/13/202110/14/2021 $1,001-$15,000g
+(OP)
+
+FuunoSerus New
+
+SumniauenicOr: Iron Gate GA Brokerage Portfolio
+
+Descrurnios WYNN Dec 17 21 100.0 PUT Not part of a compensation package or held as an ESOP
+
+‘Wynn Resorts, Limited (WYNN)P 10/13/202110/14/2021 $1,001- $15,000.
+[OP]
+
+FuunoSers New
+SumniauncOr: Iron Gate GA Brokerage Portfolio
+Descrurnox WYNN Oct 15 21 105.0 PUT Not part of a compensation package or held as an ESOP
+
+* For the complete list of asset type abbreviations, please visit https,/fd house. gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+© Iron Gate GA Brokerage Portfolio
+

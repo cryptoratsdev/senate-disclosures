@@ -1,0 +1,54 @@
+Filing ID #20018999
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Felix Barry Moore
+Status: Member
+State/District:AL02
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+ADA [07] P 05/11/202105/11/2021 $1,001-$15,000 g -
+
+Fung Sexrus New
+Location US
+Descntrnon Crypto
+
+ADA (OT) P 05/13/202105/13/2021 $1,001 - $15,000
+
+Fung Sus New
+Location US
+Descntrnon Crypto
+
+ADA (OT) P 05/10/2021 05/10/2021 $1,001 - $15,000
+
+Fung Sexrus New
+Location US
+Descntrnon Crypto
+
+DOgE [OT P 06/13/2021 06/13/2021 $1,001 - $15,000
+
+Fung Sus New
+Location US
+Descntrnon Crypto
+
+Etherium (OT) P 05/05/2021 05/05/2021 $1,001 - $15,000
+
+Fung Sexrus New
+Location US
+Descrurnox cryto currency
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+

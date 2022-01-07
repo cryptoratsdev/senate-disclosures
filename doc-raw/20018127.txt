@@ -1,0 +1,79 @@
+PerioDic
+
+ 
+
+tranSaction
+
+Filing ID #20018127
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+
+transactions
+
+iD owner asset
+
+Apple Inc. (AAPL) [ST]
+
+Fung Sexrus New
+
+‘SonnioungOr: Brokerage Account
+
+PayPal Holdings, Inc. (PYPL) [SP]
+
+Fung Sus New
+
+SumnianigOr Brokerage Account
+
+PayPal Holdings, Inc. (PYPL) [08
+
+Fung Sexrus New
+
+‘SunniouixgOr: Brokerage Account
+Descrurnox Call option, $247.50, Exp. 2/5/21
+
+transaction Date
+
+01/15/202102/08/2021
+
+01/28/2021 02/01/2021
+
+01/28/2021 02/01/2021
+
+notification amount cap.
+
+gains >
+$200?
+
+$100,001 - ec
+
+$250,000
+
+$100,001 - a
+
+$250,000
+
+$1,001-$15,000
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
+© Brokerage Account
+Locsriess US
+
+initial Public Offerings
+
+Yes No
+
+Certification anD Signature
+

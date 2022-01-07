@@ -1,0 +1,55 @@
+Filing ID #20018292
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District:VA08
+
+transactions
+
+iD owner asset transaction Date _notificationamount —_—_cap.
+type Date gains >
+$200?
+JT AIA group, Ltd. Ordinary Share? 02/08/2021 02/27/2021 $1,001-$15,000g
+(AAIgF) [ST)
+Fung Searus New
+SunnotoingOr Stocks, Bonds, & Mutual Funds
+
+Descntrnom 350 units AIA group Ltd
+
+JT BLE FedFund TDDXX[CS]_S 02/08/2021 02/27/2021 $1,001-$15,000  ,
+
+Fung Sous New
+SonnioupneOr: Stocks, Bonds, & Mutual Funds
+Descrtrnox sweep sale of Blackrock Liq FDS Fedfund
+
+JT BLE FedFund TDDXX[CS]_ P 02/19/2021 02/27/2021 $1,001-$15,000  ,
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descntrniom sweep purchase of Blackrock Liq FDS Fedfund
+
+JT BLE FedFund TDDXX[CS]_S 02/03/2021 02/27/2021 $1,001-$15,000 ,
+
+Fung Sous New
+SonnioupneOr: Stocks, Bonds, & Mutual Funds
+Descrtrnox sweep sale of Blackrock Liq FDS Fedfund
+
+JT BLE FedFund TDDXX[CS]_ P 02/26/2021 02/27/2021 $1,001-$15,000  ,
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descntrniom sweep purchase of Blackrock Liq FDS Fedfund
+
+JT BLE FedFund TDDXX[CS]_S 02/02/2021 02/27/2021 $1,001-$15,000  ,
+

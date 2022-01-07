@@ -1,0 +1,58 @@
+Filing ID #2001910
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+
+State/District:VA08
+
+‘TrANSACTIONS
+
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+
+JT BLF FedFund TDDXX[CS. s 07/07/202107/18/2021 $1,001-$15,000
+
+FuunoSerus New
+SumnounnicOr Stocks, Bonds, & Mutual Funds
+Descrurnox sweep sale of Blackrock Lig FDS Fed
+
+JT BLE FedFund TDDXX[CS. s 07/02/2021 07/18/2021 $1,001-$15,000 ,
+
+FuunoSers New
+SumnaunncOr Stocks, Bonds, & Mutual Funds
+Descrurnox sweep sale of Blackrock Lig FDS Fed
+
+JT BLF FedFund TDDXX[CS. s 07/15/202107/18/2021 $1,001-$15,000 ,
+
+FuunoSerus New
+SumnounnicOr Stocks, Bonds, & Mutual Funds
+Descrurnox sweep sale of Blackrock Lig FDS Fed
+
+JT BLE FedFund TDDXX[CS. s 07/21/202107/25/2021 $1,001-$15,000
+
+FuunoSers New
+SumnaunncOr Stocks, Bonds, & Mutual Funds
+Descrtrnox Sweep sale Blackrock Liq FDS Fed
+
+JT _Intellia Therapeutics, Inc. (NTLAS 07/21/202107/25/2021 $1,001-$15,000
+[ST]
+FuunoSerus New
+
+SumnounnicOr Stocks, Bonds, & Mutual Funds
+Descrtrnom sale 65 units Intellia Therapeutics
+
+JT NextEra Energy, Inc. (NEE) [STS 07/21/202107/25/2021 $15,001 - =
+

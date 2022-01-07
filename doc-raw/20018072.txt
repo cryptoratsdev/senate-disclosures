@@ -1,0 +1,78 @@
+ 
+
+PerioDic t ranSaction YT ePort
+
+Filing ID #20018072
+
+ 
+
+Clerk of the house of Representatives + legislative Resource Center * 135 Cannon building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Deborah K. Ross
+Status: Member
+State/District:NC02
+
+transactions
+
+iD owner asset
+SP Materials Select Sector SPDR
+(Xb) [ST]
+Fung Seamus: New
+Susnowing Or: Fidelity IRA 2
+
+SP Oracle Corporation (ORCI) (ST!
+
+Fung Scxrus: New
+Sunoting Or Fidelity Roth IRA.
+
+SP SPDR S&P 500 (SPY) [ST
+
+Fung Seamus: New
+Susnowing Or: Fidelity IRA 2
+
+SP SPDR Select Sector Fund -
+Financial (XIF) (ST)
+
+Fung Scxrus: New
+Snowing Or Fidelity IRA 2
+
+transaction Date
+type
+
+P
+
+P
+
+P
+
+P
+
+notification amount cap.
+Date gains >
+$200?
+
+01/04/2021 01/04/2021 $15,001 - ec
+$50,000
+
+01/04/2021 01/04/2021 $15,001 - a
+$50,000
+
+01/04/2021 01/04/2021 $50,001 - ec
+$100,000
+
+01/04/2021 01/04/2021 $15,001 - a
+$50,000
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
+  
+
+© Fidelity IRA 2 (Owner: SP)
+© Fidelity Roth IRA (Owner: SP)
+

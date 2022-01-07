@@ -1,0 +1,47 @@
+ 
+
+PerioDic t ranSaction YT ePort
+
+Filing ID #20018000
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+transactions
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+SP Alibaba group Holding Limited S 12/28/2020 01/09/2021 $669.27 ec
+American Depositary Shares each
+representing eight Ordinary share
+(BABA) (ST)
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP Fidelity National Information S (partial) 12/23/2020 01/09/2021 $268.96 a
+Services, Inc. (FIS) [ST]
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP Fidelity National Information S (partial) _ 12/23/2020 01/09/2021 $134.47 ec
+Services, Inc. (FIS) [ST
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP Juniper Industrial Holdings, IncP 01/08/2021 01/09/2021 $45.46 a
+Class A QIH) [ST]
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP Zimmer Biomet Holdings [C'S] S (partial) 12/31/2020 01/09/2021 $1,001 - $15,000
+
+Fiung Seamus: New
+‘Sunnio.pins Or: Neuberger Berman - Beneficiary IRA
+Descrurnos This was a call of a bond. Maturity date is 3/19/21
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+

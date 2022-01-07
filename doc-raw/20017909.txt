@@ -1,0 +1,47 @@
+Filing ID #20017909
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Donald Sternoff Honorable Beyer Jr
+Status: Member
+State/District:VA08
+‘TraNsACTIONS
+ID Owner Asset TransactionDate _—NotificationAmount —Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPL) (ST! s 12/16/2020 12/23/2020 $1,001-$15,000 . ,
+Fung Searus New
+SunnotoisgOr Stocks, Bonds, & Mutual Funds
+Descrumon sale of 10 units Apple Inc. common
+JT BLFFedFund TDDXX[CS] P 12/16/2020 12/23/2020 $1,001-$15,000g <
+Fung Srarus New
+SunnotoigOr Stocks, Bonds, & Mutual Funds
+Descrumos Sweep purchase Blackrock Liq FDS FedFund
+J? BLFFedFund TDDXX[CS]_P 12/23/2020 01/01/2021 $1,001-$15,000 . ,
+Fung Searus New
+SunnotoisgOr Stocks, Bonds, & Mutual Funds
+Descrummos Sweep purchase Blackrock Liq FDS Fed Fund
+JT. BLFFedFund TDDXX[CS] S$ 12/07/2020 12/23/2020 $1,001- $15,000 g
+Fung Srarus New
+SunnotoigOr Stocks, Bonds, & Mutual Funds
+Descrummos Sweep sale Blackrock Liq FDS FedFund
+JT. BLFFedFund TDDXX[CS] S$ 12/14/2020 12/23/2020 $15,001 - ec
+
+$50,000
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descrurnos Sweep sale Blackrock Liq FDS FedFund
+
+JT BLE FedFund TDDXX[CS]_S 12/15/2020 12/23/2020 $1,001-$15,000 ,
+
