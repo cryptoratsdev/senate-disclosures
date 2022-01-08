@@ -1,0 +1,56 @@
+Filing Id #20017471
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer information
+
+name: Hon. James E. Banks
+Status: Member
+State/District:INO3
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+Ford Motor Company (F) [ST] P 09/01/2020 09/03/2020 $1,001 - $15,000
+
+ex
+Fung Seamus: New
+Sentiouing Or: Schwab IRA
+
+Ford Motor Company (F) [ST] S 09/03/2020 09/08/2020 $1,001 - $15,000
+
+Furng Scxrus: New
+Sunnoutng Or: Schwab IRA
+
+Kroger Company (KR) [ST] P 09/01/2020 09/03/2020 $1,001 - $15,000
+
+Fung Seamus: New
+Sentiouing Or: Schwab IRA
+
+Kroger Company (KR) [ST] (partial) 09/01/2020 09/03/2020 $1,001 - $15,000
+
+Furng Scxrus: New
+Sunnoutng Or: Schwab IRA
+
+Kroger Company (KR) [ST] 09/02/2020 09/04/2020 $1,001 - $15,000
+
+Fung Seamus: New
+Sentiouing Or: Schwab IRA
+
+Kroger Company (KR) [ST] P 09/03/2020 09/08/2020 $1,001 - $15,000
+
+Furng Scxrus: New
+Sunnoutng Or: Schwab IRA
+
+Patient Access Solutions Inc. P 09/02/2020 09/04/2020 $1,001 - $15,000
+(PASO) [ST
+

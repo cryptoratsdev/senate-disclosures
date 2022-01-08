@@ -1,0 +1,57 @@
+Filing ID #20005456
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+‘TraNsAcTIONS
+
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+
+SP _BHP Billiton plc Sponsored ADR (BBB) 06/15/2016 06/17/2016 $1,001 - $15,000
+
+FuunoSerus New
+‘SonnioumcOr SP E62 (Edward Jones)
+
+SP _BHP Billiton plc Sponsored ADR (BBB) 06/15/2016 06/17/2016 $1,001 - $15,000
+
+FuunoSers New
+‘SonniouuxcOr: SP E02 (Edward Jones)
+
+SP GOLDMAN SACHS CAPITAL II - VAR% 06/10/2016 06/13/2016 $15,001 - $50,000
+PERPETUAL CALLABLE-MAY AFFECT
+YIEL
+FuunoSerus New
+SomnienicOr Trust M69 (Merrill Lynch)
+Descntrniom GOLDMAN SACHS CAPITAL Il - VAR% PERPETUAL CALLABLE-MAY AFFECT YIEL
+
+SP GOLDMAN SACHS CAPITAL Il - VAR% 06/13/2016 06/15/2016 $15,001 - $50,000
+PERPETUAL CALLABLE-MAY AFFECT
+YIEL
+FuunoSers New
+Sumniau.ncOr: SP M36 (Merrill Lynch)
+Descntrniom GOLDMAN SACHS CAPITAL Il - VAR% PERPETUAL CALLABLE-MAY AFFECT YIEL
+
+SP Home Depot, Inc. (HD) s 06/14/2016 06/16/2016 $1,001 - $15,000
+FuunoSerus New
+SonmniouicOr: SP M81 (Merrill Lynch)
+
+SP SP500 CLIRN ISSUER BAC CAP 14.34% 06/10/2016 06/13/2016 $100,001 - $250,000
+
+SV 1,987.66 DUE 08/25/17 BUF 10%
+
+FuunoSerus New
+

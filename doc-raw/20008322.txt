@@ -1,0 +1,75 @@
+ 
+
+Filing ID #20008322
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name:
+
+Status:
+
+Hon. Carolyn B. Maloney
+Member
+
+State/District:NY12
+
+transactions
+
+iD
+
+initial
+
+Yes
+
+Public
+No
+
+owner asset transaction Date _notification amount
+
+type Date
+
+NEW ROCHELLE NY PUB IMPT G/OP 09/27/2017 10/18/2017 $15,001 - $50,000
+
+LTD B/E
+
+FuunoSerus New
+
+Descntrnos NEW ROCHELLE NY PUB IMPT G/O LTD B/E, COUPON 3.00%, DUE 04-01-1932, CUSIP 6485165M0
+
+NEW YORK NY CITY HSG DEV CORP 09/8/2017 10/18/2017 $15,001 - $50,000
+
+MLTI FAMILY HSG REV SER J B/E.
+
+FuunoSers New
+
+Descntrnos NEW YORK NY CITY HSG DEV CORP MLTI FAMILY HSG REV SER J B/E, COUPON 4.25%, DUE 11-01
+2024, CUSIP 64970M4L4
+
+NEW YORK NY SER G G/O UNLTD BSE 09/11/201710/18/2017 $1,001 - $15,000
+
+OID
+
+FuunoSerus New
+
+Descntrnos REDEMPTION OF NEW YORK NY SER G G/O UNLTD B/E OID, COUPON 4.50%, DUE 08-01-2027, CUSIP
+64966GF49
+
+NY DORM AUTH REVS NON STP 09/7/2017 10/18/2017 $15,001 - $50,000
+SPPRTD DEBT 2009 RFDG
+
+ROCKEFELLER UNI SR A B/E
+
+FuunoSers New
+
+Descntrnos NY DORM AUTH REVS NON ST SPPRTD DEBT 2009 RFDG ROCKEFELLER UNI SR A B/E, COUPON
+5.00%, DUE 07-01-2024, CUSIP 649905AY2
+
+Offerings
+

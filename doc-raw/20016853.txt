@@ -1,0 +1,46 @@
+Filing ID #20016853
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+ 
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+SP Sunnun Inc. (RuN) [ST) S (partial) 06/18/2020 06/25/2020 $80.01 ec
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP Sunnun Inc. (RuN) [ST) S (partial) 06/19/2020 06/26/2020 $121.25 a
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP Sunrun Inc. (RuN) [S' S (partial) 06/19/2020 06/26/2020 $20.20 ec
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP Vivint Solar, Inc. (VSLR) [ST] (partial) 06/19/2020 06/26/2020 $60.78 a
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP Vivint Solar, Inc. (VSLR) [ST] (partial) 06/18/2020 06/25/2020 $30.01 ec
+
+Fiung Seamus: New
+‘Scotio.pinsOr: Neuberger Berman - Beneficiary IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+asset Class Details
+
+© Neuberger Berman - Beneficiary IRA (Owner: SP)
+

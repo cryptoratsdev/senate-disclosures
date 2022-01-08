@@ -1,0 +1,54 @@
+Filing ID #20008779
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+SP Ares Cap Corp Note P 01/11/201801/19/2018 $15,001 - $50,000
+
+Fiung Seamus: New
+‘ScntiotpingOr: Neuberger Berman - Traditional IRA
+Descrirnox Maturity date is 1/15/2020, % interest rate is 2.983%.
+
+SP Autodesk, Inc. (ADSK) s 01/9/2018 01/17/2018 $1,001 - $15,000
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP BioMarin Pharmaceutical Inc. (BMRIR) 01/17/2018 01/21/2018 $1,001 - $15,000
+
+Fiung Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP BioMarin Pharmaceutical Inc. (BMRIR) 01/18/2018 01/21/2018 $1,001 - $15,000
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP Constellation Brands Inc Note P 01/12/2018 01/21/2018 $15,001 - $50,000
+
+Fiung Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+Descrurnox Maturity date is 5/01/2022, interest rate is 3.038%.
+
+SP CVS Health Corp Note P 01/12/2018 01/21/2018 $15,001 - $50,000
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+Descrurnom Maturity date is 7/20/2020, interest rate is 2.8%.
+
+SP HCA Inesr Secd P 01/17/2018 01/21/2018 $1,001 - $15,000
+

@@ -1,0 +1,50 @@
+Filing ID #20004999
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. E. Scott Rigell
+Status: Member
+State/District:Va02
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+SP abbVie Inc. (@BBV) P 03/3/2016 03/31/2016 $15,001 - $50,000
+
+Furxg Starus: New
+Descrirtiex Bought 450 shares of aBBV
+
+SP altria group, Inc. (Mo) P 03/8/2016 03/31/2016 $15,001 - $50,000
+Fung Stores: New
+Descrurniex Bought 407 shares of Mo
+
+SP Carnival Corporation (CCl) P 03/8/2016 03/31/2016 $15,001 - $50,000
+Fung Storvs: New
+Descrurniex Bought 930 shares of CCl
+
+SP Celgene Corporation (CElg) P 03/8/2016 03/31/2016 $15,001 - $50,000
+Fung Stores: New
+Descrirniex Bought 242 shares of CElg
+
+SP Chevron Corporation (CVX) P 03/8/2016 03/31/2016 $15,001 - $50,000
+Fung Storvs: New
+Descrurniex Bought 287 shares of CVX
+
+SP Citizens Financial group, Inc. (CFg) P 03/8/2016 03/31/2016 $15,001 - $50,000
+Fung Stores: New
+Descrurniex Bought 1,169 shares of CFg
+
+SP Citizens Financial group, Inc. (CF) $ 03/10/2016 03/31/2016 $15,001 - $50,000
+
+Furxg Starus: New
+Descntrriox Sold 1,169 shares of CFg
+

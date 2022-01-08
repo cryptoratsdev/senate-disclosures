@@ -1,0 +1,51 @@
+Filing Id #20005351
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Carlos Curbelo
+Status: Member
+State/District:FL26
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+
+SP activision Blizzard, Inc (aTVI) s 05/25/2016 06/16/2016 $1,001 - $15,000
+Fiung Sonus New
+Sonna.ang Or UBS Brokerage account
+
+SP aetna Inc. (@ET) P 05/25/2016 06/16/2016 $1,001 - $15,000
+Fung Sonus New
+Sonnaanng Ov UBS Brokerage account
+
+SP alphabet Inc. -Class a (googL) 05/25/2016 06/16/2016 $1,001 - $15,000
+Fiung Sonus New
+Sonna.ang Or UBS Brokerage account
+
+SP ameriprise Financial, Inc. (aMP) 05/25/2016 06/16/2016 $1,001 - $15,000
+Fung Sonus New
+Sonnaanng Ov UBS Brokerage account
+
+SP apple Inc. (aaPL) s 05/25/2016 06/17/2016 $1,001 - $15,000
+Fiung Sonus New
+Sonna.ang Or UBS Brokerage account
+
+SP Boeing Company (Ba) s 05/25/2016 06/16/2016 $1,001 - $15,000
+Fung Sonus New
+Sonnaanng Ov UBS Brokerage account
+
+SP Comcast Corporation - Class a (CMCBa) 05/25/2016 06/16/2016 $1,001 - $15,000
+
+Fung Sterus New
+‘Soonia.any Or UBS Brokerage account
+

@@ -1,0 +1,68 @@
+Filing ID #20006438
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. David A. Trott
+Status: Member
+State/District:MI1 1
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+Energy Transfer Partners, L.P. ENERGY 12/1/2016 12/2/2016 $1,001 - $15,000
+
+TRANSFER PARNTERS (ETP)
+
+FuunoSerus New
+Sonmtia.nicor Revocable Living Trusts > The David A, Trott Revocable Trust UTA DTD 6/11/93 (100% interpst) >
+Goldman Sachs & Co. Brokerage Account
+
+Descntrmiox Publicly Traded Master Limited Partnership Interest
+
+EQT Midstream Partners, LP CommoR 12/1/2016 12/2/2016 $15,001 - $50,000
+Units representing Limited Partner
+
+Interests (EQM)
+
+FurnoSrarus New
+
+Sunnaoioor Revocable Living Trusts > The David A. Trott Revocable Trust UTA DTD 6/11/93 (100% interest) >
+Goldman Sachs & Co. Brokerage Account
+
+Descrurmon Publicly Traded Master Limited Partnership Interest
+
+JPMoRGAN CHASE & Co. LINKED TP 12/28/2016 12/29/2016 $250,001 - $500,000
+‘S&P 500 INDEX BUFFERED CAPPED
+
+BETA 0% STRUCTURED NoTE DUE
+
+10/03/2018
+
+FuunoSerus New
+‘Soon piscor Appendix A - NTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Descntrriox Structured Note
+
+MoRGAN STANLEY FINANCE LLC P 12/9/2016 12/10/2016 $100,001 - $250,000
+LINKED To BASKET oF INDICES
+
+UPSIDE LEVERED CAPPED W BUFFER
+
+0% STRUCTURED NoTE DUE
+
+12/13/2018
+
+FuunoSers New
+‘Soonia.piscor Appendix B - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+

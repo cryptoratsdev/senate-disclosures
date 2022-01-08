@@ -1,0 +1,46 @@
+Filing ID #20011036
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+ 
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+SP Dover Corporation (DOV) [ST] S (partial) 12/26/2018 01/18/2019 $67.61 ec
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP Dover Corporation (DOV) [ST] S (partial) 12/26/2018 01/18/2019 $202.85 =
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP Home Depot, Inc. (HD) [: P 12/31/2018 01/18/2019 $686.21 ec
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP Sunnun Inc. (RuN) [ST) P 12/24/2018 01/18/2019 $72.80 =
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP Sunnun Inc. (RuN) [ST) P 12/26/2018 01/18/2019 $21.32 ec
+
+Fiung Seamus: New
+‘Scotio.pinsOr: Neuberger Berman - Beneficiary IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+asset Class Details
+
+© Neuberger Berman - Beneficiary IRA (Owner: SP)
+

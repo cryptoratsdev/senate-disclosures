@@ -1,0 +1,58 @@
+Filing ID #2016961
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Nancy Pelosi
+
+Status: Member
+
+State/District:CA12
+
+‘TraNsACTIONS
+
+1D Owner Asset TransactionDate _—NotificationAmount —Cap.
+Type Date Gains >
+
+$200?
+2000060675 SP Amazon.com, Inc. (AMZN) S 01/16/2020 01/16/2020 $250,001 - ec
+[or $500,000
+
+Furxg Scxnus: Amended
+Descrurnox Sold 20 call options with a strike price of $1,700 and an expiration date of 1/17/20.
+
+2000060676 SP Amazon.com, Inc. (AMZN) S 01/16/2020 01/16/2020 $250,001 - ec
+[oP $500,000
+Fung Seanus: Amended
+Descrtrnox Sold 20 call options with a strike price of $1,600 and an expiration date of 1/17/20.
+SP American Express Company P 06/24/2020 06/24/2020 $100,001 - ec
+(AXP) [OP $250,000
+
+Funny Seamus: New
+Descrirnox Purchased 50 call options with a strike price of $80 and an expiration date of 1/21/2022.
+
+SP Apple Inc. (API) [OP s 06/18/2020 06/18/2020 $1,000,001 -
+
+ 
+
+$5,000,000 es
+Fang Seamus: New
+Descruvnox Sold 100 call options with a strike price of $145 and an expiration date of 6/19/2020,
+SP Netflix, Inc. (NFIX) [ST] P 06/18/2020 06/18/2020 $1,000,001 - -
+$5,000,000
+Fang Seamus: New
+Descrarno Exercised 50 call options (5,000 shares) expiring 6/19/2020 at a strike price of $250.
+SP PayPal Holdings, Inc. (PYPI) P 06/12/2020 06/12/2020 $500,001 - ee
+(st) $1,000,000
+
+Fung Sexrus: New
+

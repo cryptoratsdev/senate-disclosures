@@ -1,0 +1,64 @@
+PerioDic t ranSaction
+
+ 
+
+Filing ID #20017879
+
+Yr ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Bradley S. Schneider
+Status: Member
+State/District:IL10
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+2000073038 SP Alliant Holdings, LP [PS] (partial) 12/09/2020 12/10/2020 $500,001 -
+$1,060,000
+Fung Sexrus Amended
+Scnsio.engOr 25-S Other Individual Investments Spouse
+Location US
+
+Descrirniox Partial sale back to company of shares of stock
+
+2000073346 JT © Trupanion, Inc. (TRUP) [STS (partial) 12/17/2020 12/17/2020 $100,001 -
+
+Fiuxg Scrus Amended
+‘SonnoupneOr 25-JT Other Individual Investments Joint
+
+$250,000
+
+2000073039 JT —Trupanion, Inc. (TRUP) [STS (partial) _ 08/12/2020 08/12/2020 $250,001 -
+
+Fung Sexrus Amended
+‘SopnoupngOr 25-JT Other Individual Investments Joint
+
+$500,000
+
+cap.
+gains >
+$200?
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+© 25JT Other Individual Investments Joint (Owner: JT)
+Loexriens US
+
+© 25-S Other Individual Investments Spouse (Owner: SP)
+Locariont US
+
+initial Public Offerings
+
+Yes No
+

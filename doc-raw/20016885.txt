@@ -1,0 +1,57 @@
+Filing ID #2016885,
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+
+State/District:VA08
+
+‘TrANSACTIONS
+
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+
+JT ASML Holding N.V. - New YorkP 06/24/2020 07/03/2020 $1,001 - $15,000
+Registry Shares (ASML) [ST’
+Fung Searus New
+SunnotoisgOr Stocks, Bonds, & Mutual Funds
+Descrimmox 10 units ASML Holdings NV
+
+ex
+
+JT BLF FedFund TDDXX[CS] 06/02/2020 07/03/2020 $15,001 -
+$50,000
+Fung Sous New
+SonnioupngOr Stocks, Bonds, & Mutual Funds
+Descntriom sweep sale Blackrock Liq FDS FedFund-In
+
+JT BLF FedFund TDDXX[CS] P 06/24/2020 07/03/2020 $1,001 - $15,000
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descntrnom sweep purchase Blackrock Lig FDS FedFund-In
+
+JT BLF FedFund TDDXX[CS]  P 06/01/2020 07/03/2020 $50,001 ~
+$100,000
+Fung Sous New
+SonnioupnsOr Stocks, Bonds, & Mutual Funds
+Descrurnox sweep purchase Blackrock Liq FDS FedFund-In
+
+JT FLIR Systems, Inc. (FLIR) (ST) S 06/24/2020 07/03/2020 $1,001 - $15,000
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descntrniom sale of 150 units Fir Systems Inc.
+

@@ -1,0 +1,58 @@
+Filing ID #20009119
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. Judy Chu
+Status: Member
+State/District:Ca27
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+SPX MaR 16 2150 PUT P 02/5/2018 02/5/2018 $1,001 - $15,000
+Fiung Sorus New
+Somsiotoing om TD ameritrade Investment account
+Locson: US
+Descrurmion PUT
+SPX MaR 16 2350 PUT P 02/5/2018 02/5/2018 $1,001 - $15,000
+
+Fung Starus New
+Sobotpixg Or TD ameritrade Investment account
+Lecanto: US
+
+Descntrrion PUT
+
+TLT FEb 16 118 PUT P 02/14/2018 02/14/2018 $1,001 - $15,000
+Fiting Srorus New
+
+Sobtoupixg Or TD ameritrade Investment account
+
+Locemtws: US
+
+Descntrvion PUT
+
+TLT FEb 16 188 PUT s 02/2/2018 02/2/2018 $1,001 - $15,000
+
+Fung Starus New
+Sobotpixg Or TD ameritrade Investment account
+Lecanto: US
+
+Descntrrion PUT
+
+TLT FEb 2 120 PUT P 02/2/2018 02/2/2018 $15,001 - $50,000
+Fiting Srorus New
+
+Sobtoupixg Or TD ameritrade Investment account
+
+Locemtws: US
+
+Descntrvion PUT
+

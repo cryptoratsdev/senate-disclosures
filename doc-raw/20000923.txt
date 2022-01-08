@@ -1,0 +1,51 @@
+Filing ID #20000923
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the house of Representatives + Legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Ms. Tammy Duckworth
+Status: Member
+State/District:IL08
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+JT abbVie Inc. (@BBV) P 01/2/2013 02/5/2013 $1,001 - $15,000
+
+Fung Sterus New
+Sontotping 0 Brokerage #1 - EDJ 2718
+
+JT archer-Daniels-Midland Company S$ 04/5/2013 05/5/2013 $1,001 - $15,000
+(aDM)
+Fung Starus New
+Sontotping OF Brokerage #1 - EDJ 2718
+
+JT Carnival Corporation (CCL) s 02/13/201304/5/2013 $1,001 - $15,000
+Fiting Srorus New
+Sontotping OF Brokerage #2 USaa 8425
+
+JT Caterpillar, Inc. (CaT) P 07/26/2012 10/5/2012 $1,001 - $15,000
+Fung Srorus New
+‘Sontotping OF Brokerage #2 USaa 8425
+
+JT Cisco Systems, Inc. (CSCo) s 07/12/2013 08/5/2013 $1,001 - $15,000
+Fiting Srorus New
+Sontotping 0 Brokerage #1 - EDJ 2718
+
+JT Cisco Systems, Inc. (CSCo) s 02/26/2013 04/5/2013 $1,001 - $15,000
+Fung Srorus New
+‘Sontotping OF Brokerage #2 USaa 8425
+
+JT Cisco Systems, Inc. (CSCo) s 02/26/2013 04/5/2013 $1,001 - $15,000
+
+Fung Sterus New
+Sontotping OF Brokerage #2 USaa 8425
+

@@ -1,0 +1,64 @@
+ 
+
+PerloDIic TrANSAcTION FY ePOrT
+
+Filing Id #20003799
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Vern Buchanan
+Status: Member
+State/District:FL16
+
+‘TraNsAcTIONS
+
+ID Owner Asset
+
+gTRaZ dev auth Infr 4.0%
+Fung Sterus New
+
+Sumtio.atng O” BNY Mellon 5000
+Hith Care auth For Bap 5.0%
+Fung Stars New
+
+‘Sonriang Or BNY Mellon 5000
+Keller TX Indep Sch 5%
+
+Fung Sterus New
+
+Sumtio.atng O” BNY Mellon 5000
+Kentucky asset / Liab 5.25%
+Fung Srorus New
+
+‘Sonriang Or BNY Mellon 5000
+Kentucky ST asset / Liab 5.0%
+Fiting Srorus New
+
+Sumtio.atng O” BNY Mellon 5000
+Metropolitan Transn 5.25%
+Fung Stars New
+
+‘Sonriang Or BNY Mellon 5000
+Palm Beach Cnty Fl Sch 5%
+
+Fung Sterus New
+Sumtio.atng O” BNY Mellon 5000
+
+TransactionDate _NotificationAmount
+
+Type Date
+
+s 08/21/2015 09/10/2015 $100,001 - $250,000
+s 08/12/2015 09/10/2015 $100,001 - $250,000
+P 08/24/2015 09/10/2015 $100,001 - $250,000
+s 08/18/2015 09/10/2015 $100,001 - $250,000
+s 08/21/2015 09/10/2015 $50,001 - $100,000
+s 08/21/2015 09/10/2015 $15,001 - $50,000
+s 08/3/2015 09/10/2015 $15,001 - $50,000
+

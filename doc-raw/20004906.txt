@@ -1,0 +1,51 @@
+Filing Id #20004906
+
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer information
+
+name: Hon. Lou Barletta
+Status: Member
+State/District:PA11
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+SP Alerian MLP ETF (AMLP) s 12/9/2015 12/9/2015 $1,001 - $15,000
+Fung Searus New
+SunniouangOr Ameriprise Financial IRA 5494
+Berkshire Hathaway Inc. New (BRK.B) 09/22/2015 09/22/2015 $1,001 - $15,000
+
+Fung Sus New
+‘SonniovaiwsOr: Ameriprise Financial IRA 3851
+
+SP First Trust NASdAQ Technology P 01/27/201501/27/2015 $1,001 - $15,000
+dividend Index Fund (TdlV)
+Fung Sexrus New
+‘SooniovainsOr: Ameriprise Financial IRA 5494
+First Trust NASGAQ Technology — P. 01/27/201501/27/2015 $1,001 - $15,000
+dividend Index Fund (TdIV)
+Fung Sus New
+‘SonniovaiwsOr: Ameriprise Financial IRA 3851
+
+JT First Trust NASAAQ Technology —P. 01/27/201501/27/2015 $1,001 - $15,000
+dividend Index Fund (TdlV)
+Fung Sexrus New
+‘SooniovangOr: Ameriprise Financial 9039
+iShares global Telecom ETF (IXP) S 06/30/2015 06/30/2015 $1,001 - $15,000
+Fung Seamus New
+
+‘SonniovaiwsOr: Ameriprise Financial IRA 3851
+
+JT iShares Morningstar Multi-Asset Incdme 03/30/2015 03/30/2015 $15,001 - $50,000
+ETF (IVLd)
+

@@ -1,0 +1,51 @@
+Filing ID #2005221
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Carolyn B. Maloney
+Status: Member
+State/District:NY12
+
+ 
+
+ 
+
+ 
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+METRO TRaNs auTH N.Y. DED TaX P 03/24/2016 03/31/2016 $15,001 - $50,000
+FuND uNFuNDED Bal sER a
+Funyg stones: New
+METRO TRaNs auTH N.Y. REV sER P 04/5/2016 04/30/2016 $15,001 - $50,000
+Fanyg stones: New
+METRO TRaNs auTH N.Y. REV P 04/26/2016 04/30/2016 $15,001 - $50,000
+uNFUNDED Bal sER B
+Funyg stones: New
+METRO TRaNs auTH N.Y. REV. sER a P 04/11/2016 04/30/2016 $15,001 - $50,000
+Fanyg stones: New
+METRO TRaNs auTH N.Y. sER B REP 03/10/2016 03/31/2016 $1,001 - $15,000
+BOND
+Funyg stones: New
+NEW YORK sT DORM auTH RVs NOR 03/17/2016 03/31/2016 $15,001 - $50,000
+sTaTE suPPORTED DEBT MEM
+slOaN OID BOND
+Fanyg stones: New
+NEW YORK sT. TWY auTH gEN REVP 03/2/2016 03/31/2016 $15,001 - $50,000
+RFDg BOND
+Funyg stones: New
+NEW YORK sTaTE ENVIRONMENTeP 03/4/2016 03/31/2016 $15,001 - $50,000
+
+FaCs sT CIEaN WaTER & DRINKINg
+

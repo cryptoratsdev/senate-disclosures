@@ -1,0 +1,56 @@
+Filing ID #20003085
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Raul M. Grijalva
+Status: Member
+State/District:aZ03
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+sP General Dynamics Corporation (GD) P 04/10/2015 05/14/2015 $1,001 - $15,000
+
+Furno Stare: New
+
+sP_ KKR& Co. LP. Common units P 04/10/2015 05/14/2015 $1,001 - $15,000
+Representing limited Partnership
+Interest (KKR)
+
+Funna Stare: New
+
+sP__ KKR & Co. LP. Common units s 04/28/2015 05/14/2015 $1,001 - $15,000
+Representing limited Partnership
+Interest (KKR)
+
+Furno Stare: New
+
+sP Mylan N.V. (MY1) s 04/10/2015 05/14/2015 $1,001 - $15,000
+
+Funna Stare: New
+
+sP Oppenheimer Holdings, Inc. Class a P 04/10/2015 05/14/2015 $1,001 - $15,000
+Common stock (OPY)
+Furno Stare: New
+
+sP The Gabelli Healthcare & Wellness TPust 04/28/2015 05/14/2015 $1,001 - $15,000
+
+Common shares of Beneficial Interest
+(GRX)
+
+Funna Stare: New
+
+sP united Parcel service, Inc. (uPs) $s 04/10/2015 05/14/2015 $1,001 - $15,000
+
+Furno Stare: New
+

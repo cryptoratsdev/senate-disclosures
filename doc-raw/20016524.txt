@@ -1,0 +1,55 @@
+Filing ID #20016524
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _—notification amount —_—_cap.
+type Date gains >
+$200?
+SP Diamond Eagle Acquisition Corp. - 04/17/2020 04/24/2020 $33.59
+
+unit (DEACu) [ST
+
+Fiung Seamus: New
+‘Scotio.pinsOr: Neuberger Berman - Beneficiary IRA
+
+SP Diamond Eagle Acquisition Corp. - 04/20/2020 04/27/2020 $105.53
+unit (DEACu) [ST
+
+Fins Sexnus: New
+‘Suono.pingOr: Neuberger Berman - Beneficiary IRA
+
+SP Diamond Eagle Acquisition Corp. - 04/21/2020 04/28/2020 $52.83,
+unit (DEACu) [ST
+
+Fiung Seamus: New
+‘Scotio.pinsOr: Neuberger Berman - Beneficiary IRA
+
+SP _ProShares Short S&P500 (SH) $ (partial) 04/17/2020 04/24/2020 $223.14
+[ST]
+Fins Sexnus: New
+‘Suono.pingOr: Neuberger Berman - Beneficiary IRA
+
+SP The Blackstone group Inc. ClasPA 04/17/2020 04/24/2020 $146.65 ec
+(BX) [ST]
+Fiung Seamus: New
+‘Scotio.pinsOr: Neuberger Berman - Beneficiary IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+

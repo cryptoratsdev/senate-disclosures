@@ -1,0 +1,47 @@
+Filing ID #20005642
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Ed Whitfield
+Status: Member
+State/District:KYO1
+
+TraNsAcTIONS
+1D Owner Asset TransactionDate _NotificationAmount
+Type Date
+sP liberty Broadband Corporation - P 07/1/2014 07/1/2014 $1,001 - $15,000
+Class a (IBRDa)
+Funyg stones: New
+sP liberty Broadband Corporation - P 07/1/2014 07/1/2014 $1,001 - $15,000
+Class C (IBRDK)
+Fanyg stones: New
+2000016083 sP —_ liberty Broadband Corporation - s 02/22/2016 02/29/2016 $1,001 - $15,000
+Class C (IBRDK)
+Funyg srons: amended
+sP liberty global plc - Class a Ordinaiy 07/1/2014 07/1/2014 $1,001 - $15,000
+shares (Illa)
+Fanyg stones: New
+sP liberty Media Corporation - series 07/1/2014 07/1/2014 $1,001 - $15,000
+liberty Media (IMCa)
+Funyg stones: New
+2000016645 sP _ liberty Media Corporation - seriessC 03/11/201603/31/2016 $1,001 - $15,000
+(IMCK)
+Funny srone: amended
+2000016077sP —_liberty Media Corporation - seriessC 02/9/2016 02/29/2016 $1,001 - $15,000
+
+(IMCK)
+
+Fung Stone: amended
+
+sP _ liberty Media Corporation - seriesFC 07/1/2014 07/1/2014 $1,001 - $15,000
+

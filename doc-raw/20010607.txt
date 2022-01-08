@@ -1,0 +1,64 @@
+Filing ID #20010607
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. David A. Trott
+Status: Member
+State/District:MI1 1
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+BNP PARIBAS LINKED To S&P P 10/09/2018 10/10/2018 $50,001 - ec
+500 INDEX CNTNgNT CPN W $100,000
+
+BUFFER 0% STRUCTURED NoTE
+DUE 09/11/2020 [CS
+
+Fung Sexrus New
+
+‘Sopna.ixg 0% Appendix B - NOTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Trott Family Investment Company LLC
+Descntrriox Structured Note.
+
+BoFA FINANCE LLC LINKED TP 10/18/2018 10/19/2018 $100,001 - ec
+S&P 500 INDEX CNTNgNT CPN $250,000
+W BUFFER 0% STRUCTURED
+
+NoTE DUE 01/23/2020 [CS
+
+Fung Sus New
+‘Sonning or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Descntrmiox Structured Note
+
+CANADIAN IMPERIAL BANK ofS, 10/16/2018 10/17/2018 $250,001 - ec
+CoMM LINKED To S&P 500 $500,000
+
+INDEX BUFFERED CAPPED.
+
+BETA 0% STRUCTURED NoTE
+
+DUE 05/28/2020 [CS
+
+Fung Sexrus New
+‘Soon. ping 0% Appendix A - NTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Descntrriox Structured Note.
+
+CANADIAN IMPERIAL BANK ofP 10/18/2018 10/19/2018 $100,001 - ec
+CoMM LINKED To S&P 500 $250,000
+

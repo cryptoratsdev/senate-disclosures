@@ -1,0 +1,51 @@
+Filing ID #2001468
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Ms. Virginia Foxx
+Status: Member
+State/District:NCO5
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+
+JT aT&T Inc. (T) s 07/24/2014 07/24/2014 $15,001 - $50,000
+Funyg stones: New
+
+JT Caterpillar, Inc. (CaT) P 07/24/2014 07/24/2014 $15,001 - $50,000
+Fanyg stones: New
+
+JT Caterpillar, Inc. (CaT) P 07/30/2014 07/30/2014 $1,001 - $15,000
+Funyg stones: New
+
+JT FedEx Corporation (FDX) P 07/25/2014 07/25/2014 $15,001 - $50,000
+Fanyg stones: New
+
+JT PennantPark Investment Corporatio? 07/2/2014 07/2/2014 $1,001 - $15,000
+‘common stock (PNNT)
+Funyg stones: New
+
+JT Powershares High Yield Corporate Bond 07/21/2014 07/21/2014 $1,001 - $15,000
+Portfolio (PHB)
+Fanyg stones: New
+
+JT schwab Emerging Markets Equity EFF 07/21/2014 07/21/2014 $15,001 - $50,000
+(sCHE)
+Funyg stones: New
+
+JT schwab International Equity ETF P 07/21/2014 07/21/2014 $15,001 - $50,000
+(sCHF)
+
+Furng stares: New
+

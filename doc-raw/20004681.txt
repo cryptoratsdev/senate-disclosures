@@ -1,0 +1,51 @@
+Filing ID #20004681
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+‘TraNsAcTIONS
+
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+
+SP Ameriprise Financial, Inc. (AMP) —S. 01/28/2016 02/2/2016 $1,001 - $15,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP AT&T Inc. (T) s 02/17/2016 02/19/2016 $1,001 - $15,000
+Fung Searus New
+SursiouingOr. SP E62 (Edward Jones)
+
+SP Invesco Ltd (IVZ) P 02/17/2016 02/19/2016 $1,001 - $15,000
+Fung Searus New
+SomsiouningOr SP E62 (Edward Jones)
+
+SP Mattel, Inc. (MAT) s 02/26/2016 03/2/2016 $1,001 - $15,000
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Medtronic plc. Ordinary Shares (MDP) 01/28/2016 02/3/2016 $1,001 - $15,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP MetLife, Inc. (MET) P 02/26/2016 03/2/2016 $1,001 - $15,000
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Microsoft Corporation (MSFT). 02/17/2016 02/19/2016 $1,001 - $15,000
+
+Fung Sexrus New
+SobuotpnsOr SP E02 (Edward Jones)
+

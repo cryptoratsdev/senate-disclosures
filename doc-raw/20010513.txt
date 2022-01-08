@@ -1,0 +1,50 @@
+ 
+
+PerioDic t ranSaction YT ePort
+
+Filing ID #2010513
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+‘transactions
+iD owner asset transaction Date _notification amount
+type Date
+SP Equifax, Inc. (EFX) (ST) S (partial) —10/11/201810/17/2018 $120.44
+Fung Searas: New
+SuniounrngOr Neuberger Berman - Beneficiary IRA
+SP Equifax, Inc. (EFX) (ST) S (partial) 10/11/201810/17/2018 $120.43,
+Fung Seamus: New
+Suiting Or Neuberger Berman - Beneficiary IRA
+SP Equifax, Inc. (EFX) (ST) S (partial) 10/12/2018 10/18/2018 $241.50
+Fung Searas: New
+SuniounrngOr Neuberger Berman - Beneficiary IRA
+SP Equifax, Inc. (EFX) (ST) S (partial) 10/12/2018 10/18/2018 $120.74
+
+Fins Sexnus: New
+‘Suono.pingOr: Neuberger Berman - Beneficiary IRA
+
+cap.
+gains >
+$200?
+
+* For the complete list of asset type abbreviations, please visit ttps,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
+© Neuberger Berman - Beneficiary IRA (Owner: SP)
+
+initial Public Offerings
+
+Yes
+
+No
+

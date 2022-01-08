@@ -1,0 +1,52 @@
+Filing Id #20007121
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+SP American Tower Corporation (AMT) S 04/25/2017 05/2/2017 $1,001 - $15,000
+Fung Searus New
+SonmotaingOr: Neuberger Berman - Traditional IRA
+SP JP Morgan Chase - Individual E 06/10/2016 06/17/2016 $1,001 - $15,000
+
+Fung Sus New
+Location US
+descrirnox This was transferred/exchanged to dreyfus Tax Exempt Cash Mgmt
+
+SP Neuberger Berman - Individual E 08/2/2016 08/9/2016 $1,001 - $15,000
+
+Fung Sexrus New
+Location US
+descntrnom The Neuberger Berman Equity Fund was transferred/exchanged to dreyfus Treasury Sec Cash Mgmt
+
+SP T-Mobile US, Inc. (TMUS) s 04/25/2017 05/2/2017 $1,001 - $15,000
+
+Fung Sus New
+‘SonniovawsOr: Neuberger Berman - Traditional IRA
+
+SP Vornado Realty P 04/21/201704/28/2017 $1,001 - $15,000
+Fiuing Seamus New
+‘SooniovaiwsOr: Neuberger Berman - Individual
+
+descrirnox Maturity date 0/30/19, 2.5%
+
+SP Zayo group Holdings, Inc. (ZAYO) P 04/25/2017 05/2/2017 $1,001 - $15,000
+
+Fung Sus New
+‘SonniovawsOr: Neuberger Berman - Traditional IRA
+
+SP Zayo group Holdings, Inc. (ZAYO) P 04/26/2017 05/3/2017 $1,001 - $15,000
+

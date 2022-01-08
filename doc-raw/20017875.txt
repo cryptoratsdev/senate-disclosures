@@ -1,0 +1,50 @@
+Filing ID #20017875
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+SP CDWLLC/ CDW Fin Comp [CS] P 12/02/2020 12/09/2020 $1,001-$15,000 g
+
+Fiung Seamus: New
+‘ScntiotpingOr: Neuberger Berman - Traditional IRA
+Descntrnom Maturity date is 12/01/2024, interest rate is 5.50%
+
+SP Equinix Inc [CS P 12/08/2020 12/15/2020 $15,001 - a
+$50,000
+Fung Seamus: New
+SwnowoingOr, Neuberger Berman - Traditional IRA
+Descrumnos Maturity date 5/15/2027, interest rate is 5.375%.
+SP Lennar Corp [CS P 12/07/2020 12/14/2020 $15,001 - ec
+$50,000
+
+Fiung Seamus: New
+‘ScntiotpingOr: Neuberger Berman - Traditional IRA
+Descntrnom Maturity date 4/30/2024, interest rate 4.50%,
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house. gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+initial Public Offerings
+
+Yes No
+

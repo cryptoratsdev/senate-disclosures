@@ -1,0 +1,59 @@
+Filing ID #20004760
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. Jim McDermott
+Status: Member
+State/District:WA07
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+bank America Corp P 02/11/201602/11/2016 $50,001 - $100,000
+
+Fung Sexrus New
+SuniiotomgOr James McDermott SrIRA
+
+Descrurnos Repstg 1/25th PFD SerU Perpetpual FXD/VAR CPN 5.200% DTD 05/29/13 FC00/01/13 CALL.
+06/01/23@100.000
+
+bank America Corp P 02/25/2016 02/25/2016 $15,001 - $50,000
+
+Fung Sous New
+SopsotpivgOr James McDermott SrIRA
+
+Descrurnox DEP SHS REPSTg 1/25th PFD SER X ERPTL FXD/VAR CPN 6.250% DTD 09/05/14 FC 03/05/15 CALL
+09/05/24@100.000
+
+CITIgROUP INC P 02/25/2016 02/25/2016 $15,001 - $50,000
+
+Fung Sexrus New
+SuniiotomgOr James McDermott SrIRA
+
+Descrurnox 1/25th PERPETUAL NON CUML FXD/VAR CPN 5.950% DTD 10/29/12 FCO7/30/13 CALL
+01/30/23@100.000
+
+FEDL NATL MTg ASSN s 02/10/2016 02/2/2016 $50,001 - $100,000
+
+Fung Sous New
+SopsotpivgOr James McDermott SrIRA
+
+Descntrnom REMIC SER 2013-30 CL SA MONTHLY 24 DAY DELAY VAR CPN 3.756%DUE 04/25/43 DTD 03/01/13 FC
+04/25/13,
+
+gOVT NATL MTg ASSN s 02/24/2016 02/24/2016 $50,001 - $100,000
+
+Fung Sexrus New
+SuniiotomgOr James McDermott SrIRA
+
+Descntriom REMIC SER 2013-82 CL YS MONTHLY 19 DAY DELAY VAR CPN 3.574% DUE 05/20/43 DTD 03/01/13 FC
+06/20/13,
+

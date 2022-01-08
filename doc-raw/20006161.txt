@@ -1,0 +1,55 @@
+Filing ID #2006161
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+‘TraNsAcTIONS
+
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+
+SP MetLife, Inc. (MET) s 10/18/201610/21/2016 $1,001 - $15,000
+
+Fung Sexrus New
+SomniaueiigOr, SP M81 (Merrill Lynch)
+
+SP MetLife, Inc. (MET) s 10/19/2016 10/24/2016 $1,001 - $15,000
+
+Fung Sus New
+‘SoonioupngOr SP MB1 (Merrill Lynch)
+
+SP R2000 CLIRN ISSUER CIBC CAP P. 09/29/2016 10/6/2016 $15,001 - $50,000
+18.04%
+Fung Sexrus New
+SmniunnigOr Trust M69 (Merrill Lynch)
+Location US
+Descntrnom R200 CLIRN ISSUER CIBC CAP 18.04%
+
+SP SP500 CLIRNISSUER BAC CAP P. 10/11/2016 10/14/2016 $50,001 - $100,000
+14.80% SV 2,075.81 DUE 04/27/18
+Fung Seamus New
+‘Sonn ngOr: SP M40 (Merrill Lynch)
+Locarion US
+Descntrnom SP500 CLIRN ISSUER BAC CAP 14.80% SV 2,075.81 DUE 04/27/18
+
+SP SP500 CLIRNISSUER RBC CAPS 10/28/2016 10/31/2016 $100,001 - $250,000
+12.02% SV 1,994.65 DUE 10/28/16 BUF
+10.00%
+Fung Searus New
+SonnotoingOr. SP M40 (Merrill Lynch)
+Locariox US
+Descrummos SP500 CLIRN ISSUER RBC CAP 12.02% SV 1,994.65 DUE 10/28/16 BUF 10.00% Redemption
+

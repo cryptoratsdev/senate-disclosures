@@ -1,0 +1,111 @@
+ 
+
+PerioDic t ranSaction
+
+Yr ePort
+
+Filing ID #2003471
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name:
+Status:
+
+Hon. Rubén Hinojosa
+Member
+
+State/District:TX15
+
+transactions
+
+iD owner asset
+
+pe
+
+pe
+
+pe
+
+SP
+
+SP
+
+SP
+
+pe
+
+type
+.0. Smith Corporation (a0S) s
+
+Fung Sterus New
+Sopsotpg Or Kaitlin
+
+‘amazon.com, Inc. (aMZN) s
+
+Fung Starus New
+SopotpgOr Kaitlin
+
+‘amazon.com, Inc. (aMZN) s
+
+Fung Sterus New
+Sobiotpig Or Karen
+
+amTrust Financial Services, Inc. (aFSH)
+
+Fung Starus New
+SopsotpigOr Marty
+
+amTrust Financial Services, Inc. (aFSH)
+
+Fung Sterus New
+SubitotoigOr Marty SEP
+
+Db 3x german bund Futures Exchange
+Traded Notes due March 31, 2021
+(BUNT)
+
+Fiung Sonus New
+SorsiouningOr Marty SEP
+google Inc. - Class a (gOOgL) s
+
+Fung Sterus New
+
+transaction Date
+
+Date
+07/27/2015 07/27/2015,
+
+07/27/2015 07/27/2015,
+
+07/27/2015 07/27/2015,
+
+07/27/2015 07/27/2015,
+
+07/27/2015 07/27/2015,
+
+07/27/2015 07/27/2015,
+
+07/27/2015 07/27/2015,
+
+notification amount
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$15,001 - $50,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+

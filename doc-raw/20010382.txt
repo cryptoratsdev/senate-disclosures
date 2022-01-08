@@ -1,0 +1,52 @@
+Filing ID #20010382
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Lisa Blunt Rochester
+Status: Member
+State/District:DE00
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+BLOCK FINANCIAL CORPSR_S 09/14/2018 09/14/2018 $15,001 - ec
+NOTE CLBL M/W CR SENS 5.5% $50,000
+Ics
+
+Fung Sexrus New
+‘SonnioupngOr LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+Descntrnom BLOCK FINANCIAL CORP SR NOTE CLBL M/W CR SENS 5.5% 11/01/2022 SELL TRADE 25 @103.793
+
+‘THERMO FISHER SCIENTIFIC P 09/17/2018 09/17/2018 $15,001 - ec
+SENIOR NOTE CALLABLE M/W $50,000
+3.65% [CS
+
+Fung Sus New
+‘SonniouoigOr LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+
+Descrtrnios THERMO FISHER SCIENTIFIC SENIOR NOTE CALLABLE M/W 3.65% 12/15/2025 BUY TRADE 25
+@98.031
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+© LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+initial Public Offerings
+Yes NG
+
+Certification anD Signature
+
+el GERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+

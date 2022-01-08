@@ -1,0 +1,59 @@
+Filing ID #20001429
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + b-106 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Mr. Lamar Smith
+Status: Member
+State/District:TX21
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+airgas, Inc. (aRg) s 05/2/2013 05/21/2014 $1,001 - $15,000
+
+Fung Sterus New
+‘Sobitotpixg 0 MERRILL LYNCH INVESTMENT aCCoUNTS,
+Descntrriex Erroneous information received from Merrill Lynch
+
+2000000597 akamai Technologies, Inc. (a&KaMP 01/9/2014 06/9/2014 $758.17
+
+Fiuxg Sterus amended
+‘Sobiotpixg or MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Descrtrniox Erroneous information received from Merrill Lynch. This transaction was less than the reportable
+threshold of $1,000 and did not have to be included in the January PTR.
+
+2000000598 borgWarner Inc. (bWa) P 01/9/2014 06/9/2014 $839.40
+
+Fung Srerus amended
+‘Sobitotpixg 0 MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Descrurniox Erroneous information received from Merrill Lynch. This transaction was less than the reportable
+threshold of $1,000 and did not have to be included in the January PTR,
+
+2000000601 ebay Inc. (EbaY) s 01/15/201406/9/2014 $696.84
+
+Fiuxg Sterus amended
+‘Sobiotpixg or MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Descrtrniox Erroneous information received from Merrill Lynch. This transaction was less than the reportable
+threshold of $1,000 and did not have to be included in the January PTR.
+
+2000000609 F5 Networks, Inc. (FFIV) P 01/28/2014 06/9/2014 $976.95
+
+Fung Srerus amended
+‘Sobitotpixg 0 MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Descrurniox Erroneous information received from Merrill Lynch. This transaction was less than the reportable
+threshold of $1,000 and did not have to be included in the January PTR,
+

@@ -1,0 +1,52 @@
+Filing ID #20003710
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+
+sP_ Apple Inc. (AAPL) s 08/5/2015 08/7/2015 $1,001 - $15,000
+Fuungsrarve New
+subsiotping or sP MB1 (Mernill Lynch)
+
+sP Cardinal Health, Inc. (CAH) P 08/26/2015 08/31/2015 $1,001 - $15,000
+Fuungsrarue New
+subsiotoing Om SP MB1 (Mernill Lynch)
+
+sP Cardinal Health, Inc. (CAH) P 08/25/2015 08/28/2015 $1,001 - $15,000
+Fuungsrarve New
+subsiotping or sP MB1 (Mernill Lynch)
+
+sP Cerner Corporation (CERN) P 08/5/2015 08/10/2015 $1,001 - $15,000
+Fuungsrarue New
+subsiotoing Om SP MB1 (Mernill Lynch)
+
+sP McKesson Corporation (MCK) ss 08/25/2015 08/28/2015 $1,001 - $15,000
+Fuungsrarve New
+subsiotping or sP MB1 (Mernill Lynch)
+
+sP Northrop grumman Corporation (No) 08/7/2015 08/12/2015 $1,001 - $15,000
+Fuungsrarue New
+subsiotoing Om SP MB1 (Mernill Lynch)
+
+sP__UIT First Trust series 21 Cap strength 08/4/2015 08/6/2015 $100,001 - $250,000
+
+Fiung sraruz New
+subuotpixg or sP E62 (Edward Jones)
+Location: US
+

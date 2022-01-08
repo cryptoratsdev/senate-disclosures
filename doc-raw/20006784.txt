@@ -1,0 +1,55 @@
+Filing ID #20006784
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Bradley S. Schneider
+Status: Former Member
+State/District:I110
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+SP american Tower Corporation (aMT) S 01/9/2017 02/20/2017 $250,001 - $500,000
+
+Fung Storvs: New
+
+SP Celgene Corporation (CElg) P 01/9/2017 02/20/2017 $100,001 - $250,000
+
+Funny Starus: New
+
+SP Charles Schwab Corporation (SCHWS, 02/8/2017 02/20/2017 $100,001 - $250,000
+
+Fung Storvs: New
+
+SP Citigroup, Inc. (C) P 01/9/2017 02/20/2017 $100,001 - $250,000
+
+Funny Starus: New
+
+SP Citigroup, Inc. (C) s 02/1/2017 02/20/2017 $100,001 - $250,000
+
+Fung Storvs: New
+
+SP SaP SE aDS (SaP) P 02/1/2017 02/20/2017 $100,001 - $250,000
+
+Funny Starus: New
+
+SP SaP SE aDS (SaP) P 02/8/2017 02/20/2017 $100,001 - $250,000
+
+Fung Storvs: New
+
+initial Public Offerings
+
+Yes NG
+
+Certification anD Signature
+

@@ -1,0 +1,41 @@
+Filing ID #2001988
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Ms. Suzan K. DelBene
+Status: Member
+State/District:Wa01
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+JT aBB itd (@BB) s 10/17/201411/4/2014 $15,001 - $50,000
+Fury Srorus: New
+JT Bear Stearns Co 5.55% Due 01/22/1P 10/22/2014 10/22/2014 $100,001 - $250,000
+Fury Srorus: New
+JT Bioamber Inc. (Bloa) P 10/9/2014 11/4/2014 $1,001 - $15,000,
+Fury Srorus: New
+JT Bioamber Inc. (Bloa) P 10/10/2014 11/4/2014 $1,001 - $15,000
+Fury Srorus: New
+JT BorgWarner Inc. (BWa) P 10/17/201411/4/2014 $1,001 - $15,000,
+Fury Srorus: New
+JT Cree, Inc. (CREE) s 10/9/2014 11/4/2014 $1,001 - $15,000
+Fury Srorus: New
+JT Dignity Health 2014a 3.812% Due 1 R01- 10/7/2014 10/7/2014 $500,001 - $1,000,000
+24
+Fury Srorus: New
+JT FiState Bri Ed Rev 5% Due 06/01/28 10/8/2014 10/8/2014 $250,001 - $500,000
+Fury Srorus: New
+JT Flowserve Corporation (FIS) P 10/17/201411/4/2014 $1,001 - $15,000,
+
+Fung Storvs: New
+

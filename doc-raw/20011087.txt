@@ -1,0 +1,47 @@
+Filing Id #20011087
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer information
+
+name: Hon. Greg Gianforte
+Status: Member
+State/District:MT00
+
+transactions
+
+iD owner asset transaction Date _ notification amount —_—_cap.
+type Date gains >
+$200?
+JT A. Smith Corporation (AOS) [SP 12/24/2018 12/31/2018 $50,001 - ec
+$100,000
+FurnoSeares New
+SunnotaneOr Riverbridge Managed Account - Small Cap US Equities
+JT Acuity Brands, Inc. (AY) [ST] P 12/24/2018 12/31/2018 $50,001 - =
+$100,000
+FurnoSrarus New
+SunnotancOr Riverbridge Managed Account - Small Cap US Equities
+JT AIAGroup, Ltd. Sponsored (partial) 12/28/2018 12/31/2018 $100,001 - e cb
+American depository Receipt $250,000
+(AAGIY) [ST
+FurnoSeares New
+SonnotaincOr Harding Loevner International Equity
+JT AMN Healthcare Services Inc AMIN 12/24/2018 12/31/2018 $100,001 - =
+Healthcare Services Inc (AMN) [ST) $250,000
+FurnoSrarus New
+SunnotancOr Riverbridge Managed Account - Small Cap US Equities
+JT Ares Capital Corporation - Close® 12/27/2018 12/31/2018 $50,001 - ec
+End Fund (ARCC) [ST $100,000
+FurnoSearus New
+SunnotancOr: Newsouth Small Cap Equities
+JT BEXAR CNTY TX CTF OBLIG SER 12/26/2018 12/31/2018 $100,001 - =
+
+AIGS) $250,000
+

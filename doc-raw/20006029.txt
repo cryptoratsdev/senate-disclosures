@@ -1,0 +1,52 @@
+Filing ID #20006029
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+
+SP 3M Company (MMM) P 09/12/2016 09/15/2016 $15,001 - $50,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Abbott Laboratories (ALT) P 09/12/2016 09/15/2016 $15,001 - $50,000
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP AbbVie Inc. (AbbV) s 09/12/2016 09/15/2016 $1,001 - $15,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Allergan plc Ordinary Shares (AgN) S 09/12/2016 09/15/2016 $1,001 - $15,000
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Alphabet Inc.-Class A(gOOgL) 09/12/2016 09/15/2016 $1,001 - $15,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Alphabet Inc. - Class C Capital StockS 09/12/2016 09/15/2016 $1,001 - $15,000
+(g0Og)
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Amazon.com, Inc. (AMZN) s 09/12/2016 09/15/2016 $1,001 - $15,000
+
+Fung Sexrus New
+StnitotongOr SP M81 (Merrill Lynch)
+

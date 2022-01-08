@@ -1,0 +1,41 @@
+ 
+
+Filing ID #20004658
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. E. Scott Rigell
+Status: Member
+State/District:Va02
+transactions
+iD owner asset transaction Date _notification amount
+type Date
+SP apple Inc. (aaPl) s 01/12/2016 01/31/2016 $15,001 - $50,000
+Fanyg Srorus: New
+Descturmox Sold shares of apple stock
+SP Cummins Inc. (CMI) s 01/12/2016 01/31/2016 $1,001 - $15,000
+Fanyg Srorus: New
+Descrummox Sold shares of Cummins stock
+SP Exxon Mobil Corporation (XoM) —S. 01/11/201601/31/2016 $15,001 - $50,000
+Fanyg Srorus: New
+Descturmon Sold shares of Exxon Mobil
+SP First Trust Cyversecurity Portfolio S 01/11/201601/31/2016 $15,001 - $50,000
+Fanyg Srorus: New
+Descrurmox Sold shares in an Equity Trust portfolio. First Trust Cybersecurity Portfolio.
+SP gilead Sciences, Inc. (glID) s 01/12/2016 01/31/2016 $1,001 - $15,000
+Fanyg Srorus: New
+Desctummox Sold shares of gilead Sciences Inc.
+SP Vanguard FTSEEuropean ETF (VgK)S. 01/11/201601/31/2016 $1,001 - $15,000
+Fanyg Srorus: New
+Descrurmox Sold Vanguard FTSE shares.
+initial Public Offerings
+
+Yes NG
+

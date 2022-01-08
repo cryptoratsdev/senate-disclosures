@@ -1,0 +1,58 @@
+Filing ID #20009428
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Suzan K, DelBene
+Status: Member
+State/District:Wa01
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+JT Colorado ST gen FD Rev gen S. 04/03/2018 04/03/2018 $250,001 - ec
+4.00% Due 06/27/2018 [gs $500,000
+
+Fung Storvs: New
+
+JT IDST BlDg auth 5.00% Due $ (partial) 04/04/2018 04/04/2018 $100,001 - meh
+09/01/2023 [gS $250,000
+
+Funny Starus: New
+JT Portland Ore urban Renewal an 04/11/2018 04/11/2018 $15,001 - ec
+
+Redev 5.00% Due 06/15/2020 $50,000
+[gS
+
+Fung Storvs: New
+
+JT Portland Ore urban Renewal an 04/26/2018 04/26/2018 $250,001 - fe cb
+Redev 5.00% Due 06/15/2020 $500,000
+[9S
+
+Funny Starus: New
+JT Portland Ore urban Renewal an (partial) 04/03/2018 04/03/2018 $100,001 - e cb
+
+Redev 5.00% Due 06/15/2020 $250,000
+Ig
+
+Fung Storvs: New
+
+ 
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+initial Public Offerings
+
+Yes NG
+

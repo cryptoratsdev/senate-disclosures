@@ -1,0 +1,52 @@
+Filing ID #20010702
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+
+SP Autodesk, Inc. (ADSK) [ST] _$ (partial) 11/12/201811/19/2018 $1,001- $15,000 .g <
+Fiung Sanus: New
+SwnouoingOr, Neuberger Berman - Traditional IRA
+
+SP Autodesk, Inc. (ADSK) [ST] $ 11/12/201811/19/2018 $652.28 =
+Fung Seamus: New
+SwnouningOr, Neuberger Berman - Traditional IRA
+
+SP IHS Markit Ltd. - Common Shar8s 11/13/201811/19/2018 $1,001-$15,000 ge ¢
+(INFO) (ST)
+Fiung Sanus: New
+SwnouoingOr, Neuberger Berman - Traditional IRA
+
+SP IHS Markit Ltd. - Common Shar8spartial) _11/12/201811/19/2018 $1,001- $15,000 g <
+
+(INFO) [ST]
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+* For the complete list of asset type abbreviations, please visit ttps,/fd house.gov/reference/asset-ty pe-codes.aspx.
+asset Class Details
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+initial Public Offerings
+
+Yes NG
+

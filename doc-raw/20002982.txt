@@ -1,0 +1,51 @@
+Filing ID #20002982
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+2000002340 SP C.R. Bani, Inc. (BCR) s 06/3/2014 06/9/2014 $1,001 - $15,000
+Fung Sears: Amended
+SumiouninsOr Neuberger Berman Traditional IRA
+2000002341SP C.R. Bani, Inc. (BCR) s 06/4/2014 06/10/2014 $1,001 - $15,000
+
+Fung Sexrus: Amended
+‘SuntotpingOr: Neuberger Berman - Traditional IRA
+
+2000002342 SP Comcast Corporation -ClassA 06/5/2014 06/10/2014 $15,001 - $50,000
+Special (CMCSK)
+
+Fung Sexnus: Amended
+‘ScntiotpingOr: Neuberger Berman - Traditional IRA
+
+2000002581SP _IAC/InterActiveCorp (IACI) P 06/17/2014 06/23/2014 $15,001 - $50,000
+
+Fung Sexrus: Amended
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+Descrurnox This is in the spouse's IRA account.
+
+2000002582 SP Intuit Inc. (INTu) P 06/25/2014 06/27/2014 $1,001 - $15,000
+Fung Sexnus: Amended
+‘ScntiotpingOr: Neuberger Berman - Traditional IRA
+
+Descrurnox This is in the spouse's IRA account.
+
+asset Class Details
+
+o Neuberger Berman - Traditional IRA (Owner: SP)
+

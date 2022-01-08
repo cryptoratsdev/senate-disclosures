@@ -1,0 +1,52 @@
+Filing ID #20006290
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Thomas MacArthur
+Status: Member
+State/District:NJO3
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+JT Accenture plc Class A ordinary Shard 11/15/201612/1/2016 $1,001 - $15,000
+(ACN)
+Fung Searus New
+Scniiaixs 0 Thomas C MacArthur and Deborah A MacArthur
+JT Adient plc ordinary Shares (ADNT) S 11/17/201612/1/2016 $15,001 - $50,000
+
+Fung Sous New
+‘Soong or: Thomas C MacArthur and Deborah A MacArthur
+
+JT Adient plc ordinary Shares (ADNT) S 11/1/2016 12/1/2016 $1,001 - $15,000
+Fiuing Seamus New
+Sunmnia.oi 0% Thomas C MacArthur and Deborah A MacArthur
+
+DC Adient plc ordinary Shares (ADNT) S 11/17/201612/1/2016 $1,001 - $15,000
+
+Fung Sous New
+Soong or MacArthur Family 2008 Irr Tr FBo Isabella MacArthur
+
+DC Adient plc ordinary Shares (ADNT) S$ 11/17/201612/1/2016 $1,001 - $15,000
+Fiuing Seamus New
+‘Soong or MacArthur Family 2008 Irr Tr FBo David MacArthur
+
+JT Airbus group Unsponsored ADR P 11/4/2016 12/1/2016 $15,001 - $50,000
+(EADSY)
+
+Fung Sous New
+‘Soong or: Thomas C MacArthur and Deborah A MacArthur
+
+JT AMSURg CoRP NTS BYE 05.625% P 11/30/2016 12/1/2016 $15,001 - $50,000
+071522
+

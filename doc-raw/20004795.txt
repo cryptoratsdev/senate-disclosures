@@ -1,0 +1,52 @@
+Filing ID #20004795
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Randy Neugebauer
+Status: Member
+State/District:TX19
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+SP iShares MSCI EAFEETF (EFA) P 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuunoSerus New
+SontiaincOr: ( 8) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+iShares MSCI EAFE ETF (EFA) P. 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuunoSerus New
+‘SunnioupixcOr: (10) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+iShares Silver Trust (SLV) P 03/3/2016 03/3/2016 $1,001 - $15,000
+FuunoSerus New
+‘Sonnict.nnicOr: (10) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+SP iShares Silver Trust (SLV) P 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuunSerus New
+‘SonniouixcOr: ( 8) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+SP SPDR S&P 500 (SPY) P 03/3/2016 03/3/2016 $1,001 - $15,000
+FuunoSerus New
+SontiaincOr: ( 8) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+SPDR S&P 500 (SPY) P 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuunoSerus New
+‘SunnioupixcOr: (10) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+asset Class Details
+
+© (8) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT (Owner: SP)
+

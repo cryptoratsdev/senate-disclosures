@@ -1,0 +1,53 @@
+Filing ID #20009183
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+SP Actavis Fag s 03/12/2018 03/20/2018 $1,001 - $15,000
+
+Fung Sexrus New
+‘SoonioupngOr: Neuberger Berman - Individual
+DescntrnoThe bond matured long,
+
+2000037125 SP Constellation Brands P 03/16/2018 03/20/2018 $15,001 - $50,000
+
+Fiuxg Sus Amended
+‘SonnioungOr: Neuberger Berman - Traditional IRA
+Descrurnom Maturity date is 1/17/2019, interest rate is 2.0%
+
+2000037124 SP Level 3 Fing P 03/14/2018 03/20/2018 $1,001 - $15,000
+
+Fiung Sexrus Amended
+‘Soon. ngOr: Neuberger Berman - Traditional IRA
+Descrurnos Maturity date is 1/15/2021, interest rate is 0.125%
+
+2000037128 SP Zimmer Biomet Hldgs inc P 03/8/2018 03/15/2018 $1,001 - $15,000
+
+Fiuxg Sus Amended
+‘SonniouigOr: Neuberger Berman - Beneficiary IRA
+Descrtrnom Maturity date is 3/19/2021, interest rate is 2.92%
+
+2000037122 SP Zimmer Biomet Hdgs Inc P 03/8/2018 03/15/2018 $15,001 - $50,000
+
+Fiung Sexrus Amended
+‘Soon. ngOr: Neuberger Berman - Traditional IRA
+Descrirnox Maturity date is 3/19/2021, interest rate is 2.92%
+
+asset Class Details
+

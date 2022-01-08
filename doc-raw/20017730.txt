@@ -1,0 +1,51 @@
+Filing ID #20017730
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+
+SP iShares Russell 2000 Value ETFP 11/10/2020 11/17/2020 $1,001-$15,000
+(WN) [ST]
+Fung Searus New
+SonnotoigOr: Neuberger Berman - Individual
+
+SP Sunnun Inc. (RUN) [ST) P 11/12/2020 11/19/2020 $1,001 - $15,000
+
+Fung Sus New
+‘SonnioupigOr: Neuberger Berman - Individual
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+o Neuberger Berman - Individual (Owner: SP)
+Locariont US
+
+initial Public Offerings
+
+Yes No
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Alan S. Lowenthal , 11/21/2020
+

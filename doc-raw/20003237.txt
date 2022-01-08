@@ -1,0 +1,44 @@
+Filing ID #20003237
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Ratil M. Grijalva
+Status: Member
+State/District:aZ03
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+sP american Express Company (aXP) P. 05/13/201506/10/2015 $1,001 - $15,000
+Funwo stones: New
+sP_amgen Inc. (aMGN) 5 05/11/201506/10/2015 $1,001 - $15,000
+Furvo sranes: New
+sP__Calamos Global Total Return Fund P 05/28/2015 06/10/2015 $1,001 - $15,000
+(CGO)
+Funwo stones: New
+sP Corning Incorporated (GIW) 5 05/11/201506/10/2015 $1,001 - $15,000
+Furvo sranes: New
+sP _Elililly and Company (IIY) P 05/13/201506/10/2015 $1,001 - $15,000
+Funwo stones: New
+sP Genuine Parts Company (GPC) P 05/11/201506/10/2015 $1,001 - $15,000
+Furvo sranes: New
+sP Gilead sciences, Inc. (GID) s 05/28/2015 06/10/2015 $1,001 - $15,000
+Funwo stones: New
+sP Healthcare Realty Trust Incorporated 05/11/201506/10/2015 $1,001 - $15,000
+
+(HR)
+
+Funna Stare: New
+
+sP Home Depot, Inc. (HD) P 05/13/201506/10/2015 $1,001 - $15,000
+

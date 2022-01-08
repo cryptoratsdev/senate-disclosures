@@ -1,0 +1,45 @@
+Filing ID #2012153
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:Ca52
+
+‘TraNsACTIONS
+ID Owner Asset TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+SP East Bay Muni util Dist, Ca [gS/S 07/12/2019 07/31/2019 $250,001 - ec
+$500,000
+Fury Srorus: New
+SP los angeles Ca, W util Pwr [gS] S 07/01/2019 07/31/2019 $250,001 - =
+$500,000
+Fury Srorus: New
+SP MaBaY TRaN auTH EXCISE S (partial) _ 07/19/2019 07/31/2019 $100,001 - ec
+TaX [gS $250,000
+Fury Srorus: New
+SP Ohio Water Development P 07/16/2019 07/31/2019 $500,001 - =
+authority [95 $1,000,000
+Fury Srorus: New
+SP Ohlone Community College P 07/24/2019 07/31/2019 $250,001 - ec
+District [95 $500,000
+Fury Srorus: New
+SP Roseville, Ca Finance auth [95] P 07/16/2019 07/31/2019 $100,001 - =
+$250,000
+Fury Srorus: New
+SP Sacramento Muni util Dist [gS] P 07/25/2019 07/31/2019 $250,001 - ec
+$500,000
+
+Fung Storvs: New
+

@@ -1,0 +1,62 @@
+Filing ID #20010798
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. David A. Trott
+Status: Member
+State/District:MI1 1
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+BoFA FINANCE LLC LINKED T? 11/14/201811/15/2018 $250,001 - ec
+S&P 500 INDEX BUFFERED $500,000
+
+CAPPED BETA, 0% STRUCTURED
+NoTE DUE 10/27/2020 [CS
+
+Fung Sexrus New
+
+‘Sopna.ixg 0% Appendix B - NTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Trott Family Investment Company LLC.
+Descntrriox Structured Note
+
+Energy Transfer LP Common Urits 11/01/201811/02/2018 $1,001-$15,000 og ¢
+(ET) [ST}
+
+Fung Sous New
+
+Descrurriox Publicly Traded Master Limited Partnership Interest
+
+EQgP Holdings, LP Common Unf&partial) 11/30/2018 12/01/2018 $1,001-$15,000.g ¢
+representing limited partner
+
+interests (EQgP) (ST
+
+Fung Searus New
+
+Descturox Publicly Traded Master Limited Partnership Interest
+
+JENISON MICH PUB SCHS go P 11/06/2018 11/07/2018 $100,001 - =
+5% 05/01/23 MN - MUNI BoND $250,000
+[9S
+
+Fung Sus New
+‘Soon. ing or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+JPMoRgAN CHASE & Co. P 11/27/201811/28/2018 $100,001 - ec
+LINKED To BASKET oF INDICES $250,000
+UPSIDE LEVERED CAPPED W
+

@@ -1,0 +1,50 @@
+Filing ID #20017029
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Greg Gianforte
+Status: Member
+State/District:MT00
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+JT AMN Healthcare Services Inc P 07/22/2020 07/27/2020 $50,001 - ec
+AMN Healthcare Services Inc $100,000
+(AMN) (ST;
+Funwo Searus New
+Sumsotbine Or Riverbridge Managed Account - Small Cap US Equities
+JT Veeva Systems Inc.ClassA 07/22/2020 07/27/2020 $100,001 - a
+(EEV) [ST $250,000
+
+Furna Seamus New
+‘Sopsoinre Or Riverbridge Managed Account - Small Cap US Equities
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+© Riverbridge Managed Account - Small Cap US Equities (Owner: JT)
+
+initial Public Offerings
+
+Yes No
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Greg Gianforte , 07/27/2020
+

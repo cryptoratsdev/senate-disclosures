@@ -1,0 +1,46 @@
+Filing ID #20000715
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Mr. Michael K. Simpson
+Status: Member
+State/District:ID02
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+
+aozora Bank Itd Sponsored DR 03/17/2014 03/20/2014 $1,001 - $15,000
+(a0Z0Y)
+Fury Srorus: New
+arc Resources Itd. Ordinary Shares S 03/12/2014 03/17/2014 $1,001 - $15,000
+(aETuF)
+Fury Srorus: New
+astrazeneca Plc Ordinary Shares S 03/18/2014 03/21/2014 $1,001 - $15,000
+(aZNCF)
+Fury Srorus: New
+China Mobile Hong Kong Itd Ordinar 03/4/2014 03/6/2014 $1,001 - $15,000
+Shares (CHIKF)
+Fury Srorus: New
+Ericsson - aDS each representing 1 P 03/10/2014 03/13/2014 $1,001 - $15,000
+underlying Class B share (ERIC)
+Fury Srorus: New
+Fortum Corporation (FOJCF) s 03/17/2014 03/20/2014 $1,001 - $15,000
+Fury Srorus: New
+Fred Olsen Energy asa Ord OrdinaryP 03/17/2014 03/20/2014 $1,001 - $15,000
+Shares (FOEaF)
+Fury Srorus: New
+Origin Energy Itd Ordinary Shares S 03/17/2014 03/20/2014 $1,001 - $15,000
+
+(OgFgF)
+

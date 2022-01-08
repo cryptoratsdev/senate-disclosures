@@ -1,0 +1,46 @@
+Filing ID #20005955
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Carolyn B. Maloney
+Status: Member
+State/District:NY12
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+METROPOLITAN TRANS AUTH NY P 08/19/2016 09/12/2016 $1,001 - $15,000
+REVSERC
+
+Fung Sexrus New
+Descntrnos METROPOLITAN TRANSIT AUTHORITY NY REV SER C B/E 5.00%, DUE 11-15-28 CUSIP 59259YC49
+
+NEW YORK ST DORM AUTH RVS NGN 08/1/2016 09/12/2016 $15,001 - $50,000
+ST SUPPORTED DEBT MEM SLOAN
+SER 2
+
+Fung Sus New
+Descntrnos REDEMPTION OF NEW YORK ST DORM ATH RVS NON ST SUPPORTED DEBT MEM SLOAN SER 2 B/E
+OID 4.750%, DUE 07-01-28, CUSIP 649839891
+
+initial Public Offerings
+
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+
+Digitally Signed: Hon. Carolyn B. Maloney , 11/15/2016
+

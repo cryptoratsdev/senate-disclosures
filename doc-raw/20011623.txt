@@ -1,0 +1,69 @@
+ 
+
+Pertopic TrANSACTION IY ePOrT
+
+Filing ID #2011623
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+‘TrANSACTIONS
+
+filer Wformation
+
+Hon. Judy Chu
+
+State/District:CA27
+
+Fung Sexrus New
+
+Member
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+
+TLT APR 121235 PUT [oT] P 04/12/2019 04/12/2019 $1,001- $15,000 .g ¢
+
+Fung Searus New
+
+Sunotoing 0% TD Ameritrade Investment Account
+
+Locamon: US
+
+Descrarnons PUT
+
+TLTAPR12124PUT[oT] P 04/11/201904/11/2019 $1,001- $15,000 eg <
+
+Fung Searus New
+
+Suttons 0% TD Ameritrade Investment Account
+
+Locamone US
+
+Descrarnons PUT
+
+TLTAPR12124PUT[oT] — S 04/05/2019 04/05/2019 $1,001-$15,000 pcp
+
+Fung Searus New
+
+Sunotoing 0% TD Ameritrade Investment Account
+
+Locamon: US
+
+Descrarnons PUT
+
+TLT APR 18 122.5 CALL [oT] $ 04/16/2019 04/16/2019 $1,001- $15,000 eg <
+
+Fung Searus New
+
+Suttons 0% TD Ameritrade Investment Account
+
+Locamone US
+
+Descntrnon CALL
+
+TLT APR 18 122.5 CALL [oT] P 04/18/2019 04/18/2019 $1,001- $15,000 ge ¢
+

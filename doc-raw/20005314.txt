@@ -1,0 +1,50 @@
+Filing ID #20005314
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Ed Whitfield
+Status: Member
+State/District:KYO1
+
+Transactions
+ID ‘Owner Asset TransactionDate Notification Amount
+Type Date
+
+sP air Methods Corporation (aIRM) P 05/4/2016 05/31/2016 $1,001 - $15,000
+Fang stu: New
+
+sP allergan plc Ordinary shares (agN) P. 05/6/2016 05/31/2016 $1,001 - $15,000
+Fang soma: New
+
+sP Broadcom limited - Ordinary shares P 05/19/2016 05/31/2016 $1,001 - $15,000
+(aVg0)
+Fang sto: New
+
+sP Costco Wholesale Corporation (COsTP 05/6/2016 05/31/2016 $1,001 - $15,000
+Fang stra: New
+
+sP general Electric Company (gE) P 05/5/2016 05/31/2016 $1,001 - $15,000
+Fang stm: New
+
+sP NXP semiconductors N.V.(NXPI) P 05/12/2016 05/31/2016 $1,001 - $15,000
+Fang stra: New
+
+sP NXP semiconductors N.V.(NXPI) P 05/5/2016 05/31/2016 $1,001 - $15,000
+Fang stu: New
+
+sP serviceNow, Inc. (NOW) P 05/6/2016 05/31/2016 $1,001 - $15,000
+Fang soma: New
+
+sP Walgreens Boots alliance, Inc. (WBa)P_ 05/19/2016 05/31/2016 $1,001 - $15,000
+
+Fung Stone: New
+

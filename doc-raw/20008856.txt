@@ -1,0 +1,56 @@
+Filing ID #20008856
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Lamar Smith
+Status: Member
+State/District:TX21
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+BWX Technologies, Inc. (BWXT) P 01/25/2018 02/1/2018 $1,001 - $15,000
+
+FuunoSterus New
+Suntis.oicor: MERRILL LYNCH INVESTMENT aCCoUNTS:
+
+Facebook, Inc. - Class a (FB) s 01/31/2018 02/1/2018 $1,001 - $15,000
+
+FuunoSterus New
+‘Suntia.omvcor, MERRILL LYNCH INVESTMENT aCCoUNTS:
+
+Fastenal Company (FaST) s 01/11/201802/1/2018 $1,001 - $15,000
+
+FuunoSterus New
+Suntis.oicor: MERRILL LYNCH INVESTMENT aCCoUNTS:
+
+Newell Brands Inc. (NWL) s 01/26/2018 02/1/2018 $1,001 - $15,000
+
+FuunoSterus New
+‘Suntia.omvcor, MERRILL LYNCH INVESTMENT aCCoUNTS:
+
+Praxair, Inc. (PX) P 01/26/2018 02/1/2018 $1,001 - $15,000
+
+FuunoSterus New
+Suntis.oicor: MERRILL LYNCH INVESTMENT aCCoUNTS:
+
+Praxair, Inc. (PX) P 01/31/2018 02/1/2018 $1,001 - $15,000
+
+FuunoSterus New
+‘Suntia.omvcor, MERRILL LYNCH INVESTMENT aCCoUNTS:
+
+Pure Storage, Inc. Class a(PSTG) P 01/31/2018 02/1/2018 $1,001 - $15,000
+
+FuunoSterus New
+Suntis.oicor: MERRILL LYNCH INVESTMENT aCCoUNTS:
+

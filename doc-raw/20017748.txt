@@ -1,0 +1,55 @@
+Filing ID #20017748
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District:VA08
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+
+$200?
+JT Accenture pic Class A Ordinary P 11/17/2020 11/17/2020 $1,001-$15,000
+
+Shares (ACN) (ST)
+Fung Sexrus New
+
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descntrniom 10 units Accenture PLC
+
+JT Apple Inc. (AAPL) (ST) P 11/04/2020 11/04/2020 $1,001-$15,000
+
+Fung Sous New
+SonnioupneOr: Stocks, Bonds, & Mutual Funds
+Descrtrnox 35 units Apple Inc common
+
+JT Apple Inc. (AAPL) [ST’ P 11/17/2020 11/17/2020 $1,001-$15,000
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descrurnox 50 units Apple Inc common
+
+JT ASML Holding N.V. - New York P 11/13/2020 11/13/2020 $1,001- $15,000.
+Registry Shares (ASML) [ST]
+Fung Srarus New
+SonnotoigOr Stocks, Bonds, & Mutual Funds
+Descrummox 5 units ASML Holding NV
+
+JT BLE FedFund TDDXX[CS] S$ 11/13/2020 11/13/2020 $1,001-$15,000
+
+Fung Sexrus New
+SumniaunigOr Stocks, Bonds, & Mutual Funds
+Descrurnox sweep sale of Blackrock Liq Fds Fed Funds
+

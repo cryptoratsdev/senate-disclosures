@@ -1,0 +1,46 @@
+Filing ID #2012366
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Mikie Sherrill
+Status: Member
+State/District:NJ11
+
+ 
+
+‘TraNSACTIONS
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+Becton, Dickinson and Compass 10/30/2019 11/07/2019 $509.87 e cb
+(BDX) [S
+Fang Sevmus: New
+CME group Inc. - Class a (CMEB 09/11/2019 10/07/2019 $405.92 a,
+(st)
+Fung Stas: New
+CVS Health Corporation (CVS) P 11/18/2019 12/09/2019 $1,001-$15,000 4g ¢
+(st)
+Fang Sevmus: New
+Johnson & Johnson (JNJ) [ST] P 11/18/2019 12/09/2019 $1,001- $15,000, <
+Fung Stas: New
+Microsoft Corporation (MSFT) S 10/17/2019 11/07/2019 $976.45, e cb
+(ST
+Fang Sevmus: New
+Microsoft Corporation (MSFT) S 10/22/2019 11/07/2019 $412.82 a,
+(stl
+Fung Stas: New
+Microsoft Corporation (MSFT) S 09/11/2019 10/07/2019 $678.84 e cb
+
+[ST]
+Fung Storvs: New
+

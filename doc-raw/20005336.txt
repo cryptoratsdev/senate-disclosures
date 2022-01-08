@@ -1,0 +1,75 @@
+ 
+
+Filing ID #20005336
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name:
+Status:
+
+Hon. Carolyn B. Maloney
+Member
+
+State/District:NY12
+
+transactions
+
+iD
+
+initial
+
+Yes
+
+owner asset transaction Date _notification amount
+
+type Date
+
+METROPOLILTAN TRANSIT AUTH NY 05/11/2016 05/31/2016 $1,001 - $15,000
+REV TRANSN SER A.
+
+FuunoSerus New
+
+Descntrios METROPOLITAN TRANSN AUTHORITY NY REV TRANSN SERIES A 5.00%, DUE 11/15/2033
+
+METROPOLITAN TRANSN AUTH NYP 05/20/2016 05/31/2016 $1,001 - $15,000
+
+REV TRANSN SER A
+
+FuunoSers New
+
+Descntrnos METROPOLITAN TRANSN AUTHORITY NY REV UNREFUNDED BAL TRANSN REF SER B 4.50%, DUE
+11/15/2032
+
+TRIBOROUGH BRDG & TUNNEL P 05/6/2016 05/31/2016 $15,001 - $50,000
+AUTH NY REVS GEN SERA
+
+FuunoSerus New
+
+Descntrnos TRIBOROUGH BRIDGE & TUNNEL AUTHORITY NY REVS GEN SERIES A, 5.00%, DUE 11/15/2033
+
+TRIBOROUGH BRDG & TUNNEL P 05/2/2016 05/31/2016 $15,001 - $50,000
+
+AUTH REVS. UNREFUNDED
+
+BALANCE GEN SER A
+
+FuunoSers New
+
+Descntrnos TRIBOROUGH BRIDGE & TUNNEL AUTHORITY NY REVS UNREFUNDED BALANCE GEN SERIES A.
+5.00%, DUE 11/15/2037
+
+Public Offerings
+
+No
+
+Certification anD Signature
+
+el GERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+

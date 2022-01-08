@@ -1,0 +1,52 @@
+Filing ID #20012519
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. Greg Gianforte
+Status: Member
+State/District:MT00
+
+transactions
+
+iD owner asset transaction Date _— notification amount —_—_cap.
+type Date gains >
+$200?
+
+JT Dassault Systemes, S.A. Americdh 10/04/2019 10/07/2019 $15,001 - ec
+Depositary Shares (DASTY) [ST $50,000
+FurnoSeares New
+SomsioucOr Harding Loevner International Equity
+
+JT PROS Holdings, Inc. (PRO) [ST)S (partial) _ 09/18/2019 09/23/2019 $100,001 - addy
+
+$250,000
+
+FurnoSrarus New
+SumsiouncOr Riverbridge Managed Account - Small Cap US Equities
+
+JT Taiwan Semiconductor S (partial) 09/27/2019 09/30/2019 $15,001 - e cb
+Manufacturing Company Ltd. $50,000
+(TSM) [ST
+FurnoSeares New
+SomsioucOr Harding Loevner International Equity
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+© Harding Loevner Intemational Equity (Owner: JT)
+© Riverbridge Managed Account - Small Cap US Equities (Owner: JT)
+
+initial Public Offerings
+
+Yes NG
+

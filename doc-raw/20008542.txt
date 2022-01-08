@@ -1,0 +1,44 @@
+Filing ID #20008542
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. David E. Price
+Status: Member
+State/District:NCO4
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+
+alcoa Corporation (aa) s 11/24/201711/29/2017 $1,001 - $15,000
+Fanny Srorus: New
+Descrurmon Sold 33 shares
+arconic Inc. (aRNC) s 11/24/201711/29/2017 $1,001 - $15,000
+Fanyg Srorus: New
+Descrurmon Sold 100 shares
+Brighthouse Financial, Inc. (BHF) S 11/24/201711/29/2017 $1,001 - $15,000
+Fanny Srorus: New
+Descturon Sold 27 shares
+PayPal Holdings, Inc. (PYPI) P 11/24/201711/29/2017 $1,001 - $15,000
+Fanyg Srorus: New
+Descrurmon Purchased 100 shares
+Salesforce.com Inc (CRM) P 11/24/201711/29/2017 $1,001 - $15,000
+Fang Srorus: New
+Descturon Purchased 100 shares
+Texas Instruments Incorporated (TXIR) 11/24/201711/29/2017 $1,001 - $15,000
+Fanyg Srorus: New
+Descrurmon Purchased 100 shares
+Tuesday Morning Corp. (TuES) 11/24/201711/29/2017 $1,001 - $15,000
+
+Fung Starus: New
+Descntrriex Sold 300 shares
+

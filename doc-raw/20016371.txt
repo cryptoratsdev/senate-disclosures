@@ -1,0 +1,46 @@
+Filing ID #2016371
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District:VA08
+‘TraNsACTIONS
+ID Owner Asset TransactionDate _—NotificationAmount —Cap.
+Type Date Gains >
+$200?
+JT BLFFedFund TDDXX [CS] $ 03/03/2020 04/06/2020 $1,001-$15,000 g
+Fung Searus New
+Sonmaoigor Stocks, Bonds, & Mutual Funds
+Descrurox sale of Blackrock Lig Funds
+JT -BLFFedFund TDDXX[CS]_ PP 03/02/2020 04/06/2020 $1,001-$15,000 g -
+Fung Searus New
+Sonnaoigor Stocks, Bonds, & Mutual Funds
+Descrurmon purchase of Blackrock Lig Funds
+JT BLFFedFund TDDXX [CS] $ 03/06/2020 04/06/2020 $15,001 - ec
+$50,000
+Fung Searus New
+Sonnaoig or Stocks, Bonds, & Mutual Funds
+Desciurox sale of Blackrock Liquid Funds
+JT BLFFedFund TDDXX [CS] $ 03/11/2020 04/06/2020 $15,001 - a
+$50,000
+Fung Searus New
+Sunnaoigor Stocks, Bonds, & Mutual Funds
+Descrurox sweep sale of Blackrock Liquid Funds
+JT BLFFedFund TDDXX [CS] $ 03/10/2020 04/06/2020 $15,001 - ec
+$50,000
+
+Fung Sexrus New
+Sunni.oixg 0% Stocks, Bonds, & Mutual Funds
+Descrurniox Sweep Sale of Blackrock Liquid Funds
+

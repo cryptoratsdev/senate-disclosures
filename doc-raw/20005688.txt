@@ -1,0 +1,57 @@
+Filing ID #20005688
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. Judy Chu
+Status: Member
+State/District:Ca27
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+1 SHaRES 20 YR TREASURY bND ETF 07/1/2016 07/1/2016 $100,001 - $250,000
+Fiung Sorus New
+Somsiotoing om TD ameritrade Investment account
+Leeson: US
+Descturmon CLOSE aSSigNMENT
+ISHARES TLT JUL 1138 PUT s 07/1/2016 07/1/2016 $100,001 - $250,000
+
+aSSIgNMENT
+
+Fung Starus New
+Sobotpixg Or TD ameritrade Investment account
+Lecanto: US
+
+Descntrriox CaLL aSSIgNMENT
+
+S&P 500 aUg 17 2150 CaLL s 07/28/2016 07/28/2016 $1,001 - $15,000
+Fiting Srorus New
+
+Sobtoupixg Or TD ameritrade Investment account
+
+Locemtws: US
+
+Descntrrion CaLL
+
+S&P 500 aUg 31 1750 PUT P 07/7/2016 07/7/2016 $1,001 - $15,000
+
+Fung Starus New
+Sobotpixg Or TD ameritrade Investment account
+Lecanto: US
+
+Descntrrion PUT
+
+S&P 500 aUg 31 1925 PUT s 07/7/2016 07/7/2016 $1,001 - $15,000
+Fiting Srorus New
+Sobtoupixg Or TD ameritrade Investment account
+
+Locemtws: US
+

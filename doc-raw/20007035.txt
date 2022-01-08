@@ -1,0 +1,52 @@
+Filing ID #20007035
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. Judy Chu
+Status: Member
+State/District:Ca27
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+SPDR goLD SHS MaR 10 117 PUT P 03/3/2017 03/3/2017 $1,001 - $15,000
+Fung Soros New
+Sunotoing or TD ameritrade Investment account
+Locarin: US
+
+Descntrvion PUT
+
+SPDR goLD TR SHS MaR 24 118 CaLL P 03/21/2017 03/21/2017 $1,001 - $15,000
+
+Fung Starus New
+Sobotpixg Or TD ameritrade Investment account
+Lecanto: US
+
+Descntrmiox CaLL
+
+asset Class Details
+
+TD ameritrade Investment account
+Lecanto: US
+
+initial Public Offerings
+
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+
+Digitally Signed: Hon. Judy Chu , 04/14/2017
+

@@ -1,0 +1,43 @@
+Filing Id #20003940
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Richard L. Hanna
+Status: Member
+State/District:NY22
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+bank of america Corporation (baC) S 09/30/2015 10/9/2015 $100,001 - $250,000
+Fiung Sorus New
+Somos Ov Investment account
+Chevron Corporation (CVX) s 09/30/2015 10/9/2015 $100,001 - $250,000
+Fiung Sorus New
+Somsiong Ov Investment account
+ConocoPhillips (CoP) s 09/30/2015 10/9/2015 $100,001 - $250,000
+Fiung Sorus New
+Somos Ov Investment account
+goPro, Inc. - Class a (gPRo) s 09/30/2015 10/9/2015 $50,001 - $100,000
+Fiung Sorus New
+Somsiong Ov Investment account
+Home depot, Inc. (Hd) P 09/11/2015 10/9/2015 $100,001 - $250,000
+Fiung Sorus New
+Somos Ov Investment account
+Medtronic plc. ordinary Shares (Md5 09/30/2015 10/9/2015 $100,001 - $250,000
+Fiung Sorus New
+Somsiong Ov Investment account
+Monsanto Company (MoN) s 09/30/2015 10/9/2015 $100,001 - $250,000
+
+Fung Sterus New
+Sobiotarng OF Investment account
+

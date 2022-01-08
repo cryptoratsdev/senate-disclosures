@@ -1,0 +1,49 @@
+Filing ID #20012664
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+SP Ares Cap Corp [CS s 11/06/2019 11/21/2019 $1,001-$15,000 .¢ ¢
+
+Fung Sexrus New
+‘Soona.ig or Neuberger Berman - Individual
+Descntrriox Maturity date is 1/15/2020, interest rate is 3.875%
+
+SP Boeing Company (BA) (ST) P. 11/04/2019 11/21/2019 $1,001-$15,000g <
+Fung Seamus New
+‘Soon. ing or: Neuberger Berman - Individual
+
+SP Ecolab Inc. (ECL) [ST P 11/04/2019 11/21/2019 $1,001-$15,000 4g ¢
+Fung Sexrus New
+‘Sonnets or Neuberger Berman - Individual
+
+SP Equinix Inc [CS P 11/06/2019 11/21/2019 $1,001-$15,000 g <
+
+Fung Sus New
+‘Soon. ing or: Neuberger Berman - Individual
+Descrtrriox Maturity date is 11/18/2024, interest rate is 2.625%
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
+o Neuberger Berman - Individual (owner: SP)
+Lecarton: US
+

@@ -1,0 +1,59 @@
+Filing ID #20009087
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Lisa Blunt Rochester
+Status: Member
+State/District:DE00
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+CINCINNATI FINANCIAL CORP P 03/2/2018 03/2/2018 $15,001 - $50,000
+
+SENIOR DEBENTURE, RATE: 6.92
+
+Fung Sexrus New
+
+SonnioupisgOr LISA BLUNT ROCHESTER IRA
+
+Descntriom CINCINNATI FINANCIAL CORP SENIOR DEBENTURE, RATE: 6.92
+
+HESS CORPORATION SENIOR NOTB 02/15/2018 02/15/2018 $15,001 - $50,000
+M/W 8.125% 02/15/2019
+
+Fung Seamus New
+
+‘SonniovoigOr LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+Descrurnos HESS CORPORATION SENIOR NOTE M/W 8.125% 02/15/2019
+
+LYB INTL FINANCE BV SENIOR NOPE 02/22/2018 02/22/2018 $15,001 - $50,000
+M/W 4% 07/15/2023 BUY TRADE 40
+
+@102.521
+
+Fung Sexrus New
+
+‘SopnioupngOr LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+
+Descntrnom LYB INTL FINANCE BV SENIOR NOTE M/W 4% 07/15/2023 BUY TRADE 40 @102.521
+
+asset Class Details
+
+LISA BLUNT ROCHESTER IRA.
+LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+
+initial Public Offerings
+
+Yes NG
+

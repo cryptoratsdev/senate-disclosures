@@ -1,0 +1,67 @@
+Filing ID #2002881
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. David A. Trott
+Status: Member
+State/District:MI1 1
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+CREDIT SUISSE Ag LINKED To S&P 04/30/2015 05/1/2015 $250,001 - $500,000
+
+500 INDEX bUFFERED CAPPED bETA
+STRUCTURED NoTE DUE 02/03/2017
+
+Fiuing Seamus New
+
+Subwouoing 0% Trott Family Investment Company LLC
+Descntrriox Structured Note
+
+CREDIT SUISSE Ag LINKED To S&PS 04/30/2015 05/1/2015 $250,001 - $500,000
+500 INDEX bUFFERED CAPPED bETA
+
+STRUCTURED NoTE DUE 06/15/15
+
+Fung Seamus New
+
+Subwouning 0 Trott Family Investment Company LLC
+
+Descntrriox Structured Note
+
+PUT/XSP @ 202 EXP 07/17/2015- $ 04/23/2015 04/24/2015 $1,001 - $15,000
+CboE MINI SPX INDEX
+
+Fung Sexrus New
+
+Sobiotpixg 0m Toucan Family LLC
+
+Location: US
+
+Descrurniex Not part of a compensation plan; Not held in an ESoP
+
+PUT/XSP @194 EXP 06/19/2015- § 04/2/2015 04/3/2015 $1,001 - $15,000
+CboE MINI SPX INDEX
+
+Fung Sous New
+
+Sobiotpixg or Toucan Family LLC
+
+Location: US
+
+Descrurriex Not part of a compensation plan; Not held in an ESoP
+
+PUT/XSP @197 EXP 06/19/2015- $ 04/9/2015 04/10/2015 $1,001 - $15,000
+CboE MINI SPX INDEX
+

@@ -1,0 +1,56 @@
+Filing ID #20008332
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Suzan K, DelBene
+Status: Member
+State/District:Wa01
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+JT Central Tex Regl Mobility auth Rev S$ 10/16/201710/16/2017 $100,001 - $250,000
+
+5% 1/1/2027
+
+FuuncStons: New
+Sunttounicor GRRTS LTD
+
+JT Dignity Health 3.812% 11/01/2024 $ 10/25/201710/25/2017 $250,001 - $500,000
+
+FuunoStons: New
+Sunttoupicor GRRTS LTD
+Descntrriex Bond call, Full redemption
+
+JT New Jersey St Transntr Fd auth 5.2585 10/20/2017 10/20/2017 $15,001 - $50,000
+12/15/2019
+
+FuuncStons: New
+Sunttounicor GRRTS LTD
+
+JT New York NY City Hsg Dev Corp 3.428% 10/25/201710/25/2017 $250,001 - $500,000
+2/1/2029
+
+FuunoStons: New
+Sunttoupicor GRRTS LTD
+
+JT North Tex Twy auth Rev Sys and Re 10/13/201710/13/2017 $100,001 - $250,000
+Dbs 5.0% 1/1/2029
+
+FuuncStons: New
+Sunttounicor GRRTS LTD
+
+asset Class Details
+
+© GRRTS LTD (owner: JT)
+

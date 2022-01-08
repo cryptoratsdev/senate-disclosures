@@ -1,0 +1,55 @@
+ 
+
+Filing ID #20006839
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+transactions
+iD owner asset transaction Date _notification amount
+type Date
+JT INNaTE IMMUNoTHERaPEUTIC aUIP 02/3/2017 02/8/2017 $1,001 - $15,000
+PaR oRDINaRY
+Fiurng Sorus New
+Sunmta.o1sg or JT M39 (Merrill Lynch)
+Locsnon: US
+Descturmion INNaTE IMMUNOTHERaPEUTIC aUD PaR ORDINARY
+SP R200 CLIRNS ISSUER CIBC CaP P 02/6/2017 02/9/2017 $15,001 - $50,000
+20.40% SV 1,075.699 DUE 03/28/18
+Fiung Sorus New
+Sonmtatoig or SP M40 (Merril Lynch)
+Locsron: US
+Descrurmox R2000 CLIRNS ISSUER CIBC CaP 20.40% SV 1,075.699 DUE 03/28/18
+SP R200 CLIRNS ISSUER CIBC CaP P 02/17/201702/23/2017 $50,001 - $100,000
+
+20.40% SV 1,075.699 DUE 03/28/18
+
+Fiting Srorus New
+
+Smti.isg 0% SP M40 (Merrill Lynch)
+
+Lecanto: US
+
+Descntrriox R2000 CLIRNS ISSUER CIBC CaP 20.40% SV 1,075.699 DUE 03/28/18
+
+asset Class Details
+
+© JT_M39 (Merrill Lynch) (owner: JT)
+
+Lecanns: US
+
+SP M40 (Merrill Lynch) (owner: SP)
+
+ 
+
+sarin: US
+

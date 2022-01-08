@@ -1,0 +1,65 @@
+ 
+
+Filing ID #20010971
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name:
+Status:
+
+Hon. David A. Trott
+Member
+
+State/District:MI1 1
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+Antero Midstream gP LP Commdh 12/06/2018 12/07/2018 $15,001 - ec
+Shares of Beneficial Interests $50,000
+(AMgP) [ST)
+
+Fung Sexrus New
+
+CALEDONIA MICH CMNTY SCHS 12/28/2018 12/29/2018 $15,001 - =
+‘go 5% 05/01/25 MN - MUNI $50,000
+BoND [gS
+
+Fung Sus New
+
+CITIgRoUP INC. LINKED To _P 12/21/2018 12/22/2018 $100,001 - ec
+BASKET oF INDICES UPSIDE $250,000
+
+LEVERED CAPPED W BUFFER
+
+0% STRUCTURED NoTE DUE
+
+01/31/2020 [CS
+
+Fung Sexrus New
+‘Sopna.ixg 0% Appendix B - NOTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Trott Family Investment Company LLC
+Descntrriox Structured Note.
+
+CRSWL&LXNgT MI CMN SCH g 12/19/2018 12/20/2018 $250,001 - =
+5.0000% 05/01/23 MN - MUNI $500,000
+BOND [gS
+
+Fung Sus New
+‘Sonning or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Energy Transfer LP Common Units 12/06/2018 12/07/2018 $15,001 - ec
+(Et) (ST) $50,000
+
+Fung Sexrus New
+

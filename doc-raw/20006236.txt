@@ -1,0 +1,60 @@
+ 
+
+PerioDic t ranSaction
+
+Yr ePort
+
+Filing ID #20006236
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+‘transactions
+iD owner asset transaction Date
+type Date
+SP Apple Inc. (AAPL) P 11/9/2016 11/16/2016
+Fung Sean: New
+SuouninsOr Neuberger Berman - Traditional IRA
+SP Apple Inc. (AAPL) P 14/11/201611/17/2016
+Fung Scans: New
+SuniouoingOr Neuberger Berman - Traditional IRA
+SP Facebook, Inc. - Class A (FB) P 11/7/2016 11/11/2016
+Fung Sean: New
+SuouninsOr Neuberger Berman - Traditional IRA
+SP Kimberly-Clark Corporation (KMB) S 11/14/201611/21/2016
+Fung Seamus: New
+SuniouoingOr Neuberger Berman - Traditional IRA
+SP Sealed Air Corporation (SEE) P 11/10/201611/17/2016
+Fung Searas: New
+SuouninsOr Neuberger Berman - Traditional IRA
+SP Verizon Communications Inc. (VZ) S 11/14/201611/21/2016
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+asset Class Details
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+notification amount
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$15,001 - $50,000
+

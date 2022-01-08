@@ -1,0 +1,65 @@
+ 
+
+PerloDIic TrANSAcTION FY ePOrT
+
+Filing ID #20007288
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:Ca52
+TraNsAcTIONS
+ID Owner Asset
+Ca State Dept. Water Resources
+Fury Srorus: New
+SP Ca State School Building
+Fury Srorus: New
+
+SP Calleguas ETC Ca
+
+Fung Storvs: New
+SP Eastern Ca Mu
+Fung Stores: New
+SP los angeles Ca, W util Pwr
+Fung Storvs: New
+
+los angeles Cty, Ca Mt
+
+Funny Starus: New
+SP los angeles, Ca, W util Pwr
+Fung Storvs: New
+
+SP Met. Water District, Ca.
+
+Funny Starus: New
+
+TransactionDate _NotificationAmount
+
+Type Date
+
+P 04/18/201704/30/2017 $250,001 - $500,000
+
+P 04/20/2017 04/30/2017 Spouse/DC Over
+$1,000,000
+
+P 04/21/201704/30/2017 $500,001 - $1,000,000
+
+P 04/21/201704/30/2017 Spouse/DC Over
+$1,000,000
+
+P 04/24/2017 04/30/2017 Spouse/DC Over
+$1,000,000
+
+P 04/19/201704/30/2017 $100,001 - $250,000
+
+P 04/24/2017 04/30/2017 Spouse/DC Over
+$1,000,000
+
+P 04/24/2017 04/30/2017 $500,001 - $1,000,000
+

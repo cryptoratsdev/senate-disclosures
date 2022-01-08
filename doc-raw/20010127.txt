@@ -1,0 +1,63 @@
+PerioDic t ranSaction YT ePort
+
+ 
+
+Filing ID #20010127
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building
+
++ Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+HuYa Inc. american depositary P 07/17/2018 07/17/2018 $15,001 -
+shares, each representing one Class $50,000
+
+a ordinary share (HuYa) [sT
+Fung stone: New
+HuYa Inc. american depositary P 07/17/2018 07/17/2018 $15,001 -
+
+shares, each representing one Class $50,000
+a ordinary share (HuYa) [sT
+
+Fung rane: New
+HuYa Inc. american depositary P 07/17/2018 07/17/2018 $50,001 -
+
+shares, each representing one Class $100,000
+a ordinary share (HuYa) [sT
+
+Fiting Stans: New
+HuYa Inc. american depositary s 08/17/2018 08/17/2018 $15,001 -
+
+shares, each representing one Class $50,000
+a ordinary share (HuYa) [sT
+
+Fung rane: New
+
+Netflix, Inc. (NFLX) [sT] P 07/19/2018 07/19/2018 $100,001 -
+$250,000
+
+Fiting Stans: New
+
+cap.
+gains >
+$200?
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+initial Public Offerings
+
+Yes NG
+

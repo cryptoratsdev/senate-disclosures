@@ -1,0 +1,55 @@
+Filing ID #2012662
+
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+Crowdstrike Holdings, Inc. -Class 10/30/2019 10/30/2019 $50,001 - e cb
+a (CRWD) [st $100,000
+
+Fiting Stans: New
+
+HuYa Inc. american depositary s (partial) 11/06/2019 11/06/2019 $50,001 - addy
+shares, each representing one Class $100,000
+a ordinary share (HuYa) [sT
+
+Fung rane: New
+
+HuYa Inc. american depositary s (partial) 11/04/2019 11/04/2019 $15,001 - e cb
+shares, each representing one Class $50,000
+a ordinary share (HuYa) [sT
+
+Fiting Stans: New
+
+HuYa Inc. american depositary P 11/18/201911/18/2019 $15,001 - =
+shares, each representing one Class $50,000
+a ordinary share (HuYa) [sT
+
+Fung rane: New
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+initial Public Offerings
+
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+

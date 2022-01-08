@@ -1,0 +1,55 @@
+Filing ID #2017676
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Ed Perlmutter
+Status: Member
+State/District:CO07
+
+‘TraNSACTIONS
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+SP Berkshire Hathaway Inc. New P 09/01/2020 10/11/2020 $1,001-$15,000
+(BRKB) [ST
+
+Fung Seamus: New
+SP gilead Sciences, Inc. (glID) [ST]S (partial) 09/01/2020 10/11/2020 $1,001-$15,000
+Furxg Scxrus: New
+
+SP Microsoft Corporation (MSFT) S (partial) 09/23/2020 10/11/2020 $1,001-$15,000
+[ST]
+
+Fung Seamus: New
+
+SP Microsoft Corporation (MSFT) S (partial) 09/14/2020 10/11/2020 $1,001-$15,000
+[ST]
+
+Furxg Scxrus: New
+
+SP NVIDIA Corporation (NVDA) [St 09/03/2020 10/11/2020 $1,001-$15,000  ,
+
+Fung Seamus: New
+
+ 
+
+SP Pfizer, Inc. (PFE) [ S (partial) 09/01/2020 10/11/2020 $1,001-$15,000
+
+Furxg Scxrus: New
+SP Square, Inc. Class A (SQ) [ST] P 09/18/2020 10/11/2020 $1,001-$15,000  ,
+
+Fung Seamus: New
+
+SP Verizon Communications Inc. (VEXpartial) 09/01/2020 10/11/2020 $1,001-$15,000
+{ST}
+

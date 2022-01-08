@@ -1,0 +1,50 @@
+Filing ID #20015042
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Nancy Pelosi
+Status: Member
+State/District:Ca12
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+sP_ amazon.com, Inc. (@MZN) [sT] P 01/16/2020 01/16/2020 $1,000,001 - ec
+$5,000,000
+
+Furng Stans: New
+Descrupnore Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $1600.
+
+sP amazon.com, Inc. (aMZN)[sT] s 01/16/2020 01/16/2020 $250,001 - ec
+$500,000
+Furxg stare: New
+Descrupnoxe Sold 20 call options with a strike price of $1,700 and an expiration date of 1/17/20.
+sP amazon.com, Inc. (aMZN) [sT] s 01/16/2020 01/16/2020 $250,001 - ec
+$500,000
+Furng Stare: New
+Descrupnore Sold 20 call options with a strike price of $1,600 and an expiration date of 1/17/20.
+sP Facebook, Inc. - Class a (FB) [sB 01/16/2020 01/16/2020 $250,001 - ec
+$500,000
+Furxg stares: New
+Descrupnoxe Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $140.
+sP Facebook, Inc. - Class a (FB) [s'P 01/16/2020 01/16/2020 $250,001 - ec
+$500,000
+
+Furng Stans: New
+Descrupniose Exercised 20 call options (2,000 shares) expiring 1/17/20 at a strike price of $150.
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+initial Public Offerings
+

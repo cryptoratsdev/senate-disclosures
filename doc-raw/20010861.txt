@@ -1,0 +1,39 @@
+Filing ID #20010861
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+filer information
+
+name: Hon. Tom Rice
+Status: Member
+State/District:sCO7
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+sP Berkshire Hathaway Inc. New P 12/18/2018 12/18/2018 $1,001-$15,000 e ¢
+(BRK.B) [sT
+
+Fung Stone: New
+
+sP FedEx Corporation (FDX) [sT]_s 12/18/2018 12/18/2018 $1,001-$15,000 g <
+
+Fanyg stones: New
+* For the complete list of asset type abbreviations, please visit https:/fd house. gov/reference/asset-type-codes.aspx.
+initial Public Offerings
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+
+Digitally Signed: Hon. Tom Rice , 12/19/2018
+

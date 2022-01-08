@@ -1,0 +1,54 @@
+Filing ID #20006627
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Randy Neugebauer
+Status: Former Member
+State/District:TX19
+TraNsAcTIONS
+1D Owner Asset TransactionDate _Notification Amount.
+Type Date
+2000016903 JT Alaska P 04/12/2016 04/13/2016 $100,001 - $250,000,
+
+FuunoStrus Amended
+‘SontioupuxcOr: ( 6) KINGDOM ENTERPRISES, LTD, LUBBOCK, TEXAS - INVESTMENT PARTNERSHIP > (9)
+BROKERAGE ACCOUNT - GOLDMAN SACHS.
+
+Descrurno Alaska Municipal Revenue Bond 5% 12/01/26
+
+2000016362 SP iShares MSCI EAFE ETF (EFA) S 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuincSerus Amended
+‘SonnioupixcOr: ( 8) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+2000016365 iShares MSCI EAFE ETF (EFA) $ 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuunoStrus Amended
+‘Sonnict.nnicOr: (10) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+2000016364 iShares Silver Trust (SLV) s 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuincSerus Amended
+‘SunniouixcOr: (10) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+2000016361SP iShares Silver Trust (SLV) s 03/3/2016 03/3/2016 $1,001 - $15,000
+
+FuunoStrus Amended
+SontiancOr: ( 8) GOLDMAN SACHS BROKERAGE RETIREMENT ACCOUNT
+
+2000019538 JT LINCOLN NEB CTFS PARTN COBS 07/12/2016 07/14/2016 $100,001 - $250,000
+4% 04/01/26 AO
+FuincSerus Amended
+‘SontioupixcOr: ( 6) KINGDOM ENTERPRISES, LTD, LUBBOCK, TEXAS - INVESTMENT PARTNERSHIP > (9)
+BROKERAGE ACCOUNT- GOLDMAN SACHS.
+Descntrnom Municipal Bond
+

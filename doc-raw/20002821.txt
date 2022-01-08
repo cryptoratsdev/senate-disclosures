@@ -1,0 +1,70 @@
+ 
+
+PerloDIic TrANSAcTION FY ePOrT
+
+Filing ID #2002821
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Virginia Foxx
+Status: Member
+State/District:NCO5
+
+‘TraNsAcTIONS
+
+ID Owner Asset
+
+JT abbott laboratories (aBT)
+
+Fung Stone: New
+
+JT alcoa Inc. (aa)
+
+Furng stares: New
+
+JT altria group, Inc. (MO)
+
+Fung Stone: New
+
+JT Blount International, Inc. (BIT)
+
+Furng stares: New
+
+JT Caterpillar, Inc. (CaT)
+
+Fung Stone: New
+
+JT Corning Incorporated (gIW)
+
+Furng stares: New
+
+JT Curtiss-Wright Corporation (CW)
+
+Funyg stones: New
+JT _ Erie Indemnity Company -Class a
+(ERIE)
+
+Furng stares: New
+
+JT Erie Indemnity Company -Class a
+(ERIE)
+
+TransactionDate _NotificationAmount
+Type Date
+
+P 03/18/2015 03/18/2015 $15,001 - $50,000
+s 03/4/2015 03/4/2015 $15,001 - $50,000
+s 03/11/201503/11/2015 $50,001 - $100,000
+s 03/25/2015 03/25/2015 $15,001 - $50,000
+s 03/5/2015 03/5/2015 $15,001 - $50,000
+P 03/12/201503/12/2015 $15,001 - $50,000
+P 03/25/2015 03/25/2015 $15,001 - $50,000
+P 03/25/2015 03/25/2015 $15,001 - $50,000
+P 03/26/2015 03/26/2015 $1,001 - $15,000
+

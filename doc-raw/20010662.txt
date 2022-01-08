@@ -1,0 +1,57 @@
+Filing ID #20010662
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Debbie Dingell
+Status: Member
+State/District:MI12
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+SP ALLY FINANCIAL INC. [OT] P 10/31/2018 11/05/2018 $15,001 - ec
+$50,000
+
+Fung Sexrus New
+‘SooniocpngOr Morgan Stanley Smith Barney LLC IRA
+Location US
+
+Descrirnox Bond Matures 5/19/2022 Coupon Rate: 4.025%
+
+Resideo Technologies, Inc. (REZS) 11/01/201811/05/2018 $1,001-$15,000 gy
+
+[sT]
+
+Fung Sus New
+
+SooniouomgOr Morgan Stanley Smith Barney LLC Brokerage Account
+
+Descrurnox Received 83 shares of Resideo Technologies, Inc. (REZI) on 10/29/18 valued less than $1,000, as a result of
+spin-off with Honeywell, Inc. (HON).
+
+SP _Resideo Technologies, Inc. (REZS) 11/01/201811/05/2018 $1,001-$15,000 gy
+[ST]
+Fung Sexrus New
+‘SooniovngOr Morgan Stanley Smith Barney Brokerage Account
+
+Descrurnom Received 75 shares of Resideo Technologies, Inc. (REZI) on 10/29/18 valued less than $1,000, as a result of
+spin-off with Honeywell, Inc. (HON).
+
+SP WPX Energy, Inc. (WPX) [ST] P 11/08/2018 11/13/2018 $15,001 -
+$50,000
+Fung Sus New
+‘SooniouomgOr Morgan Stanley Smith Barney LLC IRA
+
+* For the complete list of asset type abbreviations, please visit ttps,/fd house.gov/reference/asset-ty pe-codes.aspx.
+

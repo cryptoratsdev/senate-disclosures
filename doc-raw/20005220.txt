@@ -1,0 +1,59 @@
+Filing ID #20005220
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Lou Barletta
+Status: Member
+State/District:PA11
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+AllianceBernstein Short Duration E 03/7/2016 03/7/2016 $1,001 - $15,000
+
+government Bond
+Fiurng Searus: New
+
+SwnouningOr AXA Retirement Cornerstone 314052431
+Descrurnox Annuity Auto Rebalance
+
+AllianceBemstein Short Duration E 03/7/2016 03/7/2016 $1,001 - $15,000
+government Bond
+
+Fiuing Seamus: New
+
+SwnouningOr AXA Retirement Cornerstone IRA 314052432
+
+Descrurnox Annuity Auto Rebalance
+
+SP AllianceBemstein Short Duration E 03/7/2016 03/7/2016 $1,001 - $15,000
+government Bond
+
+Fung Seamus: New
+‘SuntiotpingOr AXA Retirement Cornerstone 314052430
+Descrurnox Annuity Auto Rebalance
+
+SP AXA 2000 Managed Volatility E 03/7/2016 03/7/2016 $1,001 - $15,000
+
+Fiung Sexnus: New
+‘SuntiotpingOr: AXA Retirement Cornerstone 314052430
+Descrtrnox Annuity Auto Rebalance
+
+AXA 2000 Managed Volatility E 03/7/2016 03/7/2016 $1,001 - $15,000
+
+Fung Seamus: New
+‘SuntiotpingOr AXA Retirement Cornerstone IRA 314052432
+Descrtrnom Annuity Auto Rebalalance
+
+AXA 2000 Managed Volatility E 03/7/2016 03/7/2016 $1,001 - $15,000
+

@@ -1,0 +1,51 @@
+Filing ID #20006858
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Pete Sessions
+Status: Member
+State/District:TX32
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+SP CF Industries Holdings, Inc. (CF) P 03/7/2017 03/7/2017 $1,001 - $15,000
+
+FuunoSerus New
+
+SP Chipotle Mexican Grill, Inc. (CMG) P 03/7/2017 03/7/2017 $1,001 - $15,000
+
+FuunoSers New
+
+SP FANNIE MAE 2.5% MA2308 s 03/7/2017 03/7/2017 $15,001 - $50,000
+06/01/2030
+FuunoSerus New
+Descntrnom FANNIE MAE 2.5% MA2308 06/01/2030
+
+SP FANNIE MAE 3.5% AU3746 s 03/7/2017 03/7/2017 $15,001 - $50,000
+08/01/2043
+FuunoSers New
+Descrurniox FANNIE MAE 3.5% AU3746 08/01/2043
+
+SP OPPENHEIMER DEVELOPING MKT® 03/3/2017 03/3/2017 $15,001 - $50,000
+FDCLA
+FuunoSerus New
+Locarton US
+Descntrriom OPPENHEIMER DEVELOPING MKTS FD CL A,
+
+SP Oppenheimer Intemational Growth P 03/3/2017 03/3/2017 $15,001 - $50,000
+Fund Class A
+FuunoSers New
+Locarion US
+Descrtrniox Oppenheimer International Growth Fund Class A
+

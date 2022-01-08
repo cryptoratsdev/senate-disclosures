@@ -1,0 +1,44 @@
+Filing ID #20001077
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Ms. Suzan K. DelBene
+Status: Member
+State/District:WAO1
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+JT ABB Itd (ABB) P 05/12/2014 05/12/2014 $15,001 - $50,000
+Funwo Sears: New
+JT Acuity Brands Inc (AY, P 05/12/2014 05/12/2014 $15,001 - $50,000
+Funwo Srarus: New
+JT ARIZONA STATE BRD REGENTS uN5V 05/12/2014 05/12/2014 $250,001 - $500,000
+SYS REV 5.000% DuE 07/01/2018
+Funwo Sears: New
+JT Badger Meter, Inc. (BMI) P 05/12/2014 05/12/2014 $15,001 - $50,000
+Funwo Srarus: New
+JT BoE CHICAGo 4.25 DuE 12/01/18 S 05/15/2014 05/15/2014 $250,001 - $500,000
+Funwo Sears: New
+JT Calgon Carbon Corporation (CCC) P 05/12/2014 05/12/2014 $15,001 - $50,000
+Funwo Srarus: New
+JT Canadian Solar Inc. - common share? 05/20/2014 05/20/2014 $15,001 - $50,000
+(csIQ)
+Funwo Sears: New
+JT Chicago Bridge & Iron Company N.VP 05/12/2014 05/12/2014 $15,001 - $50,000
+
+(CBI)
+
+Fun Seanus: New
+
+JT Cree, Inc. (CREE) P 05/12/2014 05/12/2014 $15,001 - $50,000
+

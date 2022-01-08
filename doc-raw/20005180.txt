@@ -1,0 +1,56 @@
+Filing ID #20005180
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Grace Meng
+Status: Member
+State/District:NY06
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+sP_ CREF Global Equities R3 (QCGLIX) P 12/11/2015 12/11/2015 $1,001 - $15,000
+
+Fuunosrane: New
+SuntiotpiNc Or: TIAA-CREF Retirement Annuity - TIAA Real Estate
+Descrupnose Redistribution transfer of CREF Global Equities R3 (QCGLIX)
+
+sP__CREF Global Equities R3 (QCGLIX) P 12/11/2015 12/11/2015 $1,001 - $15,000
+
+Fuunasrans: New
+SuntiotpiNc Or. TIAA-CREF Group supplemental Retirement Annuity
+Descrupnose Redistribution transfer of CREF Global Equities R3 (QCGLIX)
+
+sP CREF Growth R3 (QCGRIX) P 12/11/2015 12/11/2015 $1,001 - $15,000
+
+Fuunosrane: New
+SentiotpiNc Or: TIAA-CREF Retirement Annuity - TIAA Real Estate
+Descrpnose Redistribution transfer of CREF Growth R3 (QCGRIX)
+
+sP CREF stock R3 (QCsTIX) P 12/11/2015 12/11/2015 $1,001 - $15,000
+
+Fuunasrans: New
+SuntiotpiNc Or. TIAA-CREF Group supplemental Retirement Annuity
+Descrupnose Redistribution transfer of CREF stock R3 (QCsTIX)
+
+sP CREF stock R3 (QCsTIX) P 12/11/2015 12/11/2015 $1,001 - $15,000
+
+Fuunosrane: New
+SuntiotpiNc Or: TIAA-CREF Retirement Annuity - TIAA Real Estate
+Descrupnose Redistribution transfer of CREF stock R3 (QCsTIX)
+
+sP TIAA Real Estate (QREARX) P 12/11/2015 12/11/2015 $1,001 - $15,000
+
+Fuunasrans: New
+Sunttotpincor TIAA-CREF Retirement Annuity - TIAA Real Estate
+

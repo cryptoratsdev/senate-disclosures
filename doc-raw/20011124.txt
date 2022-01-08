@@ -1,0 +1,57 @@
+Filing Id #2011124
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Greg Gianforte
+
+Status: Member
+
+State/District:MT00
+
+‘TraNsACTIONS
+
+ID Owner Asset TransactionDate _—NotificationAmount —Cap.
+
+Type Date Gains >
+$200?
+JT atlas Copco ab Sponsored adR P 01/04/2019 01/07/2019 $100,001 - ec
+repstg Class a (aTLKY) [ST $250,000
+
+FuuncStons: New
+Sesnowaive Or: Harding Loevner International Equity
+
+JT Fresenius Medical Care aG (FMS) 01/02/2019 01/07/2019 $100,001 - ec
+[ST] $250,000
+FuunoStons: New
+Susnotaive Or: Harding Loevner International Equity
+
+JT _ Infineon Technologies aG (IFNNE) 01/04/2019 01/07/2019 $250,001 - ec
+[ST] $500,000
+FuuncStons: New
+Sesnowaive Or: Harding Loevner International Equity
+
+JT Marriot Vacations Worldwide P 12/31/2018 01/07/2019 $100,001 - ec
+Corporation (VaC) [ST) $250,000
+FuunoStons: New
+Sunotansa Or Newsouth Small Cap Equities
+
+JT Multi-Color Corporation (LabL) P 01/03/2019 01/07/2019 $100,001 - ec
+[st] $250,000
+FuuncStons: New
+Sunotansa Or Newsouth Small Cap Equities
+
+JT Thermon Group Holdings, Inc. P 01/03/2019 01/07/2019 $50,001 - a
+(THR) (ST. $100,000
+
+FuuncStons: New
+

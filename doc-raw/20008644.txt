@@ -1,0 +1,49 @@
+ 
+
+PerioDic t ranSaction YT ePort
+
+Filing ID #20008644
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Bradley S. Schneider
+Status: Member
+State/District:IL10
+‘transactions
+iD owner asset transaction Date _notification amount
+type Date
+SP Applied Materials, Inc. (AMAT) P 12/7/2017 12/31/2017 $100,001 - $250,000
+FussoSearus New
+SensiouencOr 18 - MSSB BROKERAGE ACCOUNT- IRA (AD/?)
+SP Delta Air Lines, Inc. (DAL) P 12/12/201712/31/2017 $100,001 - $250,000
+FuuoSearus New
+SeniiotemcOr 16 - MSSB BROKERAGE ACCOUNT- IRA (CD/P)
+SP Intel Corporation (INTC) s 12/7/2017 12/31/2017 $100,001 - $250,000
+FussoSearus New
+SensiouencOr 18 - MSSB BROKERAGE ACCOUNT- IRA (AD/?)
+JT United States Steel Corporation (X) § 12/29/201712/29/2017 $1,001 - $15,000
+
+FuunoSers New
+SumniauncOr 13 - Schwab Brokerage Account
+
+asset Class Details
+
+© 13- Schwab Brokerage Account (Owner: JT)
+
+Locariont US
+
+© 16-MSSB BROKERAGE ACCOUNT - IRA (CD/P) (Owner: SP)
+© 18-MSSB BROKERAGE ACCOUNT - IRA (AD/P) (Owner: SP)
+
+initial Public
+
+Yes NG
+
+Offerings
+

@@ -1,0 +1,63 @@
+PerioDic t ranSaction YT ePort
+
+ 
+
+Filing ID #20009686
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Lisa Blunt Rochester
+Status: Member
+State/District:DE00
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+GOLDMAN SACHS BK USA NYP 05/30/2018 05/30/2018 $15,001 -
+CD 3% [CS $50,000
+FusnoSearus New
+SonsiouenecOre LISA BLUNT ROCHESTER IRA
+
+Descntrnom GOLDMAN SACHS BK USA NY CD 3%
+
+GOLDMAN SACHS BK USA NYP 05/30/2018 05/30/2018 $15,001 -
+CD 3% [CS $50,000
+
+FuunoSers New
+
+cap.
+gains >
+$200?
+
+‘SonniouicOr LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+
+Descntrnom GOLDMAN SACHS BK USA NY CD 3%,
+
+GOLDMAN SACHS BK USA NYP 05/30/2018 05/30/2018 $100,001 -
+
+CD 3% [CS $250,000
+
+FuunoSerus New
+
+‘SoonovpwcOr LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+
+Descntrnom GOLDMAN SACHS BK USA NY CD 3%
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house. gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+LISA BLUNT ROCHESTER IRA.
+LISA BLUNT ROCHESTER REV TST UA Apr 02,2015 LISA BLUNT ROCHESTER TR
+
+initial Public Offerings
+
+Yes NG
+

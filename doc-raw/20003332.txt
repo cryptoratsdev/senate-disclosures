@@ -1,0 +1,90 @@
+ 
+
+PerioDic
+
+tranSaction
+
+Yr ePort
+
+Filing ID #20003332
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name:
+Status:
+
+Hon. Vern Buchanan
+Member
+
+State/District:FL16
+
+transactions
+
+iD owner asset
+
+Dexter Mich Cmnty Schs
+Fiung Sorus New
+
+Sonmtatoing or BNY Mellon 5000
+Mlinois St
+
+Fung Sonus New
+
+Sonmatoing Or BNY Mellon 5000
+Jordan Utah Sch Dist
+
+Fiung Sorus New
+
+Sonmtatoing or BNY Mellon 5000
+King Cnty Wa Sch Dis
+
+Fung Sonus New
+
+Sonmatoing Or BNY Mellon 5000
+Michigan St Bldg auth
+
+Fiung Sorus New
+
+Sonmtatoing or BNY Mellon 5000
+New York NY City Hsg Dev Corp
+Fung Sonus New
+
+Sonmatoing Or BNY Mellon 5000
+Washington St Cops (Ctfs Partn)
+
+Fung Sterus New
+Sumti.oinsg 0% BNY Mellon 5000
+
+transaction Date
+type Date
+
+s 06/9/2015 07/2/2015
+P 06/17/201507/2/2015
+s 06/9/2015 07/2/2015
+P 06/17/201507/2/2015
+P 06/24/2015 07/2/2015
+s 06/19/2015 07/2/2015
+s 06/19/2015 07/2/2015
+
+notification amount
+
+$50,001 - $100,000
+
+$100,001 - $250,000
+
+$15,001 - $50,000
+
+$100,001 - $250,000
+
+$100,001 - $250,000
+
+$50,001 - $100,000
+
+$50,001 - $100,000
+

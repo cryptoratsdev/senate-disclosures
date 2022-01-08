@@ -1,0 +1,55 @@
+Filing ID #20010072
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+‘TraNSACTIONS
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+SP FIRST TREXCHaNgE TRaDED P 07/12/2018 07/16/2018 $1,001- $15,000 .g <
+ED DoW JoNES IN [oT
+Fung Serus New
+Soniining oe SP MAO (Merrill Lynch)
+
+Lecanto: US
+Descruriox FIRST TR EXCHaNgE TRaDED FD DoW JoNES IN
+
+SP gENERaTIoN PK MgMTDIST _S 07/13/2018 07/17/2018 $50,001 - =
+TEX ULTD TaX RD a olD aPR16 $100,000
+03.750%SEPO1 2036 [oT
+Fiung Sorus New
+Sonmtatoig or SP M40 (Merril Lynch)
+Locsron: US
+Desciurmiox GENERATION PK MgMT DIST TEX ULTD TaX RD a oID aPR16 03.750%SEPO1 2036,
+SP HaRTFoRD gRoWTH P 07/12/2018 07/16/2018 $15,001 - ec
+OPPORTUNITIES FD [oT $50,000
+Fiung Servs New
+Sonmtong or SP M40 (Merril Lynch)
+Leeson: US
+Desctumion HaRTFORD gRoWTH oPPORTUNITIES FD
+SP SP500aRN ISSUER BoFa CaP_S (partial) _ 07/27/2018 07/27/2018 $50,001 - addy
+
+10.00% SV 2,415.07 DUE 07/27/18 $100,000
+[oT]
+
+Fung Starus New
+
+‘Soona.ixg or: SP M40 (Merrill Lynch)
+
+Lecanto: US
+
+Descntrriox SP500 aRN ISSUER BoFa CaP 10.00% SV 2,415.07 DUE 07/27/18 Redemption
+

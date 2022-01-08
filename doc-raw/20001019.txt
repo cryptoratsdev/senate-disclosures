@@ -1,0 +1,55 @@
+Filing ID #20001019
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Mr. Randy Neugebauer
+Status: Member
+State/District:TX19
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+JT QREnergy, LP Common Units S$ 05/28/2014 05/28/2014 $50,001 - $100,000
+representing Limited Partner Interests
+(QRE)
+FurnoSwrs New
+Sonmato1oor: (6) KINGDOM ENTERPRISES, LTD, LUBBOCK, TEXaS - INVESTMENT PaRTNERSHIP> (i)
+
+BROKERAGE aCCoUNT - GoL.DMaN SaCHS
+
+QR Energy, LP Common Units S 05/23/2014 05/23/2014 $15,001 - $50,000
+representing Limited Partner Interests
+(QRE)
+
+FuunoSterus New
+‘Suntia nico, (11) BROKERAGE aCCoUNT - GoLDMaN SaCHS HoLDINGS
+
+JT QRENERGY, LPSERBSRLIEN P. 05/28/2014 05/28/2014 $100,001 - $250,000
+FuunoSterus New
+‘Sonia pmcor: ( 6) KINGDoM ENTERPRISES, LTD, LUBBOCK, TEXaS - INVESTMENT PaRTNERSHIP> (i)
+
+BROKERAGE aCCoUNT - GoL.DMaN SaCHS
+Descntrrios PURCHaSE oF BONDS
+
+asset Class Details
+
+© (6) KINGDoM ENTERPRISES, LTD, LUBBoCK, TEXaS - INVESTMENT PaRTNERSHIP (owner: JT)
+Lecamans: US
+
+© (6) KINGDoM ENTERPRISES, LTD, LUBBOCK, TEXaS - INVESTMENT PaRTNERSHIP= (i) BRoKERaGE aCCoUNT -
+GoLDMaN SaCHS (owner: JT)
+Lecamons: US
+
+© (11) BRoKERaGE aCCoUNT - GoLDMaN SaCHS HoLDINGS.
+Lecenans: US
+

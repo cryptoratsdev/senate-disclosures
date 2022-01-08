@@ -1,0 +1,64 @@
+Filing ID #20009205
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. David A. Trott
+Status: Member
+State/District:MI1 1
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+EQT Midstream Partners, LP Commdh 03/14/2018 03/15/2018 $15,001 - $50,000
+
+Units representing Limited Partner
+Interests (EQM)
+Fung Searus New
+Descturox Publicly Traded Master Limited Partnership Interest
+
+PUT/XSP @ 249 EXP 06/15/2018 - S 03/28/2018 03/29/2018 $15,001 - $50,000
+CBoE MINI SPX INDEX
+
+Fung Sus New
+
+‘Sonning or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Location: US
+
+Descrurniex Not part of a compensation plan; Not held in an ESoP.
+
+PUT/XSP @ 260 EXP 04/20/2018 - S 03/1/2018 03/2/2018 $1,001 - $15,000
+CBoE MINI SPX INDEX
+
+Fung Sexrus New
+
+‘Soon. ing Or Appendix A - NTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Location: US
+
+Descrurniex Not part of a compensation plan; Not held in an ESoP.
+
+PUT/XSP @ 262 EXP 03/29/2018 - S 03/1/2018 03/2/2018 $1,001 - $15,000
+CBoE MINI SPX INDEX
+
+Fung Sus New
+
+‘Sonning or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Location: US
+
+Descrurniex Not part of a compensation plan; Not held in an ESoP.
+

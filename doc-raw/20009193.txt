@@ -1,0 +1,52 @@
+Filing Id #20009193
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Carlos Curbelo
+Status: Member
+State/District:FL26
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+
+SP Facebook, Inc. - Class a (FB) s 02/6/2018 03/7/2018 $1,001 - $15,000
+Fiung Sonus New
+Sonna.ang Or UBS Brokerage account
+
+SP Facebook, Inc. - Class a (FB) P 02/20/2018 03/7/2018 $1,001 - $15,000
+Fung Sonus New
+Sonnaanng Ov UBS Brokerage account
+
+SP iShares Core S&P Small-Cap ETF (IJR) 02/20/2018 03/7/2018 $1,001 - $15,000
+Fiung Sonus New
+Sonna.ang Or UBS Brokerage account
+
+SP iShares Core S&P Small-Cap ETF (IJ8) 02/6/2018 03/7/2018 $1,001 - $15,000
+Fung Sonus New
+Sonnaanng Ov UBS Brokerage account
+
+SP iShares Russell 1000 growth ETF (WSF) 02/6/2018 03/7/2018 $15,001 - $50,000
+Fiung Sonus New
+Sonna.ang Or UBS Brokerage account
+
+SP iShares Russell 1000 growth ETF (IWF) 02/20/2018 03/7/2018 $15,001 - $50,000
+Fung Sonus New
+Sonnaanng Ov UBS Brokerage account
+
+SP _RoBo global Robotics and automatio& 02/2/2018 03/7/2018 $1,001 - $15,000
+Index ETF (RoBo)
+
+Fung Sterus New
+‘Soonia.any Or UBS Brokerage account
+

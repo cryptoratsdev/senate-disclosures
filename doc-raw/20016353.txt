@@ -1,0 +1,45 @@
+Filing ID #2016353
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon, Suzan K. DelBene
+Status: Member
+State/District:Wa01
+‘Transactions
+ID Owner Asset TransactionDate _—NotificationAmount —Cap.
+Type Date Gains >
+$200?
+JT arizona Indl Dev auth Rev BDS P 03/30/2020 03/30/2020 $500,001 - ec
+lincoln 5.00% Due 05/01/26 [gS $1,060,000
+Fung Shas: New
+JT Illinois HSq Dev auth Rev BDS S 03/06/2020 03/06/2020 $250,001 - ~
+Ser. 1.7% Due 04/01/31 [gS $500,000
+Fung Stas: New
+JT Maryland ST Dept TR 5.00% | P 03/19/2020 03/19/2020 $15,001 - ec
+Comb Tax Due 10/01/26 [gS $50,000
+Fung Shas: New
+SP Microsoft Corporation (MSFT) P 03/31/2020 03/31/2020 $1,001-$15,000
+ST}
+Fung Stas: New
+SP Microsoft Corporation (MSFT) P 03/02/2020 03/02/2020 $500,001 - ec
+Ist} $1,060,000
+Fung Shas: New
+JT New York St dorm auth St persP 03/11/2020 03/11/2020 $1,001-$15,000
+Income 5.0% Due 03/15/2027
+[9S
+Fung Stas: New
+JT university Calif Revs Var gen BBS 03/31/2020 03/31/2020 $500,001 - ec
+1.20% Due 05/15/48 [9S $1,060,000
+
+Fung Storvs: New
+

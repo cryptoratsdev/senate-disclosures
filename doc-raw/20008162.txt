@@ -1,0 +1,52 @@
+Filing ID #20008162
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+‘TraNsAcTIONS
+
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+
+SP brighthouse Financial, Inc. (DHF) S. 08/9/2017 08/14/2017 $1,001 - $15,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP brighthouse Financial, Inc. (bHF) S. 08/8/2017 08/11/2017 $1,001 - $15,000
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Coca-Cola Company (KO) P 08/25/2017 08/30/2017 $1,001 - $15,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP Coca-Cola Company (KO) P 08/24/2017 08/29/2017 $1,001 - $15,000
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP CVS Health Corporation (CVS). 08/25/2017 08/30/2017 $1,001 - $15,000
+Fung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP CVS Health Corporation (CVS) 08/24/2017 08/29/2017 $1,001 - $15,000
+Fiung Searus New
+SorsiouningOr, SP MB1 (Merril Lynch)
+
+SP _ Intel Corporation (INTC) s 08/9/2017 08/14/2017 $1,001 - $15,000
+
+Fung Sexrus New
+StnitotongOr SP M81 (Merrill Lynch)
+

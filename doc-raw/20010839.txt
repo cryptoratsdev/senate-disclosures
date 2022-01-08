@@ -1,0 +1,54 @@
+Filing Id #20010839
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, dC 20515
+
+ 
+
+filer information
+
+name: Hon. Greg Gianforte
+Status: Member
+State/District:MT00
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+JT .2U, Inc. (TWOU) [ST P 11/30/2018 12/03/2018 $500,001 - ec
+$1,000,000
+
+FuunoSerus New
+‘SuoniovawoOr: Riverbridge Managed Account - Small Cap US Equities
+descrirnox cusip 527588FW2 Lewis and Clark County M B/E B/Q CPN 5% due 07/01/34
+
+JT _ BBA Aviation Plc Unsponsored S 12/12/2018 12/17/2018 $15,001 - a
+AGR (BBAVY) [ST $50,000
+
+FuunoSers New
+‘SooniovaweOr: Harding Loevner International Equity
+
+JT BlackLine, Inc. (BL) (ST P 11/30/2018 12/03/2018 $100,001 - ec
+$250,000
+FuunoSerus New
+‘SunniovawoOr Riverbridge Managed Account - Small Cap US Equities
+JT Csi Ltd SPONSOREd AGRS 12/07/2018 12/11/2018 $100,001 - e ch
+(CSLLY) (ST. $250,000
+
+FuunoSers New
+‘SooniovaweOr: Harding Loevner International Equity
+
+JT Fomento Economico Mexicano P 12/07/2018 12/10/2018 $100,001 - ec
+S.AB. de CV. (FMX) [ST $250,000
+FuunoSerus New
+‘SooniovaweOr: Harding Loevner International Equity
+
+JT LAir Liquide Ord American —_S (partial) 12/07/2018 12/10/2018 $100,001 - meh
+
+depositary Shares (AIQUY) [ST $250,000
+

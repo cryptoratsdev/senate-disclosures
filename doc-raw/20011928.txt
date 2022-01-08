@@ -1,0 +1,54 @@
+Filing ID #20011928
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+SP Bank America Corp [C'S P 06/12/2019 06/28/2019 $1,001-$15,000  ¢
+
+Fung Sexrus New
+‘SoonioupngOr: Neuberger Berman - Individual
+Descntrnom Maturity date is 10/01/2021, interest rate is 2.328%
+
+SP general Mls Inc [CS P 06/19/2019 06/28/2019 $1,001- $15,000 g ¢
+Fung Sus New
+‘SumnioueiigOr, Neuberger Berman - Municipal Bonds
+Descrtrnox Maturity date is 4/16/2021, interest rate is 3.2%
+
+SP SPDRS&P500(SPY) (ST) P 06/20/2019 07/02/2019 $295.26 ec
+
+Fung Sexrus New
+SumnotoingOx Neuberger Berman - Roth [RA
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house. gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+Neuberger Berman - Individual (Owner: SP)
+Locariont US
+
+© Neuberger Berman - Municipal Bonds (Owner: SP)
+Loesrient US
+
+Neuberger Berman - Roth IRA (Owner: SP)
+
+initial Public Offerings
+
+Yes NG
+

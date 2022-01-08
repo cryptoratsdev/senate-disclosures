@@ -1,0 +1,50 @@
+ 
+
+PerioDic t ranSaction
+
+Filing ID #20004202
+Yr ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+‘transactions
+iD owner asset transaction Date _notification amount
+type Date
+SP Pfizer, Inc. (PFE) s 12/1/2015 12/5/2015 $15,001 - $50,000
+Fung Searas: New
+SuouninsOr Neuberger Berman - Traditional IRA
+SP PPg Industries, Inc. (PPg) P 11/25/201512/2/2015 $1,001 - $15,000
+Fung Seamus: New
+SuniouoingOr Neuberger Berman - Traditional IRA
+SP Teekay Corp SR s 11/30/201512/5/2015 $15,001 - $50,000
+Fung Searas: New
+SusiouninsOr Neuberger Berman - Traditional IRA
+Descrurnos Interest Purchased
+SP Verizon Communications Inc. (VZ) P 11/20/201511/30/2015 $15,001 - $50,000
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+asset Class Details
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+initial Public
+
+Yes NG
+
+Certification
+
+Offerings
+
+anD Signature
+

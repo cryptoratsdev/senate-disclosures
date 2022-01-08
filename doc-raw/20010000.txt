@@ -1,0 +1,47 @@
+Filing ID #20010000
+
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. John A. Yarmuth
+Status: member
+State/District:KY03
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+Bristol-myers squibb Company P 12/21/201701/06/2018 $1,001-$15,000 .g ¢
+(BmY) [sT]
+
+Fung Stans: New
+Comments: This purchase was mistakenly not included in my 12/21/17 PTR
+
+Delta Airlines, Inc. (DAI) [sT)_ P 06/12/2017 07/12/2017 $1,001-$15,000 eg ¢
+Fung srxnie: New
+
+* For the complete list of asset type abbreviations, please visit ttps,/fd house.gov/reference/asset-type-codes.aspx.
+
+Comments
+
+initial Public Offerings
+
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+
+Digitally Signed: Hon. John A. Yarmuth , 08/01/2018
+

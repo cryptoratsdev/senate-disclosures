@@ -1,0 +1,56 @@
+ 
+
+PerioDic t ranSaction
+
+Yr ePort
+
+Filing ID #20008880
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+transactions
+iD owner asset transaction Date
+type Date
+SP Boston Scientific Corporation (BSX) P 01/22/2018 01/29/2018
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP DrPepper Snapple group, IncDr_ P. 01/29/2018 02/4/2018
+Pepper Snapple group, Inc (DPS)
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP gates Industrial Corporation plc P 01/30/2018 02/4/2018
+Ordinary Shares (gTES)
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+SP Kansas City Southern (KSu) s 01/24/2018 01/30/2018
+Fung Seamus: New
+SwnouingOr, Neuberger Berman - Beneficiary IRA
+SP Oracle Corporation (ORCL) s 01/30/2018 02/4/2018
+Fiung Sanus: New
+SwnoningOr. Neuberger Berman - Beneficiary IRA
+
+asset Class Details
+
+© Neuberger Berman - Beneficiary IRA (Owner: SP)
+
+notification amount
+
+$962.57
+
+$1,001 - $15,000
+
+$781.64
+
+$1,001 - $15,000
+
+$766.25,
+

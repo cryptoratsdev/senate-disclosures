@@ -1,0 +1,91 @@
+ 
+
+PerioDic t ranSaction
+
+Yr ePort
+
+Filing ID #2003001
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+transactions
+
+iD owner asset
+
+sP Amazon.com, Inc. (AMZN)
+
+Fung sraruz New
+Subitotningg 0% SP MB1 (Merrill Lynch)
+
+sP Amazon.com, Inc. (AMZN)
+
+Fiuxg sraruz New
+subiotpixg 0 sP MB1 (Merrill Lynch)
+
+sP AT&T Ine. (T)
+
+Fiung sraruz New
+subuotpixg 0 sP E62 (Edward Jones)
+
+sP Cummins Inc. (CMI)
+
+Fiuxg sraruz New
+subiotpixg 0 sP MB1 (Merrill Lynch)
+
+sP_ FIRST TRUsT gLobAL DIVIDEND
+
+MoNTHLY REINVESTMENT sERIEs
+
+NUMDER 33
+
+Fiung sraruz New
+subuotpixg or sP E62 (Edward Jones)
+Location: US
+
+transaction Date
+type Date
+
+P 04/21/2015 04/24/2015
+P 04/20/2015 04/23/2015
+P 04/13/2015 04/16/2015
+s 04/9/2015 04/14/2015
+
+s
+
+04/23/2015 04/27/2015,
+
+notification amount
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$15,001 - $50,000
+
+$1,001 - $15,000
+
+$100,001 - $250,000
+
+Desctupriose Redemption FIRST TRUsT gLobAL DIVIDEND MoNTHLY REINVESTMENT sERIEs NUMBER 33
+
+sP_Freeport-McMoRan, Inc. (FCX)
+
+Fiuxg sraruz New
+subiotpixg 0 sP MB1 (Merrill Lynch)
+
+s
+
+04/6/2015 04/9/2015
+
+$1,001 - $15,000
+

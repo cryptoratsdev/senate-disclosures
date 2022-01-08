@@ -1,0 +1,53 @@
+Filing ID #20010208
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Suzan K, DelBene
+Status: Member
+State/District:Wa01
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+JT Colorado Health 2.8% Rev ITX P 08/29/2018 08/29/2018 $250,001 - ec
+Due 05/15/42 [gS $500,000
+
+Fung Storvs: New
+
+JT FlHurricane Ca 2.995% Due 08/01/2018 08/01/2018 $250,001 -
+
+07/01/20 [gS $500,000 cao
+Fung Seis: New
+
+JT Florida ST Constr BDS Ser 2018 08/01/2018 08/01/2018 $250,001 - ec
+5.00% Due 07/01/21 [gS $500,000
+Fung Shas: New
+
+JT Harris CNTY Tex Ref BDS 5.008 08/30/2018 08/30/2018 $250,001 - fe cb
+Due 10/01/24 [gS $500,000
+Fung Shes: New
+
+SP Microsoft Corporation (MSFT) P 08/31/2018 08/31/2018 $5,000,001 - ec
+Ist} $25,000,000
+Fung Shas: New
+
+SP Microsoft Corporation (MSFT) P 08/29/2018 08/29/2018 $250,001 - ec
+Ist} $500,000
+Fang Sonus: New
+
+JT Minnesota ST gO Var Purp BD 08/07/2018 08/07/2018 $250,001 - ec
+5.00% Due 08/01/21 [gS $500,000
+
+Fung Storvs: New
+

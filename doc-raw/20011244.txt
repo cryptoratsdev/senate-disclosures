@@ -1,0 +1,54 @@
+ 
+
+Pertopic TrANSACTION IY ePOrT
+
+Filing ID #2011244
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+‘TraNsACTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+SP R2000 aRNISSUER SEK CaP S 02/22/2019 02/25/2019 $15,001 -
+11.55% SV 1,547.107 DUE $50,000
+02/22/19 [07
+Fiung Sonus New
+SonnotoivgOr Trust M69 (Mernill Lynch)
+Locations US
+Desctummos R200 aRN ISSUER SEK CaP 11.55% SV 1,547.107 DUE 02/22/19 Redemption
+SP SP500 CLIRN ISSUER BOFa CaP 02/21/2019 03/01/2019 $15,001 -
+9.00% SV 2,774.88 DUE 04/24/20 $50,000
+[OT]
+Fiung Sorus New
+SonnotoivgOr Trust M69 (Mernill Lynch)
+Locations US
+Descrummos SP500 CLIRN ISSUER BOFa CaP 9.00% SV 2,774.88 DUE 04/24/20
+SP _SP500 CLIRN ISSUER BOFa CaP 02/21/2019 03/01/2019 $50,001 -
+9.00% SV 2,774.88 DUE 04/24/20 $100,000
+[OT]
+Fiung Sorus New
+SnnotoigOr. SP M40 (Merril Lynch)
+Locations US
+Descrummos SP500 CLIRN ISSUER BOFa CaP 9.00% SV 2,774.88 DUE 04/24/20
+SP SXSE CLIRN ISSUER BOFa CalS 02/22/2019 02/22/2019 $50,001 -
+25.90% SV 3,333.96 DUE $100,000
+02/22/19 [OT
+
+Fung Starus New
+‘Sonn pnxgOr: SP M40 (Merrill Lynch)
+
+Cap.
+Gains >
+$200?
+
+ecb
+

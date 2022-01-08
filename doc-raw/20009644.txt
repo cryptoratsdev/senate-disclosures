@@ -1,0 +1,67 @@
+ 
+
+Filing ID #20009644
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name:
+Status:
+
+Hon. David A. Trott
+Member
+
+State/District:MI1 1
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+ALBUQUERQUE N MEX MUN P 05/09/2018 05/10/2018 $50,001 - ec
+SCH DIST go 5% 08/01/25 FA No $100,000
+
+012 go SCH BLDg BDS 2018 UT
+BEo - MUNI BOND [gS
+
+Fung Sexrus New
+
+ANCHORAGE ALASKA go 5% P 05/14/2018 05/15/2018 $100,001 -
+09/01/24 MS go BDS D UT BEo - $250,000
+MUNT BoND [gS
+
+Fiung Srarus New
+
+Sonmtatomg Or Appendix B - NOTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Trott Family Investment Company LLC
+
+CITY oF AUSTIN, TEXAS REV P 05/07/2018 05/08/2018 $50,001 - ec
+5.0000% 11/15/25 MN TRAVIS $100,000
+
+WILLIAMSON AND HAYS Co
+
+WTR/WSTEWTR SYS REF SER
+
+2017 - MUNI BOND [gS
+
+Fung Searus New
+
+gRAND RAPIDS MICH SAN SWR 05/24/2018 05/25/2018 $100,001 - =
+SYS REV 5% 01/01/24 J] REV BDS $250,000
+
+2018 BEo - MUNI BoND [gS
+
+Fung Sus New
+‘Soonia.pixg or: Appendix B - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Trott Family Investment Company LLC
+
+MILWAUKEE WIS go 5% P 05/04/2018 05/05/2018 $50,001 -
+04/01/24 Ao go PROM NTS 2018 $100,000
+N4 UT BEo - MUNI BOND [5S
+

@@ -1,0 +1,65 @@
+PerioDic
+
+ 
+
+tranSaction
+
+Filing ID #20006956
+Yr ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset
+SP Expedia, Inc. (EXPE)
+Fiting Seamus: New
+Sunttotrns Or, Neuberger Berman
+SP Sealed Air Corporation (SEE)
+Fins Sexnus: New
+‘Sunttotins Or, Neuberger Berman
+SP Sealed Air Corporation (SEE)
+Fiting Seamus: New
+Sunttotrns Or, Neuberger Berman
+SP SPDR S&P 500 (SPY)
+
+Fins Sexnus: New
+‘Sunttotins Or, Neuberger Berman
+
+asset Class Details
+
+Neuberger Berman - Roth IRA (Owner: SP)
+
+transaction Date _notification amount
+
+type Date
+
+P 03/15/201703/17/2017 $15,001 - $50,000
+‘Traditional IRA
+
+s 03/7/2017 03/14/2017 $1,001 - $15,000
+‘Traditional IRA
+
+s 03/8/2017 03/15/2017 $1,001 - $15,000
+‘Traditional IRA
+
+P 03/8/2017 03/15/2017 $1,001 - $15,000
+
+Roth IRA,
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+initial Public Offerings
+Yes NG
+Certification anD Signature
+

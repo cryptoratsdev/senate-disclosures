@@ -1,0 +1,63 @@
+ 
+
+Filing ID #20011160
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Carolyn B. Maloney
+
+Status: Member
+
+State/District:NY12
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+
+type Date gains >
+$200?
+
+NEW YORK ST DORM AUTH P. 01/14/2019 02/13/2019 $15,001 - ec
+REVS NON ST SUPPORTED DEBT $50,000
+
+12 SEE 649906TD [GS
+
+Furna Seamus New
+Descntrom NEW YORK ST DORM AUTH REVS NON ST SUPPORTED DEBT 12 SEE 649906TD, COUPON 5,00%, DUE
+07-01-2043, CUSIP 649907744
+
+NEW YORK ST DORM AUTH _P. 01/02/2019 02/13/2019 $15,001 - ec
+SAIES TAX REV ST SUPPORTED $50,000
+SER A BIE [GS)
+
+Furna Seamus New
+Descrtrnios NEW YORK ST DORM AUTH SAIES TAX REV STS SUPPORTED SER A B\E, COUPON 5.00%, DUE 03-15:
+2043, CUSIP 64990ABF1
+
+PORT AUTH NY & NJ CONS ONE. 01/07/2019 02/13/2019 $15,001 - ec
+HUNDRED EIGHTY FOURTH DB $50,000
+BIE [GS.
+
+Furna Seamus New
+Descrurniox PORT AUTH NY & NJ CONS ONE HUNDRED EIGHTY FOURTH DB B\E, COUPON 5.00%, DUE 09-01.
+2036, CUSIP 73358WTD6
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+initial
+
+Public Offerings
+
+No
+
+Certification anD Signature
+
+el GERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+

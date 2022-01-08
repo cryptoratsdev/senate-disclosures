@@ -1,0 +1,53 @@
+ 
+
+Filing ID #20004385
+PerioDic t ranSaction YT ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. Jim McDermott
+Status: Member
+State/District:WA07
+transactions
+iD owner asset transaction Date _notification amount
+type Date
+Archer-Daniels-Midland Company S 12/11/201512/11/2015 $15,001 - $50,000
+(ADM)
+
+Fung Sexrus New
+Suniiouning om James McDermott SrIRA
+Descntrtios ARCHER DANIELS MIDLAND Co.
+
+bank America Corp P 12/22/2015 12/22/2015 $50,001 - $100,000
+
+Fung Sous New
+Sobiotpixg or James McDermott SrIRA
+
+Descrurnox REPSTg 1/25th PFD SER AA Perpetual FXD/VAR CPN 6.100% Due 12/29/49 DTD 03/17/15 FC 09/17/15
+CALL 03/17/25@100.00
+
+Home Depot, Inc. (HD) s 12/11/201512/11/2015 $15,001 - $50,000
+
+Fung Sexrus New
+Suniiouning om James McDermott SrIRA
+Descntrtios HOME DEPoT INC
+
+Morgan Stanley (MS) s 12/22/2015 12/22/2015 $50,001 - $100,000
+Fung Seamus New
+
+Sobiotpixg or James McDermott SrIRA
+
+Descrtrrios MORGAN STANLEY REPSTg 1/1000 FXD/VAR NoN CUML PFD PERPTL.
+
+PPL CAP FDg INC gTD s 12/11/201512/11/2015 $1,001 - $15,000
+
+Fung Sexrus New
+Suniiouning om James McDermott SrIRA
+Descrurniex FXD/VAR CPN 6.700% DUE 03/30/67 DTD 03/20/07 FC 09/30/07 CALL 03/30/17@100.000%
+

@@ -1,0 +1,41 @@
+ 
+
+Filing ID #20004842
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:Wa01
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+JT acuity Brands Inc (aYI) s 03/17/2016 03/17/2016 $1,001 - $15,000
+Fury Srorus: New
+JT Badger Meter, Inc. (BMI) s 03/2/2016 03/2/2016 $1,001 - $15,000
+Fury Srorus: New
+JT City of Seattle 5% Due 05/01/22 S 03/31/2016 03/31/2016 $250,001 - $500,000
+Fury Srorus: New
+JT Dignity Health 2014a BD 3.812% DuB 03/9/2016 03/9/2016 $100,001 - $250,000
+11/01/24
+Fury Srorus: New
+JT Federal Home loan Banks .375% Dus 03/8/2016 03/8/2016 $100,001 - $250,000
+06/24/16
+Fury Srorus: New
+JT Itron, Inc. (TRI) s 03/16/2016 03/16/2016 $1,001 - $15,000
+Fury Srorus: New
+SP Microsoft Corporation (MSFT) PP 03/31/2016 03/31/2016 $1,001 - $15,000
+Fury Srorus: New
+JT North East Indpt School Dist Tex 5.08% 03/9/2016 03/9/2016 $100,001 - $250,000
+Due 08/01/23
+Fury Srorus: New
+JT Orlando & Orange Cnty Expwy auth 5% S 03/9/2016 03/9/2016 $100,001 - $250,000
+

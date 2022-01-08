@@ -1,0 +1,78 @@
+ 
+
+PerioDic t ranSaction
+
+Filing ID #20002447
+Yr ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD
+
+owner asset
+
+SP
+
+SP
+
+SP
+
+SP
+
+transaction Date _notification amount
+type Date
+
+JP Morgan Chase & Co. (JPM) P 01/6/2015 01/12/2015 $15,001 - $50,000
+
+Fung Searas: New
+
+SuouninsOr Neuberger Berman - Traditional IRA
+
+Oracle Corporation (ORCL) P 01/22/2015 01/25/2015 $15,001 - $50,000
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SanDisk Corporation (SNDK) s
+Fiting Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+Seadrill Partners LLC Common unitsS
+Representing Limited Liability Company
+Interests (SDLP)
+
+Fung Seamus: New
+
+SwnouningOr, Neuberger Berman - Traditional IRA
+
+asset Class Details
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+Comments
+
+initial
+
+Yes
+
+Public
+No
+
+Offerings
+
+01/13/201501/20/2015 $15,001 - $50,000
+
+01/22/2015 01/25/2015 $1,001 - $15,000
+

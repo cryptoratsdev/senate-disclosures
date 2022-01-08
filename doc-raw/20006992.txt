@@ -1,0 +1,53 @@
+Filing ID #20006992
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Mo Brooks
+Status: Member
+State/District:al05
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+JT Becton, Dickinson and Company (BD¥) 03/21/2017 03/21/2017 $1,001 - $15,000
+
+Fung Stone: New
+Connuene This asset was acquired by inheritance in 2016.
+
+JT Exxon Mobil Corporation (XoM) —s 03/21/2017 03/21/2017 $1,001 - $15,000
+
+Fung stares: New
+Connuene This asset was acquired by inheritance in 2016.
+
+JT oracle Corporation (oRCI) s 03/15/201703/15/2017 $1,001 - $15,000
+
+Fung Stone: New
+Connuene This asset was acquired by inheritance in 2016.
+
+JT Procter & gamble Company (Pg) s 03/21/2017 03/21/2017 $1,001 - $15,000
+
+Fung stares: New
+Connuene This asset was acquired by inheritance in 2016.
+
+JT union Pacific Corporation (NP) s 03/21/2017 03/21/2017 $1,001 - $15,000
+
+Fung Stone: New
+Connuene This asset was acquired by inheritance in 2016.
+
+JT Wells Fargo & Company(WFC) —s 03/21/2017 03/21/2017 $1,001 - $15,000
+
+Fung stares: New
+Connuene This asset was acquired by inheritance in 2016.
+
+Comments
+

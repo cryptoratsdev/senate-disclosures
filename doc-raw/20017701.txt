@@ -1,0 +1,59 @@
+PerioDic t ranSaction YT ePort
+
+ 
+
+Filing ID #2017701
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+
+SP iShares Russell 2000 Value ETFP 11/09/2020 11/16/2020 $1,001-$15,000 ;
+(WN) [ST]
+Fung Searus New
+SonnotoigOr: Neuberger Berman - Individual
+
+SP _ProShares Short QQQ (PSQ) [S'S 11/09/2020 11/16/2020 $1,001 - $15,000
+
+Fung Sus New
+‘SonnioupigOr: Neuberger Berman - Individual
+
+SP ProShares Short S&P500 (SH) [ST 11/09/2020 11/16/2020
+Fung Sexrus New
+‘SoonioupngOr: Neuberger Berman - Individual
+
+SP The Blackstone group Inc. ClassPA. 11/04/2020 11/11/2020
+(BX) [ST]
+
+Fung Sus New
+‘SonnioupigOr: Neuberger Berman - Individual
+
+* For the complete list of asset type abbreviations, please visit ttps,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+Neuberger Berman - Individual (Owner: SP)
+Locariont US
+
+initial Public Offerings
+
+Yes No
+
+$1,001 - $15,000
+
+$998.90
+

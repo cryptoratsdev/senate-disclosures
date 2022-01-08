@@ -1,0 +1,66 @@
+Filing ID #20008340
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. David A. Trott
+Status: Member
+State/District:MI1 1
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+BNP PARIBAS LINKED To S&P 500 P 10/13/201710/14/2017 $100,001 - $250,000
+
+INDEX BUFFERED CAPPED BETA 0%
+STRUCTURED NoTE DUE 12/18/2019
+
+Fung Sexrus New
+‘Soon. ing Or Appendix A - NTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Descntrriox Structured Note
+
+PLYMH-CNTN MCH CMNTY SCH DST 10/3/2017 10/4/2017 $50,001 - $100,000
+go 5.0000% 05/01/22 MN
+
+PREREFUNDED-RFDg-SCH BLDg &
+
+SITE PRERE 05/01/18 INS SR LN -
+
+MUNI BoND
+
+Fung Sus New
+‘Sonning or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Desctrmiox Received in exchange for PLYMoUTH-CANToN MICH CMNTY SCH go 5.000% 05/01/22-CA MN RFDg-
+SCH BLDg & SITE UT FSA BEo resulting from a prerefunded event. As a result, Toucan Family LLC's ownership in
+PLYMH-CNTN MCH CMNTY SCH DST go 5.0000% 05/01/22 MN PREREFUNDED-RFDg-SCH BLDg & SITE PRERE
+05/01/18 INS SRLN - MUNI BOND is in the $50,001 - $100,000 range.
+
+PLYMH-CNTN MCH CMNTY SCH DST 10/3/2017 10/4/2017 $100,001 - $250,000
+go 5.0000% 05/01/22 MN
+
+PREREFUNDED-RFDg-SCH BLDg &
+
+SITE PRERE 05/01/18 INS SR LN -
+
+MUNI BoND
+
+Fung Searus New
+
+Sonmtoig 0 Appendix B - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Trott Family Investment Company LLC
+Descturox Received in exchange for PLYMoUTH-CANToN MICH CMNTY SCH go 5.0000% 05/01/22-CA MN RFDg-
+SCH BLDg & SITE UT FSA BEo resulting from a prerefunded event. As a result, Trott Family Investment Co LLC's
+

@@ -1,0 +1,46 @@
+Filing ID #20001267
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Mr. Raiil M. Grijalva
+Status: Member
+State/District:aZ03
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+sP_ 3M Company (MMM) s 06/16/2014 07/9/2014 $1,001 - $15,000
+Funwo stones: New
+sP american Express Company (aXP)_ 5 06/27/2014 07/9/2014 $1,001 - $15,000
+Furvo sranes: New
+sP american Express Company (aXP) 06/27/2014 07/9/2014 $1,001 - $15,000
+Funwo stones: New
+sP_amgen Inc. (aMGN) P 06/16/2014 07/9/2014 $1,001 - $15,000
+Furvo sranes: New
+sP_ apple Inc. (aaPl) s 06/16/2014 07/9/2014 $1,001 - $15,000
+Funwo stones: New
+sP BP PIC Ordinary shares (BPaQF) P 06/16/2014 07/9/2014 $1,001 - $15,000
+Furvo sranes: New
+sP Brookfield Global listed Infrastructui® 06/16/2014 07/9/2014 $1,001 - $15,000
+
+Income Fund Closed End Fund (INF)
+
+Furno Stare: New
+
+sP_ Deere & Company (DE) s 06/27/2014 07/9/2014 $1,001 - $15,000
+
+Funna Stare: New
+
+sP Deere & Company (DE) s 06/27/2014 07/9/2014 $1,001 - $15,000
+
+Furno Stare: New
+

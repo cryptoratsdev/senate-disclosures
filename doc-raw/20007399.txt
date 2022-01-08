@@ -1,0 +1,80 @@
+ 
+
+PerioDic t ranSaction
+
+Filing ID #20007399
+Yr ePort
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD
+
+owner asset
+
+SP
+
+SP
+
+SP
+
+SP
+
+type
+Charter Communications, Inc. -ClasPA
+(CHTR)
+
+Fiting Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+IHS Markit Ltd.-Common Shares S
+(INFO)
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+Oracle Corporation (ORCL) P
+
+Fiting Seamus: New
+
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+Oracle Corporation (ORCL) P
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+asset Class Details
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+initial
+
+Yes
+
+Public
+No
+
+Offerings
+
+transaction Date _notification amount
+
+Date
+05/24/2017 05/30/2017 $1,001 - $15,000
+
+05/25/2017 05/31/2017 $1,001 - $15,000
+
+05/24/2017 05/30/2017 $15,001 - $50,000
+
+05/25/2017 05/31/2017 $1,001 - $15,000
+

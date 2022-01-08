@@ -1,0 +1,51 @@
+Filing ID #20009512
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Bradley S. Schneider
+Status: Member
+State/District:I110
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+
+SP JP Morgan Chase & Co. (PM) S 04/17/2018 05/11/2018 $100,001 - ec
+ist! $250,000
+Funwo Searus New
+Sonmoinins Or 18 - MSSB BROKERAGE ACCOUNT- IRA (AD/P)
+
+SP JP Morgan Chase & Co. (PM) S 05/04/2018 05/11/2018 $100,001 - =
+ist! $250,000
+Funvo Sarus New
+Sonnonixs Or 16 - MSSB BROKERAGE ACCOUNT- IRA (CD/P)
+
+SP Progressive Corporation (PGR) P 04/17/2018 05/11/2018 $100,001 - ec
+Is $250,000
+Funwo Searus New
+Sonmoinins Or 18 - MSSB BROKERAGE ACCOUNT- IRA (AD/P)
+
+SP Teladoc, Inc. (TDOC) [ST] P 05/04/2018 05/11/2018 $100,001 - =
+
+$250,000
+
+Furna Seamus New
+Sumnicinic Or 16 - MSSB BROKERAGE ACCOUNT- IRA (CD/P)
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+asset Class Details
+
+© 16-MSSB BROKERAGE ACCOUNT - IRA (CD/P) (Owner: SP)
+© 18-MSSB BROKERAGE ACCOUNT - IRA (AD/P) (Owner: SP)
+

@@ -1,0 +1,55 @@
+Filing ID #20003699
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:Wa01
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+JT aFlaC INC 2.4% DuE 03/16/20 S 08/10/2015 08/10/2015 $15,001 - $50,000
+Fury Srorus: New
+JT Famuc Corp P 08/6/2015 08/6/2015 $15,001 - $50,000
+
+Fung Starus: New
+Descrtrnox Foreign Exchange position, ticker 6954JP
+
+JT FHIB.375% Duk 06/24/16 s 08/10/2015 08/10/2015 $50,001 - $100,000,
+
+Fung Storvs: New
+
+SP Microsoft Corporation (MSFT) P 08/31/2015 08/31/2015 $100,001 - $250,000
+
+Funny Starus: New
+
+JT MORgaN STaNIEY 4.75% DuE 08/10/2015 08/10/2015 $1,001 - $15,000
+03/22/2017
+
+Fung Storvs: New
+
+JT ROPER TECHNOIOgIES 2.05% DuE S 08/10/2015 08/10/2015 $15,001 - $50,000
+10/01/18
+
+Funny Starus: New
+
+JT SunEdison, Inc. (SuNE) P 08/12/2015 08/12/2015 $1,001 - $15,000
+
+Fung Storvs: New
+
+JT SunPower Corporation (SPWR) 08/12/2015 08/12/2015 $1,001 - $15,000
+
+Funny Starus: New
+
+JT SunPower Corporation (SPWR) 08/20/2015 08/20/2015 $15,001 - $50,000
+

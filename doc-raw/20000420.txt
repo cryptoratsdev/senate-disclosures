@@ -1,0 +1,60 @@
+Filing ID #20000420
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Mr. Michael G. Fitzpatrick
+Status: Member
+State/District:Pa08
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+
+BlaCKRoCK GloBalalloCaTloN —P 02/21/2014 03/6/2014 $1,001 - $15,000
+FD
+
+Furno Stare: New
+Toca: Us
+
+Chevron Corporation (CVX) P 02/21/2014 03/6/2014 $1,001 - $15,000
+Funna Stare: New
+
+FRaNKIIN FloaTING RaTE DallY —s 02/21/2014 03/6/2014 $1,001 - $15,000
+aCCEss
+
+Furno Stare: New
+
+Toca: Us
+
+GolDMaN saCHs RIsING DIVIDEND s 02/21/2014 03/6/2014 $15,001 - $50,000
+GRoWTH FuND
+
+Funna Stare: New
+
+Location US
+
+ishares s&P 500 Growth ETF (IVW) s 02/21/2014 03/6/2014 $15,001 - $50,000
+Furno Stare: New
+
+MalINsTaY laRGE CaPGRoWTH =P 02/21/2014 03/6/2014 $15,001 - $50,000
+FuNDI
+
+Funna Stare: New
+
+Location US
+
+sPDRselect sector Fund - utilities P 02/21/2014 03/6/2014 $1,001 - $15,000
+(Xiu)
+
+Furno Stare: New
+

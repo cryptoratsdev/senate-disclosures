@@ -1,0 +1,56 @@
+Filing ID #20008671
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Suzan K, DelBene
+Status: Member
+State/District:Wa01
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+JT -HaRRIS CNTY TEX REF BDS SER P 12/6/2017 12/6/2017 $250,001 - $500,000
+
+5.00% DuE 10/01/2024
+
+Fung Storvs: New
+
+JT Microsoft Corporation (MSFT) PP 12/29/201712/29/2017 $1,001 - $15,000
+
+Funny Starus: New
+
+JT NEW YORK NY gO BDS 5.00% DuE P 12/7/2017 12/7/2017 $250,001 - $500,000
+08/01/2021
+
+Fung Storvs: New
+
+JT —_uS TREaSuRY NT 1% DuE 06/30/2019 S. 12/7/2017 12/7/2017 $250,001 - $500,000
+
+Funny Starus: New
+
+JT uu TREaSuRY NT 1.00% DuE s 12/6/2017 12/6/2017 $15,001 - $50,000
+06/30/19
+
+Fung Storvs: New
+
+JT uS TREaSuRY NT 1.375% DuE —S 12/6/2017 12/6/2017 $250,001 - $500,000
+06/30/2023
+
+Fury Srorus: New
+initial Public Offerings
+Yes NG
+
+Certification anD Signature
+
+el GERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+

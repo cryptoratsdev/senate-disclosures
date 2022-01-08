@@ -1,0 +1,86 @@
+ 
+
+PerioDic t ranSaction YT ePort
+
+Filing ID #20001407
+
+ 
+
+Clerk of the house of Representatives + Legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name:
+Status:
+
+Mr. K. Michael Conaway
+Member
+
+State/District:TX11
+
+transactions
+
+iD owner asset transaction Date _notification amount
+
+SP
+
+SP
+
+SP
+
+SP
+
+type Date
+
+SXSE LIRN Issurer RBC Part 145.59? 06/26/2014 07/3/2014
+Due 06/28/19
+
+Fiung Sterus New
+
+Somkot ping Or: Trust MO9
+
+Descntrnom SXSE LIRN Issurer RBC Part 145.5% Due 06//28/19
+
+SXSE LIRN Issurer RBC Part 145.59P 06/26/2014 07/3/2014
+Due 06/28/19
+
+Fung Starus New
+
+Somhot ping Or: SP M40
+
+Descrurnox SXSE LIRN Issurer RBC Part 145.5% Due 06//28/19
+
+SXSE LIRN Issurer RBC Part 145.59? 06/26/2014 07/3/2014
+Due 06/28/19
+
+Fung Sterus New
+
+Soot ing Or: SP M37
+
+Descntrnom SXSE LIRN Issurer RBC Part 145.5% Due 06//28/19
+
+SXSE LIRN Issurer RBC Part 145.59P 06/26/2014 07/3/2014
+Due 06/28/19
+
+Fung Starus New
+
+Somhot ping Or: SP M36
+
+Descrurnox SXSE LIRN Issurer RBC Part 145.5% Due 06//28/19
+
+asset Class Details
+
+© SP M36 (Owner: SP)
+
+Locariaxe US
+
+$15,001 - $50,000
+
+$50,001 - $100,000
+
+$15,001 - $50,000
+
+$15,001 - $50,000
+

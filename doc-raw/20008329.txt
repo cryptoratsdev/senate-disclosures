@@ -1,0 +1,105 @@
+ 
+
+PerioDic t ranSaction YT ePort
+
+Filing ID #20008329
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name:
+Status:
+
+Hon. K. Michael Conaway
+Member
+
+State/District:TX11
+
+transactions
+
+iD owner asset
+
+SP
+
+SP
+
+SP
+
+wv
+
+SP
+
+SP
+
+transaction Date
+type
+
+American Express Company (AXP) S.
+
+Date
+10/17/201710/19/2017
+
+Fiung Seamus: New
+Sustotpisg Or SP M81 (Merrill Lynch)
+
+JP Morgan Chase & Co. (JPM) s 10/17/201710/19/2017
+
+Fins Sexnus: New
+‘Sestiotpivg Or: SP MB1 (Merrill Lynch)
+
+PNC Financial Services group, Inc. P
+(PNC)
+
+Fiung Seamus: New
+Sustotpisg Or SP M81 (Merrill Lynch)
+
+10/4/2017 10/6/2017
+
+POWERSHARES QQQ TRuST SE1_ P
+Fins Sexnus: New
+
+Sestioupisg Or: SP M92 (Merrill Lynch)
+Locarion uS
+
+Descntrrioms POWERSHARES QQQ TRUST SE 1
+
+10/19/201710/23/2017
+
+SP500 ARN ISSuER bOFA CAP 10.00%
+SV 2,560.40 Du 12/21/18
+
+Fiting Seamus: New
+
+Sutotpinsg Or Trust M69 (Merrill Lynch)
+Location uS
+
+Descntrnom SP500 ARN ISSUER bOFA CAP 10.00% SV 2,560.40 Duk 12/21/18,
+
+10/26/2017 11/2/2017
+
+SP500 CLIRN ISSuER bAC CAP 14.08%
+SV 2,089.41 DuE 10/27/17
+
+Fins Sexnus: New
+
+10/27/201710/31/2017
+
+notification amount
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$15,001 - $50,000
+
+$1,001 - $15,000
+
+$50,001 - $100,000
+
+$100,001 - $250,000
+

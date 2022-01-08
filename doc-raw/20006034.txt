@@ -1,0 +1,62 @@
+Filing ID #20006034
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. Judy Chu
+Status: Member
+State/District:Ca27
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+S&P 500 DEC 16 1900 PUT s 09/2/2016 09/2/2016 $1,001 - $15,000
+Fung Soros New
+Sunotoing or TD ameritrade Investment account
+Locarin: US
+
+Descntrvion PUT
+
+S&P 500 NoV 18 2000 PUT s 09/27/2016 09/27/2016 $1,001 - $15,000
+
+Fung Starus New
+Sobotpixg Or TD ameritrade Investment account
+Lecanto: US
+
+Descntrrion PUT
+
+S&P 500 DEC 16 1800 PUT P 09/26/2016 09/26/2016 $1,001 - $15,000
+Fiting Srorus New
+
+Sobtoupixg Or TD ameritrade Investment account
+
+Locemtws: US
+
+Descntrvion PUT
+
+S&P 500 DEC 16 1825 PUT s 09/26/2016 09/26/2016 $1,001 - $15,000
+
+Fung Starus New
+Sobotpixg Or TD ameritrade Investment account
+Lecanto: US
+
+Descntrrion PUT
+
+S&P 500 DEC 16 1950 PUT s 09/2/2016 09/2/2016 $1,001 - $15,000
+Fiting Srorus New
+
+Sobtoupixg Or TD ameritrade Investment account
+
+Locemtws: US
+
+Descntrvion PUT
+

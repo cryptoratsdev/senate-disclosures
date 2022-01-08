@@ -1,0 +1,55 @@
+Filing ID #2017186
+
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+
+transactions
+
+iD owner asset transaction Date _— notification amount —_—cap.
+type Date gains >
+$200?
+2000065162 American Airlines group, IncP 03/25/2020 03/25/2020 $1,001 - ec
+(AAL) [ST $15,000
+
+Fung Searus: Deleted
+
+2000065163 Carnival Corporation (CCL) P 03/25/2020 03/25/2020 $1,001 - me
+[ST] $15,000
+
+Fung Searas: Deleted
+
+2000065165 Southwest Airlines CompanyP 03/25/2020 03/25/2020 $1,001 - ec
+(Luv) (ST) $15,000
+
+Fung Searus: Deleted
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+Comments
+
+These trades were never executed and, therefore, were erroneously reported as part of the Financial Disclosure process.
+
+initial Public Offerings
+
+Yes No
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. James R. Langevin , 08/18/2020
+

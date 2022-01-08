@@ -1,0 +1,51 @@
+Filing ID #20009481
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Nancy Pelosi
+Status: Member
+State/District:CA12
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+sP Amazon.com, Inc. (AMZN) [sT] P 07/27/2018 07/27/2018 $500,001 - ec
+$1,000,000
+
+Fung sraruz New
+Descrupnose Purchase of 20 call options with a strike price of $1700 and an expiration date of 1/17/20.
+
+sP Facebook, Inc. - Class A (FB) [sP) 07/27/2018 07/27/2018 $50,001 ~ ec
+$100,000
+Fung sraruz New
+Descrupnose Purchase of 20 call options with a strike price of $150 and an expiration date of 1/17/20.
+sP Mojo Networks, Ine. [Ps s 08/23/2018 08/22/2018 $1,001-$15,000 g ¢
+
+Fung sraruz New
+Location: US
+
+Descrupmone Final cash distribution for preferred shares held resulting from Arista Networks, Inc. acquisition of Mojo
+Networks, Inc.
+
+* For the complete list of asset type abbreviations, please visit https:/fd house. gov/reference/asset-type-codes.aspx.
+initial Public Offerings
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+
+Digitally Signed: Hon. Nancy Pelosi , 09/06/2018
+

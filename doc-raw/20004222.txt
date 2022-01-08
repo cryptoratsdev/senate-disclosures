@@ -1,0 +1,54 @@
+Filing ID #20004222
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Ed Whitfield
+Status: Member
+State/District:KYO1
+
+TraNsAcTIONS
+1D Owner Asset TransactionDate _Notification Amount.
+Type Date
+
+SP Capital one Financial CorporationP 11/9/2015 11/30/2015 $1,001 - $15,000,
+(CoF)
+Fang Sexrus: New
+
+SP Philip Morris International Inc (P18) 11/24/201511/30/2015 $15,001 - $50,000
+Fung Seamus: New
+
+SP Philip Morris International Inc (P18) 11/24/201511/30/2015 $15,001 - $50,000
+Fang Sexrus: New
+
+SP The Madison Square garden P 11/24/201511/30/2015 $1,001 - $15,000
+Company Class A Common Stock
+(MSg)
+Fung Seamus: New
+
+SP The Madison Square garden 11/24/201511/30/2015 $1,001 - $15,000,
+Company Class A Common Stock
+(MSg)
+Fang Sexrus: New
+
+SP Wells Fargo & Company (WFC) P 11/9/2015 11/30/2015 $1,001 - $15,000
+Fung Seamus: New
+
+SP Wells Fargo Advantage Short Teri 11/9/2015 11/30/2015 $50,001 - $100,000
+
+Municipal Bond Fund
+
+Fung Seamus: New
+Descrurniox Sale of Wells Fargo Bond Fund
+
+2000010773 SP Wells Fargo Advantage Short Teri. 07/21/2015 07/31/2015 $15,001 - $50,000
+

@@ -1,0 +1,66 @@
+ 
+
+PerioDic t ranSaction
+
+Filing ID #20002484
+Yr ePort
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + b-106 Cannon building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Katherine M. Clark
+Status: Member
+State/District:Ma05
+
+transactions
+
+iD
+
+owner asset
+
+type
+ameriprise Financial, Inc. (aMP) S$
+Fung Storvs: New
+Sunowing Or Judith S. Clark Irrevocable Trust,
+Centurylink, Inc. (CTI) s
+Fung Starus: New
+Susnowing Or Judith S. Clark Irrevocable Trust,
+Discover Financial Services (DFS) S
+Fung Storvs: New
+Sunowing Or Judith S. Clark Irrevocable Trust,
+Microsoft Corporation (MSFT).
+
+Fung Starus: New
+Susnowing Or Judith S. Clark Irrevocable Trust,
+
+asset Class Details
+
+Judith S. Clark Irrevocable Trust
+
+Comments
+
+initial
+
+Yes
+
+Public
+No
+
+Offerings
+
+transaction Date _notification amount
+
+Date
+01/22/2015 01/30/2015 $15,001 - $50,000
+
+01/22/2015 01/30/2015 $1,001 - $15,000
+
+01/22/2015 01/30/2015 $15,001 - $50,000
+
+01/27/2015 01/30/2015 $1,001 - $15,000
+

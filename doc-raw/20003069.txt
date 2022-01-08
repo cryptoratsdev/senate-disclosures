@@ -1,0 +1,40 @@
+Filing ID #20003069
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX32
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+SP abbvie Inc. (aBBV) s 04/23/2014 04/23/2014 $1,001 - $15,000
+Fury Srorus: New
+SP actavis PIC (aCT) s 04/23/2014 04/23/2014 $1,001 - $15,000
+Fury Srorus: New
+SP affiliated Managers gRP (aMg) —S 04/23/2014 04/23/2014 $1,001 - $15,000
+Fury Srorus: New
+SP _agilent Technologies, Inc. (a) s 04/23/2014 04/23/2014 $1,001 - $15,000
+Fury Srorus: New
+SP aMTRuST Financial SVCS (aFSI) 01/21/2014 01/21/2014 $1,001 - $15,000
+Fury Srorus: New
+SP apple Inc (aaPl) P 04/19/2013 04/19/2013 $1,001 - $15,000
+Fury Srorus: New
+apple Inc. (aaPl) s 04/24/2015 04/24/2015 $1,001 - $15,000
+Fury Srorus: New
+SP auto Data Processing s 04/23/2014 04/23/2014 $1,001 - $15,000
+Fury Srorus: New
+SP BCEINC NEWF (BCE) P 05/31/2013 05/31/2013 $1,001 - $15,000
+
+Fung Storvs: New
+

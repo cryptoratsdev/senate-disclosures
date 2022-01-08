@@ -1,0 +1,53 @@
+ 
+
+Pertopic TrANSACTION IY ePOrT
+
+Filing ID #2016189
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+ 
+
+Name: Hon. Kim Schrier
+Status: Member
+State/District:WA08
+‘TraNsACTIONS
+ID Owner Asset TransactionDate _Notification Amount
+Type Date
+JT Apple Inc. (API) [ST s 02/28/2020 02/29/2020 $250,001 -
+$500,000
+Funwo Sexrus: New
+Snowe Or. Gowing Family Trust Secondary Account
+JT Apple Inc. (API) [ST s 03/02/2020 03/03/2020 $1,000,001 -
+$5,000,000
+Funvo Sanus: New
+Sanowwe Or. Gowing Family Trust Secondary Account
+JT Apple Inc. (AAP) [ST s 03/03/2020 03/04/2020 $250,001 -
+$500,000
+Funwo Sexrus: New
+Snowe Or. Gowing Family Trust Secondary Account
+JT Apple Inc. (API) [ST s 02/28/2020 02/29/2020 $100,001 -
+$250,000
+Funvo Sanus: New
+Swuowie Or. Gowing Family Trust Primary Account
+JT Apple Inc. (AAP) [ST s 03/02/2020 03/03/2020 $250,001 -
+$500,000
+Funwo Sexrus: New
+Swuowie Or. Gowing Family Trust Primary Account
+JT Apple Inc. (API) [ST s 03/03/2020 03/04/2020 $1,000,001 -
+$5,000,000
+
+Furnas Seanus: New
+
+Cap.
+Gains >
+$200?
+
+ex
+

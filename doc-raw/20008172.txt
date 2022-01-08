@@ -1,0 +1,52 @@
+Filing ID #20008172
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+SP bank Nova Scotia Halifax Pfd 3 Ordiifury 09/26/2017 09/28/2017 $1,001 - $15,000
+
+Shares (bNS)
+
+Fung Sexrus New
+StnitotongOr SP M81 (Merrill Lynch)
+
+SP bank Nova Scotia Halifax Pfd 3 Ordiifary 09/25/2017 09/27/2017 $1,001 - $15,000
+Shares (bNS)
+Fung Sus New
+‘SobsotpngOr: SP MB1 (Merrill Lynch)
+
+SP bank Nova Scotia Halifax Pfd 3 Ordiifary 09/22/2017 09/26/2017 $1,001 - $15,000
+Shares (bNS)
+Fung Sexrus New
+StnitotongOr SP M81 (Merrill Lynch)
+
+SP DOWDUPONT INC COM PAY DATE E 09/1/2017 09/1/2017 $15,001 - $50,000
+09/01/2017
+Fung Sus New
+SopsiotpgOr SP MB1 (Merrill Lynch)
+Locarion US
+Descrurnios DOWDUPONT INC COM PAY DATE 09/01/2017
+
+SP DUPONTEIDENEMOURS PAY E 09/1/2017 09/1/2017 $15,001 - $50,000
+DATE 09/01/2017
+Fiuing Seamus New
+StnitotongOr SP M81 (Merrill Lynch)
+Location US
+Descntrnom DU PONT EI DE NEMOURS PAY DATE 09/01/2017
+

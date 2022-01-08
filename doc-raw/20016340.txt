@@ -1,0 +1,52 @@
+Filing ID #20016340
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Nancy Pelosi
+Status: Member
+State/District:Ca12
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+sP alphabet Inc. - Class a (googl) P 02/27/2020 02/27/2020 $500,001 - ec
+[oP $1,000,000
+
+Fung Stans: New
+Descrupnoxe Purchased 40 call options with a strike price of $1200 and an expiration date of 6/18/2021.
+
+sP Microsoft Corporation (MsFT) P 02/28/2020 02/28/2020 $100,001 - eS
+[oP] $250,000
+
+Fung stares: New
+Descrupnioxe Purchased 50 call options with a strike price of $130 and an expiration date of 3/19/2021
+
+sP Microsoft Corporation (MsFT) P 02/20/2020 02/20/2020 $250,001 - e
+[oP: $500,000
+Fung Stone: New
+Descrupnose Purchased 100 call options with a strike price of $140 and an expiration date of 3/19/2021.
+sP Microsoft Corporation (MsFT) P 02/21/2020 02/21/2020 $500,001 - eS
+[oP] $1,000,000
+Fung Stare: New
+Descrupnoxe Purchased 100 call options with a strike price of $130 and an expiration date of 3/19/2021
+sP slack Technologies, Inc. Class aP 02/20/2020 02/20/2020 $250,001 - e
+(WoRK) [sT" $500,000
+Fung Stans: New
+
+Desctupmiose Purchased 10,000 shares.
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+initial Public Offerings
+

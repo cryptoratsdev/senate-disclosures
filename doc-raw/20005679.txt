@@ -1,0 +1,57 @@
+Filing Id #20005679
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Lamar Smith
+Status: Member
+State/District:TX21
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+Equifax, Inc. (EFX) s 07/15/2016 08/1/2016 $1,001 - $15,000
+
+Fung Sterus New
+Subitotansy MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Fortive Corporation (FTV) P 07/8/2016 08/5/2016 $1,001 - $15,000
+
+Fung Starus New
+‘Sobitotaing Or MERRILL LYNCH INVESTMENT aCCoUNTS,
+descntrmox STOCK dIVIENd oF 48 SHaRES oF FoRTIVE CoRP Pald bY daNaHER CoRP.
+
+gilead Sciences, Inc. (giLd) s 07/22/2016 08/1/2016 $1,001 - $15,000
+Fung Sterus New
+
+Subitotansy MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Herbalife Ltd. (HLF) P 07/25/2016 08/1/2016 $1,001 - $15,000
+Fung Starus New
+
+‘Sobitotaing Or MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Mead Johnson Nutrition Company P. 07/26/2016 08/1/2016 $1,001 - $15,000
+(MIN)
+
+Fung Sterus New
+
+Subitotansy MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Mead Johnson Nutrition Company P. 07/29/2016 08/5/2016 $1,001 - $15,000
+(MIN)
+
+Fung Starus New
+
+‘Sobitotaing Or MERRILL LYNCH INVESTMENT aCCoUNTS,
+
+Microsoft Corporation (MSFT) PP 07/13/2016 08/1/2016 $1,001 - $15,000
+

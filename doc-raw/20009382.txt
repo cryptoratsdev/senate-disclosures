@@ -1,0 +1,63 @@
+Filing ID #20009382
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Carolyn B. Maloney
+Status: Member
+State/District:NY12
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+NEW YORK NY CITY MUN WTRE 03/27/2018 04/12/2018 $15,001 - ec
+FIN AUTH WTR & SWR SYS REV $50,000
+
+PREF SER DD B/E OID [GS
+Furna Seamus New
+
+Descntrnom EXCHANGE IN - NEW YORK NY CITY MUN WTR FIN AUTH WTR & SWR SYS REV PREF SER DD B/E.
+OID, COUPON 4.50%, DUE 06/15/2038, CUSIP 64972GQM9
+
+NEW YORK NY CITY MUN WTHE. 03/27/2018 04/12/2018 $50,001 - ec
+FIN AUTH WTR & SWR SYS REV $100,000
+
+SER DD B/E OID [CS]
+
+Furna Seamus New
+
+Descrtrnios EXCHANGE OUT - NEW YORK, NY CITY MUN WTR FIN AUTH WTR & SWR SYS REV SER DD B/E OID,
+COUPON 4.50%, DUE 06/15/2038, CUSIP 64972FUDS,
+
+NEW YORK NY CITY MUN WTFE. 03/27/2018 04/12/2018 $15,001 - ec
+FIN AUTH WTR & SWRSYS REV $50,000
+
+SER DD B/E OID [CS
+
+Furna Seamus New
+
+Descntriom EXCHANGE OUT - NEW YORK NY CITY MUN WTR FIN AUTH WTR & SWR SYS REV SER DD BJE OID,
+COUPON 4.50%, DUE 00/15/2038, CUSIP 64972FUDS
+
+NEW YORK NY CITY MUN WTHE. 03/27/2018 04/12/2018 $50,001 - ec
+FIN AUTH WTR & SWR SYS REV $100,000
+
+UNREF DD B/E OID [GS]
+
+Furna Seamus New
+
+Descrtrnios EXCHANGE IN - NEW YORK NY CITY MUN WTR FIN AUTH WTR & SWR SYS REV UNREF DD B/E OID,
+COUPON 4.50%, DUE 06/15/2038, CUSIP 64972GQQ0
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+

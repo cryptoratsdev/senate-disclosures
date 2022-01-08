@@ -1,0 +1,69 @@
+Filing Id #20017070
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+
+‘TrANSACTIONS
+
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+
+"CITIgROUP INC PERPETUAL P. 07/01/2020 07/03/2020 $100,001 - ec
+FIX/FLT bONdS CALLABLE CPN $250,000
+
+6.125% dUE 12/29/49 dTd
+
+11/13/15 FC 05/15/16 CALL1
+
+11/15/20 @ 100.000, CUSIP-
+
+172967Ka2" |
+
+Fung Sexrus New
+Sobiotaing Or WF 95 (Wells Fargo Financial)
+
+Location US
+
+descntrnon "CITIGROUP INC PERPETUAL FIX/FLT bONS CALLABLE CPN 6.125% dUE 12/29/49 aT 11/13/15 FC
+05/15/16 CALL1 11/15/20 @ 100.000, CUSIP-172967Ka2"
+
+  
+
+Amazon.com, Inc. (AMZN) [ST] P 07/01/2020 07/03/2020 $50,001 - ec
+$100,000
+
+Fung Sus New
+
+Sopiotaing Or WF 09 (Wells Fargo Financial)
+
+SP AMERICAN FUNdS THE TAX P 07/20/2020 07/23/2020 $1,001-$15,000, ;
+EXEMPT bONd FUNd OF
+AMERICA [OT
+
+Fung Sexrus New
+‘Sobiotaing Or: SP E02 (Edward Jones)
+
+Location US
+
+descntrnom AMERICAN FUNAS THE TAX EXEMPT bONd FUNd OF AMERICA
+
+Apple Inc. (AAPL) [ST] P 07/01/2020 07/03/2020 $15,001 - ec
+$50,000
+
+Fung Sus New
+Sopiotaing Or WF 09 (Wells Fargo Financial)
+

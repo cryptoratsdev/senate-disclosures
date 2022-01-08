@@ -1,0 +1,113 @@
+ 
+
+Filing ID #20003204
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name:
+Status:
+
+Hon. Scott H. Peters
+
+Member
+
+State/District:Ca52
+
+‘TraNsAcTIONS
+
+ID Owner Asset
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SE Systems, Inc.
+
+Fung Storvs: New
+
+SE Systems, Inc.
+
+Funny Starus: New
+
+SE Systems, Inc.
+
+Fung Storvs: New
+
+SE Systems, Inc.
+
+Funny Starus: New
+
+SE Systems, Inc.
+
+Fung Storvs: New
+
+SE Systems, Inc.
+
+Funny Starus: New
+
+SE Systems, Inc.
+
+Fung Storvs: New
+
+SE Systems, Inc.
+
+Funny Starus: New
+
+SE Systems, Inc.
+
+Fung Storvs: New
+
+- (gVP)
+
+- (gVP)
+
+- (gVP)
+
+- (gVP)
+
+- (gVP)
+
+- (gVP)
+
+- (gVP)
+
+- (gVP)
+
+- (gVP)
+
+TransactionDate _NotificationAmount
+
+Type Date
+
+s 05/5/2015 05/31/2015 $1,001 - $15,000
+s 05/7/2015 05/31/2015 $1,001 - $15,000
+s 05/8/2015 05/31/2015 $1,001 - $15,000
+s 05/11/201505/31/2015 $15,001 - $50,000
+s 05/12/2015 05/31/2015 $1,001 - $15,000
+s 05/13/2015 05/31/2015 $15,001 - $50,000
+s 05/14/2015 05/31/2015 $1,001 - $15,000
+s 05/15/2015 05/31/2015 $1,001 - $15,000
+s 05/18/2015 05/31/2015 $1,001 - $15,000
+

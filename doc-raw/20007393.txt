@@ -1,0 +1,52 @@
+Filing Id #20007393
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+Status: Member
+State/District:TX11
+TraNsAcTIONS
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+SP deere & Company (dE) s 05/15/201705/18/2017 $1,001 - $15,000
+Fiung Sorus New
+Somos O” SP E62 (Edward Jones)
+SP R200 aRN ISSUER SEK CaP 14.37%8 05/2/2017 05/5/2017 $50,001 - $100,000
+
+Fung Starus New
+Sobiotarng Oo”: SP M40 (Merrill Lynch)
+
+Lecanto: US
+
+descntrmiox R200 aRN ISSUER SEK CaP 14.37%
+
+SP R2000 aRN ISSUER SEK CaP 14.378 05/2/2017 05/5/2017 $1,001 - $15,000
+Fung Sterus New
+Sunitotansg o” SP M40 (Merrill Lynch)
+Locemtns: US
+descntrmox R200 aRN ISSUER SEK CaP 14.37%
+
+SP R2000 CLIRN ISSUER CIbC CaP. 05/8/2017 05/11/2017 $50,001 - $100,000
+18.18%
+Fung Starus New
+Sobiotarng Oo”: SP M40 (Merrill Lynch)
+Lecanto: US
+descntrmex R200 CLIRN ISSUER CIbC CaP 18.18%
+
+SP R2000 CLIRNS ISSUER CIbC CaP. 05/12/201705/17/2017 $15,001 - $50,000
+20.40%
+Fung Sterus New
+Sunitotansg o” SP M40 (Merrill Lynch)
+Locemtns: US
+descntrmex R200 CLIRNS ISSUER CIC CaP 20.40%
+

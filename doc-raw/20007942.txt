@@ -1,0 +1,55 @@
+Filing ID #20007942
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Debbie Dingell
+Status: Member
+State/District:MI12
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+SP DowDuPont Inc. (DWDP) E 09/1/2017 09/5/2017 $1,001 - $15,000
+Fung Searus New
+SunniotpmgOr: Morgan Stanley Smith Barney Brokerage Account
+
+Descntrnom Shares received in exchange for E. I. du Pont de Nemours and Company (DD) shares as a result of merger.
+
+JT DowDuPont Inc. (OWDP) E 09/1/2017 09/5/2017 $15,001 - $50,000
+
+Fung Sus New
+SoonioungOr: Morgan Stanley Smith Barney LLC Brokerage Account
+Descntrnom Shares received in exchange for Dow Chemical Company (DOW) shares as a result of merger.
+
+SP Medtronic plc. Ordinary Shares (MDP) 08/28/2017 09/5/2017 $1,001 - $15,000
+Fiuing Seamus New
+‘SooniocngOr Morgan Stanley Smith Barney LLC IRA
+Mondelez International, Inc. - Class ® 08/28/2017 09/5/2017 $1,001 - $15,000
+(MDLZ)
+
+Fung Sus New
+SooniouomgOr Morgan Stanley Smith Barney LLC Brokerage Account
+
+asset Class Details
+
+© Morgan Stanley Smith Bamey Brokerage Account (Owner:
+Loesriexs US
+
+ 
+
+© Morgan Stanley Smith Bamey LLC Brokerage Account
+Loesriexs US
+
+© Morgan Stanley Smith Bamey LLC Brokerage Account (Owner: JT)
+Loesriexs US
+

@@ -1,0 +1,52 @@
+Filing ID #20010604
+
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Steve Cohen
+Status: Member
+State/District:TN09
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+KNoX CNTY TN HLTH EDUCTNR, 10/22/2018 11/05/2018 $15,001 - ec
+& HSg FaCS BRD HoSP REV $50,000
+RFDg-CoVENaNT HLTH SER a
+oPT ERP [CS
+
+Fung Sterus New
+Soong 0: Stephens advantage account
+Desctrmion asset # 7BC2
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+© Stephens advantage account
+ssnon: US
+
+ 
+
+initial Public Offerings
+
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+
+Digitally Signed: Hon. Steve Cohen , 11/05/2018
+

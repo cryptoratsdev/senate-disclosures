@@ -1,0 +1,60 @@
+Filing ID #20003887
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Suzan K, DelBene
+Status: Member
+State/District:Wa01
+
+‘TraNsAcTIONS
+
+ID Owner Asset TransactionDate _Notification Amount.
+Type Date
+
+JT aFlaC INC NOTE 2.4% DuE s 09/16/2015 09/16/2015 $15,001 - $50,000
+03/16/2020
+
+Fung Storvs: New
+
+JT -BaYaREa TOM auTHCallF 1.5%  § 09/16/2015 09/16/2015 $50,001 - $100,000
+DuE 04/01/2047
+
+Funny Starus: New
+
+JT FEDERal HOME 10aN BaNKS .375%S 09/21/2015 09/21/2015 $50,001 - $100,000
+06/24/2016
+
+Fung Storvs: New
+
+JT gEORgla ST gO BDS SER 5.00% DulS 09/18/2015 09/18/2015 $50,001 - $100,000
+02/01/2021
+
+Funny Starus: New
+
+JT gEORgla ST gO BDS SER 5.00% DulS 09/16/2015 09/16/2015 $50,001 - $100,000
+02/01/2021
+
+Fung Storvs: New
+
+JT IDaHO ST BIDg auTH BIDg5.00% 09/18/2015 09/18/2015 $50,001 - $100,000
+09/01/2023
+
+Funny Starus: New
+
+JT IOWER COIO RIVauTH TEX 5.00 § 09/18/2015 09/18/2015 $50,001 - $100,000
+DuE 05/15/2022
+
+Fung Storvs: New
+
+JT MORgaN STaNIEY SR NT 4.75% DulS 09/16/2015 09/16/2015 $15,001 - $50,000
+

@@ -1,0 +1,80 @@
+ 
+
+PerioDic t ranSaction
+
+Yr ePort
+
+Filing ID #2001144
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Roger Williams
+Status: Member
+State/District:TX25
+
+transactions
+
+iD
+
+owner asset
+
+SP
+
+SP
+
+SP
+
+SP
+
+transaction Date
+
+type Date
+Berkshire Hathaway Inc. (BRKa) P 10/31/201505/13/2016
+Fin Soros New
+Sonnrong 0% Edward Jones Brokerage account
+Chevron Corporation (CVX) P 10/31/201505/13/2016
+Fung Soros New
+Sonnarong or Edward Jones Brokerage account
+gogo Inc. (gogo) s 10/21/201505/13/2016
+Fiurng Sorus New
+Sonnrong 0% Edward Jones Brokerage account
+Procter & gamble Company (Pg) P 10/31/201505/13/2016
+Fung Soros New
+Sonnarong or Edward Jones Brokerage account
+Xponential, Inc. (XPol) s 12/31/201505/13/2016
+
+Fung Sterus New
+
+asset Class Details
+
+© Edward Jones Brokerage account (owner: SP)
+
+Lecamens: US
+
+initial
+
+Yes
+
+Public
+No
+
+Offerings
+
+notification amount
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$15,001 - $50,000
+

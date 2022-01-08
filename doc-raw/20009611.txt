@@ -1,0 +1,54 @@
+Filing ID #20009611
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. Greg Gianforte
+Status: Member
+State/District:MT00
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+JT Dassault Systemes, S.a, america 05/14/2018 05/21/2018 $100,001 - ec
+Depositary Shares (DaSTY) [ST $250,000
+FurnoSrons: New
+SwuotpioOr Harding Loevner International Equity
+JT First Cash, Inc. (FCFS) [ST] § 05/10/2018 05/14/2018 $100,001 - =
+$250,000
+
+FuunoStons: New
+SunoupivcOr, Newsouth Small Cap Equities
+
+ 
+
+JT Lonza Group ag Zuerich P 05/14/2018 05/21/2018 $100,001 - ec
+unsponsored aDR (LZaGY) [S $250,000
+FurnoSrons: New
+SwuotpioOr Harding Loevner International Equity
+
+JT Shire plc- american Depositary S 05/10/2018 05/14/2018 $100,001 - =
+Shares, each representing three $250,000
+
+Ordinary Shares (SHPG) |S
+
+FuunoStons: New
+‘ScstioupicOr: Harding Loevner International Equity
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
+© Harding Loevner Intemational Equity (Owner: JT)
+© Newsouth Small Cap Equities (Owner: JT)
+

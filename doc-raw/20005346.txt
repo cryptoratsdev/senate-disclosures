@@ -1,0 +1,55 @@
+Filing Id #20005346
+
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. Rubén Hinojosa
+Status: Member
+State/District:TX15
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+
+SP db Crude Oil double Short ETN due S 03/29/2016 06/15/2016 $1,001 - $15,000
+June 1, 2038 (TO)
+
+Fung Storvs: New
+Sunnowing Or Marty
+
+SP _ProShares ultrashort FTSE China 50S 03/18/2016 06/15/2016 $1,001 - $15,000
+(EXP)
+
+Funny Starus: New
+Susniowing Or Marty SEP
+
+SP _ProShares ultrashort FTSE China 50S, 06/2/2016 06/15/2016 $1,001 - $15,000
+(EXP)
+Fung Storvs: New
+Sesnoiing Or: Marty SEP
+
+SP SolarCity Corporation (SCTY) s 06/2/2016 06/15/2016 $1,001 - $15,000
+Fung Stores: New
+Susniowing Or Marty SEP
+
+SP SolarCity Corporation (SCTY) s 06/13/2016 06/15/2016 $1,001 - $15,000
+Fung Storvs: New
+Sesnoiing Or: Marty SEP
+
+SP Tower Semiconductor Itd. - OrdinaryS 06/13/2016 06/15/2016 $1,001 - $15,000
+Shares (TSEM)
+Funny Starus: New
+
+Susniowing Or Marty SEP
+
+SP united States Short Oil Fund (NO) S 03/22/2016 06/15/2016 $1,001 - $15,000
+

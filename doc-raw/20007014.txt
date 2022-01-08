@@ -1,0 +1,68 @@
+Filing ID #20007014
+PerloDIic TrANSAcTION FY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. David A. Trott
+Status: Member
+State/District:MI1 1
+
+TraNsAcTIONS
+ID Owner Asset TransactionDate _NotificationAmount
+Type Date
+CITIgRoUP INC. LINKED To BASKEP 03/30/2017 03/31/2017 $100,001 - $250,000
+
+oF INDICES UPSIDE LEVERED.
+
+CAPPED W BUFFER 0% STRUCTURED
+
+NoTE DUE 11/23/2018
+
+Fiuing Seamus New
+
+‘Sopna.ixg 0% Appendix B - NTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Trott Family Investment Company LLC.
+Descntrriox Structured Note
+
+PUT/SPY @ 200 EXP 12/20/2019- $ 03/22/2017 03/23/2017 $250,001 - $500,000
+
+SPDR S&P 500 ETF TRUST
+
+Fung Sus New
+
+‘Soon. ing or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Location: US
+
+Descrurniex Not part of a compensation plan; Not held in an ESoP.
+
+PUT/SPY @ 230 EXP 12/20/2019- P 03/22/2017 03/23/2017 $500,001 - $1,000,000
+SPDR S&P 500 ETF TRUST
+
+Fung Sexrus New
+
+‘Sonning or Appendix A - NTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+
+Location: US
+
+Descrurniex Not part of a compensation plan; Not held in an ESoP.
+
+PUT/XSP @ 225 EXP 06/16/2017- § 03/23/2017 03/24/2017 $1,001 - $15,000
+
+CBoE MINI SPX INDEX
+
+Fung Sus New
+
+‘Soon. ing or Appendix A - NoTE: THESE ASSETS ARE ALREADY INCLUDED IN THE SCHEDULE A VALUES AND
+‘THEREFORE SHOULD NoT BE ADDED To THE oVERALL ToTAL. > Toucan Family LLC
+

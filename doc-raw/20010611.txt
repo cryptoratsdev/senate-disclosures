@@ -1,0 +1,50 @@
+Filing ID #20010611
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. Gary Palmer
+Status: Member
+State/District:aL06
+
+transactions
+
+ 
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+
+JT amgen Inc. (aMGN) [ST s 10/05/2018 10/05/2018 $1,001-$15,000 g ¢
+FurnoSrs New
+Sumsotoioor TD ameritrade JT
+
+SP amgen Inc. (aMGN) [ST s 10/05/2018 10/05/2018 $1,001-$15,000 cy
+FurnoSwrus New
+Somsiotoinoor TD ameritrade ann Ta
+amgen Inc. (aMGN) [ST s 10/05/2018 10/05/2018 $1,001-$15,000 eg ¢
+FurnoSrs New
+Somsotoioor TD ameritrade Gary IRa
+
+JT apple Inc. (aaPL) [ST s 10/05/2018 10/05/2018 $1,001- $15,000 cy
+FurnoSwrus New
+Somsiotoinoor TD ameritrade JT
+
+SP apple Inc. (aaPL) [ST s 10/05/2018 10/05/2018 $1,001-$15,000 ¢ cp
+FurnoSrs New
+Somsiotoinoor TD ameritrade ann TRa
+apple Inc. (aaPL) [ST s 10/05/2018 10/05/2018 $1,001- $15,000 cy
+FurnoSwrus New
+Somsiotoioor TD ameritrade Gary IRa
+ascendis Pharma a/S - americans, 10/05/2018 10/05/2018 $1,001-$15,000 g <
+
+Depositary Shares (aSND) [ST
+

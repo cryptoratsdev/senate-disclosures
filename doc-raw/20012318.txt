@@ -1,0 +1,68 @@
+Filing Id #2012318
+
+Pertopic TrANSACTION IY ePOrT
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, dC 20515
+
+ 
+
+filer Wformation
+
+Name: Hon. K. Michael Conaway
+
+Status: Member
+
+State/District:TX11
+
+‘TraNSACTIONS
+
+ID Owner Asset TransactionDate _—NotificationAmount —_—Cap.
+
+Type Date Gains >
+$200?
+
+baNK NoVa SCoTIa 0% 1Y: aCCB 08/30/2019 08/31/2019 $15,001 - ec
+RTRN LKd RUSSELL 2000 Idx $50,000
+MTY 08/30/19 [oT
+
+Fung Sterus New
+Sobiotaing O* WF 95 (Wells Fargo Financial)
+
+Locemtns: US
+
+descntrmox baNK NoVa SCoTla 0% 1Y: aCCL RTRN LKd RUSSELL 2000 1dX MTY 08/30/19 Redemption
+
+CaNadlaN IMPERIal. bKEdP 0%, 08/30/2019 08/31/2019 $15,001 -
+CoMM ToRoNTo bRH LKd $50,000
+MSGIEMEaN SUE Gog
+o
+Fiung Sonus New
+Sumsiouans Oo” WF 95 (Wells Fargo Financial)
+Locsron: US
+descrummox CaNadlaN IMPERIAL bKEGP 0% CoMM ToRoNTo bRH LKd MSCI EMRgNg dUE 08/30/19
+Redemption
+
+CaNadlaN IMPRL bK 0%EdPS. 08/30/2019 08/31/2019 $50,001 ~
+CoMM TRNT bRH RTN NT LKd $100,000
+SSPB00 1dX dUE08/30/2019
+
+°
+
+Fung Sterus New
+
+Sobiotaing O* WF 95 (Wells Fargo Financial)
+
+Locemtns: US
+
+descntrmox CaNadlaN IMPRL BK 0%EdP COMM TRNT bRH RTN NTLKd S&P500 IdX dUE08/30/2019 Redemption
+
+ecb
+
+Corteva, Inc. (CTVa) [ST] s 08/06/2019 08/09/2019 $1,001-$15,000 ¢ ¢
+
+Fung Starus New
+

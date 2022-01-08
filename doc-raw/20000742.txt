@@ -1,0 +1,63 @@
+PerioDic t ranSaction YT ePort
+
+ 
+
+Filing ID #20000742
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + B-106 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Mr. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _ notification amount
+type Date
+SP Bay Area Toll Auth Calif Toll P 04/16/2014 04/25/2014 $1,001 - $15,000
+
+Fiting Seamus: New
+Desctrriox A state bond.
+
+SP CIT group Inc P 04/22/2014 04/25/2014
+Fiting Seamus: New
+
+Descntrriox A bond,
+
+SP Crown Castle Intl Corp P 04/15/2014 04/24/2014
+Fiting Seamus: New
+Descntrriox A bond,
+
+2000001492 SP genesis Energy LP/ genesis P oay7/2014 04/14/2014
+Fung Searus: Deleted
+
+Descrirniox genesis Energy LP/ genesis Fin Sr NT a bond
+
+SP Regency Energy Partners LPS 04/15/2014 04/24/2014
+
+Fiting Seamus: New
+Descntrriox A bond
+
+SP united Rentals North AmerInc P. 04/16/2014 04/25/2014
+
+Fiuing Sexnus: New
+Descntrriox A bond,
+
+Comments
+
+$1,001 - $15,000
+
+$15,001 - $50,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$15,001 - $50,000
+

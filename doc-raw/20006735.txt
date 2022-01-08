@@ -1,0 +1,43 @@
+Filing ID #20006735
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+filer information
+
+name: Hon. Nancy Pelosi
+Status: Member
+State/District:Ca12
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+sP apple Inc. (aaPl) P 01/19/201701/19/2017 $500,001 - $1,000,000
+
+Fung Stone: New
+Descrupniose Exercised 100 call options (10,000 shares) expiring 1/20/17 at a strike price of $90
+
+sP apple Inc. (aaPl) s 01/20/2017 01/20/2017 $250,001 - $500,000
+Fung Stare: New
+Descrupnoxe Sale of 100 call options with a strike price of $90 and an expiration date of 1/20/17
+
+sP square, Inc. Class a (sQ) P 01/20/2017 01/20/2017 $15,001 - $50,000
+Fung Stone: New
+Descrupnose Exercised 50 call options (5,000 shares) expiring 1/20/17 at a strike price of $8
+
+initial Public Offerings
+
+Yes NG
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief.
+
+Digitally Signed: Hon. Nancy Pelosi , 02/14/2017
+

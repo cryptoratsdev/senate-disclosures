@@ -1,0 +1,54 @@
+Filing ID #20016261
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+
+SP Berkshire Hathaway Inc. New S (partial) 03/12/2020 03/16/2020 $15,001 - ec
+(BRK.B) [ST $50,000
+Fiung Sanus: New
+SwnouoingOr, Neuberger Berman - Traditional IRA
+
+SP Berkshire Hathaway Inc. New S 03/12/2020 03/16/2020 $1,001-$15,000 . ,
+(BRK.B) [ST
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP Boston Scientific Corporation 03/11/2020 03/16/2020 $1,001-$15,000, .
+(BSX) [ST
+Fiung Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP ProShares Short S&P500 (SH) P 03/10/2020 03/16/2020 $1,001-$15,000g ;
+[ST]
+
+Fins Sexnus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+SP Virgin galactic Holdings, Inc. 03/11/2020 03/16/2020 $1,001-$15,000, .
+(SPCE) [S|
+Fiung Seamus: New
+‘SuntiotpingOr: Neuberger Berman - Traditional IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+

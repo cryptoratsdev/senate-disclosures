@@ -1,0 +1,48 @@
+Filing ID #20008985
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Bradley S. Schneider
+Status: Member
+State/District:I110
+
+transactions
+
+iD owner asset transaction Date _notification amount
+type Date
+SP Delta Airlines, Inc. (DAI) s 01/8/2018 02/15/2018 $100,001 - $250,000
+Fania Ssrus New
+SeniiionseOr. 16 - MSSB BROKERAGE ACCOUNT- IRA (CD/P)
+SP laboratory Corporation of America P 01/12/2018 02/15/2018 $250,001 - $500,000
+
+Holdings (1H)
+Funvo Sares New
+Sonnoinixs Or 18 - MSSB BROKERAGE ACCOUNT- IRA (AD/P)
+
+SP SAP SE ADS (SAP) s 01/12/2018 02/15/2018 $250,001 - $500,000
+Furna Seamus New
+Sunmnoinic Or 18 - MSSB BROKERAGE ACCOUNT- IRA (AD/P)
+
+SP Walmart Inc. (WMT) P 01/8/2018 02/15/2018 $100,001 - $250,000
+
+Furna Seamus New
+Sumnicinic Or 16 - MSSB BROKERAGE ACCOUNT- IRA (CD/P)
+
+asset Class Details
+
+© 16-MSSB BROKERAGE ACCOUNT - IRA (CD/P) (Owner: SP)
+© 18-MSSB BROKERAGE ACCOUNT - IRA (AD/P) (Owner: SP)
+
+initial Public Offerings
+
+Yes NG
+

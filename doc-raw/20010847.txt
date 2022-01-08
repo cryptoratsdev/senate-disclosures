@@ -1,0 +1,51 @@
+Filing ID #20010847
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Frank A. LoBiondo
+Status: Member
+State/District:NJO2
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+Apple Inc. (AAPL) [ST] P 12/10/2018 12/17/2018 $1,001-$15,000 eg ¢
+Fiuing Searus: New
+SwnouningOr Wells Fargo (IRA)
+SP Apple Inc. (AAPL) (ST! P 12/10/2018 12/17/2018 $1,001- $15,000 .¢ ¢
+
+Fins Sexnus: New
+‘SunniotpingOr Wells Fargo-9761 (Spousal IRA)
+
+International Business Machines 12/10/2018 12/17/2018 $1,001-$15,000g <
+Corporation (IBM) (ST
+
+Fiung Seamus: New
+Sentioxping Or: Wells Fargo (IRA)
+
+QuALCOMM Incorporated S 12/10/2018 12/17/2018 $1,001-$15,000 g ¢
+(QCOM) (ST)
+
+Fins Sexnus: New
+Sentotping Or: Wells Fargo (IRA)
+
+SP QuALCOMM Incorporated 12/10/2018 12/17/2018 $1,001-$15,000 g <
+(QCOM) (ST)
+Fiung Seamus: New
+‘ScntiotpingOr: Wells Fargo-9761 (Spousal IRA)
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
