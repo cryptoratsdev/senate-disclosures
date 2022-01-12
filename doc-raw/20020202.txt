@@ -1,0 +1,53 @@
+Filing ID #20020202
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+JT Asensus Surgical, Inc. (ASXC) [SS 12/20/202112/21/2021 $15,001 - ec
+$50,000
+
+Fung Sexrus New
+SomniounigOr, Hern Family Revocable Trust > Brokerage Investment Account
+Descntrmiom sell to close
+
+JT Devon Energy Corporation (DVN) 12/30/202112/31/2021 $15,001 -
+[ST] $50,000
+Fiung Sus New
+SomniaueigOr, Hern Family Revocable Trust > Brokerage Investment Account
+Descntrom Dividend Reinvestment
+
+JT Devon Energy Corporation (DVN) 12/30/202101/01/2022 $1,001 - $15,000
+[ST]
+Fung Sexrus New
+SomniounigOr Hern Family Foundation
+Descntrnom Dividend reinvestment
+
+JT Emerson Electric Company (EMR) 12/10/202112/11/2021 $1,001 - $15,000
+[sT]
+Fiung Sus New
+SomniaueigOr, Hern Family Revocable Trust > Brokerage Investment Account
+Descntrom Dividend Reinvestment
+
+JT Exxon Mobil Corporation (XOM)P 12/10/202112/11/2021 $1,001 - $15,000
+[ST]
+Fung Sexrus New
+SomniounigOr, Hern Family Revocable Trust > Brokerage Investment Account
+Descntrniom Dividend Reinvestment
+
