@@ -1,0 +1,57 @@
+Filing ID #20020369
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Susie Lee
+Status: Member
+State/District:NV03
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+
+JT Bank of America Corporation S 01/27/2022 02/01/2022 $1,001-$15,000 g
+(BAC) [ST}
+Fung Searus New
+SonnotoigOr DSL Living Trust > Fidelity Investments Brokerage Account
+
+SP Wynn Resorts, Limited (WYNN)P 01/27/2022 02/01/2022 $15,001 - a
+(st) $50,000
+
+Fung Sous New
+‘SonnioungOr: Fidelity Investments Individual Brokerage
+
+DC Wynn Resorts, Limited (WYNN)P 01/27/2022 02/01/2022 $15,001 -
+[s $50,000
+Fung Sexrus New
+
+‘SonniovpngOr ARW Subtrust > Fidelity Investments ARW Subtrust Brokerage Account
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+ ARW Subtrust (Owner: DC)
+
+© ARW Subtrust = Fidelity Investments ARW Subtrust Brokerage Account (Owner: DC)
+Locariox Las Vegas, NV, US
+
+© DSL Living Trust (Owner: JT)
+
+© DSL Living Trust = Fidelity Investments Brokerage Account (Owner: JT)
+Loexriexs US
+
+© Fidelity Investments Individual Brokerage (Owner: SP)
+Locariont US
+
