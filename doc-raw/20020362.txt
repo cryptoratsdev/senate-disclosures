@@ -1,0 +1,55 @@
+Filing ID #20020362
+
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Mark Dr Green
+Status: Member
+State/District:TNO7
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+
+Energy Transfer1P Common P. 01/27/2022 02/03/2022 $250,001 - ec
+units (ET) [ST $500,000
+Funvo Sexrus: New
+Suowine Or: AXA Retirement Account
+Energy Transfer IP Common P. 01/28/2022 02/03/2022 $250,001 - a
+units (ET) [ST) $500,000
+
+Fun Seanus: New
+Suniotinc Or AXA Retirement Account
+
+PDF logistics IP Common units S 01/27/2022 02/03/2022 $250,001 - fe
+representing limited partner $500,000
+interests (PBFX) [ST
+
+Furs Seanus: New
+
+Suowine Or: AXA Retirement Account
+PDF logistics IP Common units S 01/28/2022 02/03/2022 $100,001 - a
+representing limited partner $250,000
+
+interests (PbFX) (ST.
+
+Fun Seanus: New
+Suniotinc Or AXA Retirement Account
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+AXA Retirement Account
+
