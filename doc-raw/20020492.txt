@@ -1,0 +1,54 @@
+Filing ID #2020492
+
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. Deborah K. Ross
+Status: Member
+State/District:NC02
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+
+JT Microsoft Corporation (MSFT) S (partial) 01/21/2022 01/22/2022 $1,001-$15,000, ;
+[ST]
+
+Fung Sexrus New
+‘SunniouixgOr: Fidelity Brokerage Account
+
+JT Microsoft Corporation (MSFT) S (partial) 01/27/2022 01/27/2022 $1,001-$15,000g .
+[ST]
+
+Fung Sous New
+‘SonniouigOr: Fidelity Brokerage Account
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
+© Fidelity Brokerage Account (Owner: JT)
+Loesriexs US
+
+initial Public Offerings
+
+Yes No
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Deborah K. Ross , 02/19/2022
+
