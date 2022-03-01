@@ -1,0 +1,60 @@
+Filing ID #20020504
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+filer information
+
+name: Hon. William R. Keating
+Status: Member
+State/District:MA09
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+COMCAST CORP NEW NOTE P 01/11/2022 02/22/2022 $15,001 - ec
+CAll MAKE WHOIE 4.25000% $50,000
+
+10/15/2030 [CS
+Fung Seamus: New
+
+Sentiowg Or: Bill's IRA
+Descntrriom 20030NCu3
+
+Fiserv, Inc. (FISV) (ST) s 01/28/2022 02/22/2022 $1,001-$15,000 g ;
+
+Furng Scxrus: New
+Sentowsg Or: Bill's IRA
+
+gENERAI MTRS FINICOINC P 02/11/202202/22/2022 $15,001 -
+NOTE 3.10000% 01/12/2032 $50,000
+CAll MAKE WHOLE [CS|
+
+Fung Seamus: New
+
+‘Sentiowig Or: Bill's IRA
+
+Descntrnow 37045XDS2
+
+gENERAI MTRS FINICOINC S 02/11/2022 02/22/2022 $15,001 -
+NOTE 5.10000% 01/17/2024 $50,000
+CAll MAKE WHOLE [CS:
+
+Furng Scxrus: New
+
+Sentowing Or: Bill's IRA
+
+Descntriow 37045XCR5
+
+* For the complete list of asset type abbreviations, please visit ttps,/fd house.gov/reference/asset-type-codes.aspx.
+
+asset Class Details
+
