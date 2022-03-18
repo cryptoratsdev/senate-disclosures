@@ -1,0 +1,40 @@
+Filing ID #20020641
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+filer information
+
+name: Hon. Carolyn B. Maloney
+Status: Member
+State/District:NY12
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+NEW YORK NY CITY MUN FINP 02/16/2022 03/16/2022 $15,001 - ec
+ATH W&S SYS REV 2ND GEN $50,000
+RESLUTN FISCAL 13 DD OID
+[Gs]
+
+FuunoSerus New
+Descntrnom NEW YORK NY CITY MUN FIN ATH W&S SYS REV 2ND GEN RESLUTN FISCAL 13 DD OID, COUPON
+3.125%, DUE 06-15-2027, CUSIP 64972GBU7
+
+* For the complete list of asset type abbreviations, please visit httpsi/fd house, gov/reference/asset-type-codes. aspx.
+initial Public Offerings
+Yes No
+
+Certification anD Signature
+
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Carolyn B. Maloney , 03/17/2022
+
