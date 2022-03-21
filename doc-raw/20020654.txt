@@ -1,0 +1,56 @@
+Filing ID #20020654
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon building + Washington, DC 20515,
+
+ 
+
+filer information
+
+name: Hon. Christopher L. Jacobs
+Status: Member
+State/District:NY27
+
+transactions
+
+iD owner asset transaction Date _ notification amount cap.
+type Date gains >
+$200?
+Advanced Micro Devices, Inc. E 02/15/2022 03/14/2022 $1,001-$15,000 .
+(AMD) [ST
+FurnoSeares New
+SumsiounicOr. CL TRUST > LD] FAM INV LLC > Parametric
+
+Descntrnom Shares of Advanced Micro Devices Inc. received in exchange for Xilinx Inc, shares following merger.
+New York Ny 5.000% 6/15/27 P 02/04/2022 03/14/2022 $15,001 -
+Ics} $50,000
+
+FuunoSers New
+StnitotoicOr CL TRUST > LDJ FAM INV LLC > GWK
+
+New York ST 5.000% 3/15/27 P 02/25/2022 03/14/2022 $15,001 - ec
+
+Ics) $50,000
+
+FuunoSerus New
+
+StnitotomcOr CL TRUST > LDJ FAM INV LLC > GWK
+
+New York St 5.000% 7/01/22 [C53 02/17/2022 03/14/2022 $15,001 - ec
+$50,000
+
+FuunoSers New
+StnitotoicOr CL TRUST > LDJ FAM INV LLC > GWK
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.gov/reference/asset-ty pe-codes.aspx.
+
+asset Class Details
+
+° CL TRUST
+© CL TRUST = LDJ FAM INV LLC
+CL TRUST = LD FAM INV LLC + GWK
+
