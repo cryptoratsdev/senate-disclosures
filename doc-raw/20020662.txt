@@ -1,0 +1,35 @@
+Filing ID #20020662
+PerioDic t ranSaction YT ePort
+
+ 
+
+ 
+
+Clerk of the House of Representatives + legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+filer information
+
+name: Hon. Nancy Pelosi
+Status: Member
+State/District:CA12
+
+transactions
+
+iD owner asset transaction Date _notification amount cap.
+type Date gains >
+$200?
+SP Tesla, Inc. (TSIA) (ST! P 03/17/2022 03/17/2022 $1,000,001 - ec
+$5,000,000
+
+Fung Seamus: New
+Descrirnos Exercised 25 call options (2,500 shares) expiring 3/18/22 at a strike price of $500.
+
+* For the complete list of asset type abbreviations, please visit httpsy/fd house, gov/reference/asset-type-codes. aspx.
+initial Public Offerings
+Yes No
+Certification anD Signature
+el CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+
+best of my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Nancy Pelosi , 03/21/2022
+
