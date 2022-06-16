@@ -1,0 +1,56 @@
+Filing ID #20020672
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+
+Name: Hon. Pete Sessions
+
+Status: Member
+
+State/District:TX17
+
+T
+
+ID _ Owner Asset TransactionDate _—_—Notification Amount Cap.
+
+Type Date Gains >
+$200?
+
+BlackRock Utility, Infrastructure & 04/04/2022 04/14/2022 $1,001 - $15,000
+Power Opportunities Trust (BUI) [ST
+FS :New
+D 463 shares $11.94
+
+ 
+
+SP NVIDIA Corporation (NVDA) [ST] P 03/22/2022 03/22/2022 $1,001 - $15,000
+
+F oS :New
+s 0: IRA Two
+D 2NVDAshares
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© IRA Two (Owner: SP)
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Pete Sessions , 04/14/2022
+

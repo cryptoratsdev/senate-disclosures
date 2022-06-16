@@ -1,0 +1,45 @@
+ 
+
+T R
+
+Filing ID #2021223
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+JT ABB Ltd (ABB) [ST P 05/11/2022 05/12/2022 $1,001 - $15,000
+FS: New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Accenture plc Class A Ordinary ShBres 05/13/2022 05/16/2022 $1,001 - $15,000
+(ACN) [ST]
+F oS: New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+DC —CareCloud, Inc. (MTBC) [ST] $ 05/16/2022 05/17/2022 $1,001 - $15,000
+F oS: New
+s © : Kelby Austin Hem Trust
+D Sell to close
+DC _Exact Sciences Corporation (EXASS 05/16/2022 05/17/2022 $1,001 - $15,000
+(ST]
+F oS: New
+s © : Kelby Austin Hem Trust
+D Sell to close
+JT Magellan Midstream Partners L.P.P 05/13/2022 05/16/2022 $1,001 - $15,000
+Limited Partnership (MMP) [S
+FS: New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT ONEOK, Inc. (OKE) [ST] P 05/16/2022 05/17/2022 $1,001 - $15,000
+

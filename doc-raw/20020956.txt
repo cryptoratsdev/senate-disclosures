@@ -1,0 +1,44 @@
+ 
+
+T R
+
+Filing ID #2020956
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Air Products and Chemicals, Inc. P 04/19/2022 05/04/2022 $1,001 - $15,000
+(APD) [ST
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Align Technology, Inc. (ALGN) [STS 04/28/2022 05/04/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Apple Inc. (AAPL) (ST! P 04/19/2022 05/04/2022 $15,001 -
+$50,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Berkshire Hathaway Inc.New (partial) 04/01/2022 05/04/2022 $1,001 - $15,000
+(BRK.B) (ST)
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Booking Holdings Inc. (BKNG) [STS 04/14/2022 05/04/2022 $15,001 -
+$50,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Cerence Inc. (CRNC) [ST] P 04/19/2022 05/04/2022 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley - Select UMA Account # 1
+

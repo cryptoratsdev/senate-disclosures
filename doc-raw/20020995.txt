@@ -1,0 +1,47 @@
+ 
+
+Filing ID #2020995
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AdaptHealth Corp. (AHCO) [ST] $ 04/01/2022 03/05/2022 $50,001 -
+$100,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Sell Close
+DC —_AdaptHealth Corp. (AHCO) [ST] $ 04/22/2022 04/23/2022 $1,001 - $15,000
+F oS :New
+s © : Kelby Austin Hern Trust,
+D sell close
+JT BANK OF MONTREAL SERG MTP 04/12/2022 04/13/2022 $500,001 -
+Ics $1,000,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Buy Open
+JT FSENERGY & POWERFUND P. 04/14/2022 04/15/2022 $1,001 - $15,000
+COMMON [PS
+F oS :New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+L us
+D Dividend Reinvestment
+JT Honeywell International Inc. (HON) 04/08/2022 04/11/2022 $250,001 -
+sv! $500,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+
+D Sell Close
+

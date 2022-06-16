@@ -1,0 +1,55 @@
+T
+
+ 
+
+Filing ID
+
++#20020786
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+
+State/District:NJO5
+
+T
+ID Owner Asset TransactionDate _—_—Notification Amount
+Type Date
+JT AbbVie Inc. (ABBV) [ST! P 03/08/2022 04/11/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT AbbVie Inc. (ABBV) [ST] P 03/17/2022 04/11/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Air Products and Chemicals, Inc. § (partial) 03/15/2022 04/11/2022 $1,001 - $15,000
+
+(APD) (ST.
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Alphabet Inc. - Class C Capital Stoé& 03/09/2022 04/11/2022 $1,001 - $15,000
+(GOOG) (ST)
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Amgen Inc. (AMGN) (ST) P 03/03/2022 04/11/2022 $1,001 - $15,000
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Apple Inc. (AAPL) (ST) P 03/09/2022 04/11/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Apple Inc. (AAPL) [ST’ S (partial) 03/15/2022 04/11/2022 $1,001 - $15,000
+
+Cap.
+Gains >
+$200?
+

@@ -1,0 +1,64 @@
+T
+
+ 
+
+Filing ID #20020774
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+Block, Inc. Class A Common StockS 03/16/2022 04/07/2022 $1,001 - $15,000
+(SQ) [OP
+F oS :New
+s O : Brokerage Account
+D Call options: Strike price $116; Expires 03/18/22
+Block, Inc. Class A Common StockS 03/18/2022 04/07/2022 $50,001 -
+(SQ) [STI $100,000
+F oS :New
+s © : Brokerage Account
+Block, Inc. Class A Common StockS 03/09/2022 04/07/2022 $1,001 - $15,000
+(SQ) [OP
+F oS :New
+s O : Brokerage Account
+D Call options; Strike price $116; Expires 03/11/22
+
+Generac Holdlings Inc. (GNRC) [08
+
+F oS :New
+s © : Brokerage Account
+D Call options; Strike price $390; Expires 04/14/22
+
+Generac Holdlings Inc. (GNRC) (SP)
+
+Fos
+s © : Brokerage Account
+
+New
+
+Meta Platforms, Inc. - Class A (FBS
+[OP
+
+03/22/2022 04/07/2022
+
+03/31/2022 04/07/2022
+
+03/24/2022 04/07/2022
+
+$1,001 - $15,000
+
+$100,001 -
+$250,000
+
+$1,001 - $15,000
+

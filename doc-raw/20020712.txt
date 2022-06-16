@@ -1,0 +1,47 @@
+T R
+
+ 
+
+Filing ID #20020712
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kim Dr Schrier
+Status: Member
+State/District:WA08
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPL) [ST] s 03/22/2022 03/22/2022 $250,001 -
+$500,000
+F oS :New
+s ©: Inherited IRA
+JT Apple Inc. (AAPL) [ST] s 03/22/2022 03/22/2022 $500,001 -
+$1,000,000
+F oS :New
+s © : Gowing Family Trust Primary Account
+D Background Information: The holdings of Gowing Family Trust Secondary account were consolidated int
+Primary account in December, 2021. As a result, the Primary account held AAPL stock since thet time in December \
+this reported sale. (ie., Prior to that, the AAPL stock was in the Secondary account.)
+JT Tesla, Inc. (TSLA) [ST] s 03/22/2022 03/22/2022 $250,001 -
+$500,000
+FS :New
+s © : Gowing Family Trust Primary Account
+D Background Information: The holdings of Gowing Family Trust Secondary account were consolidated int
+Primary account in December, 2021. As a result, the Primary account held Tesla stock since that time in December
+reported sale. (ie., Prior to that, the TSLA stock was in the Secondary account.)
+SP Tesla, Inc. (TSLA) [ST] s 03/22/2022 03/22/2022 $250,001 -
+$500,000
+F oS :New
+s © : David's IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house. cov/reference/asset-type-codes.aspx.
+
+A Cc D
+

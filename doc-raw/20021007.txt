@@ -1,0 +1,45 @@
+Filing ID #2021007
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Michael Patrick Guest
+Status: Member
+
+State/District:MS03
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+SP DESOTO CNTY MS SCH DIST NIP 04/25/2022 05/12/2022 $50,001 ~
+SER A B/E CPN 3.000% DUE $100,000
+04/01/30 DTD 9/17/21 [cs
+F oS: New
+s ©: KINV-LPL
+SP MISSISSIPPI ST UNIV EDL BLDGP 05/11/2022 05/12/2022 $15,001 -
+CORP REV CAMPUS IMPTS PJ B/E $50,000
+CPN 3.5000% DUE 11/01/37 (GS
+F oS: New
+s ©: KINV-LPL
+SP RIDGELAND MS B/E CPN 3.000%P 04/25/2022 05/12/2022 $15,001 -
+DUE 12/01/34 DTD 12/22/15 [GS $50,000
+F oS: New
+s ©: KINV-LPL
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+ KINV-LPL (Owner: SP)
+L :US
+I P oO
+Yes © No
+

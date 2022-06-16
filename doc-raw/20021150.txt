@@ -1,0 +1,56 @@
+Filing ID #2021150
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+
+State/District:VA01
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+
+JT Duke Realty Corporation (DRE) |S'S|(partial) 05/10/2022 05/12/2022 $1,001 - $15,000
+
+FS :New
+ISHA Curr Hedged MSCI EAFE [AP) 05/10/2022 05/12/2022 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley INH IRA
+
+Ishares 0-5 HY Corp [AB P 05/10/2022 05/12/2022 $1,001 - $15,000
+FS :New
+
+s © : Morgan Stanley INH IRA
+
+Ishares Core MSCI EAFE ETF [ABS (partial) 05/10/2022 05/12/2022 $1,001 - $15,000
+
+F oS :New
+s © : Morgan Stanley INH IRA
+
+Ishares Core MSCI Europe [AB] S. 05/10/2022 05/12/2022 $1,001 - $15,000
+FS :New
+
+s © : Morgan Stanley INH IRA
+
+Ishares MSCI EAFE Grwth EF [ABS 05/10/2022 05/12/2022 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley INH IRA
+
+‘JPMorgan Betabuilders Canada [AP| 05/10/2022 05/12/2022 $1,001 - $15,000
+FS :New
+
+s © : Morgan Stanley INH IRA
+

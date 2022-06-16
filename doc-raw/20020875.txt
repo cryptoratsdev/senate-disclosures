@@ -1,0 +1,54 @@
+ 
+
+Filing ID #2020875
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. David Kustoff
+Status: Member
+State/District:TNO8
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT AT&T Inc. (T) [ST] E 04/11/2022 04/11/2022 $4,450.50
+F oS :New
+s © : Raymond James Retail Account
+D AT&T was the parent company of Warmer Media until it was spun off and merged into Discovery, Inc. Th
+resulting entity from the merger is Warner Bros. Discovery and, as part of the consideration for the transaction, ATS
+shareholders received shares of the new company based on their AT&T holdings when the transaction closed.
+JT Wamer Bros. Discovery, Inc. - Seris 04/11/2022 04/11/2022 $4,450.50
+A(WBD) [ST]
+F oS :New
+s © : Raymond James Retail Account
+D AT&T was the parent company of Warmer Media until it was spun off and merged into Discovery, Inc. Th
+
+resulting entity from the merger is Warner Bros. Discovery and, as part of the consideration for the transaction, ATS
+shareholders received shares of the new company based on their AT&T holdings when the transaction closed.
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A c
+ Raymoni
+L
+I P
+Yes © No
+c
+
+.d James Retail Account (Owner:
+
+D
+
+ 
+
+s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+

@@ -1,0 +1,51 @@
+Filing ID #2020919
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Lois Frankel
+Status: Member
+
+State/District:FL21
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+Chubb Limited (CB) [S7) S (partial) 04/13/2022 05/03/2022 $1,001 - $15,000
+F oS: New
+s © : Morgan Stanley IRA - X141
+Citigroup, Inc. (C) [ST' S (partial) 03/30/2022 05/03/2022 $1,001 - $15,000
+F oS: New
+s O : Morgan Stanley IRA - X141
+Citigroup, Inc. (C) [ST S (partial) 03/23/2022 05/03/2022 $1,001 - $15,000
+F oS: New
+s © : Morgan Stanley IRA - X141
+Fidelity National Information 04/13/2022 05/03/2022 $1,001 - $15,000
+Services, Inc. (FIS) (ST)
+F oS: New
+s O : Morgan Stanley IRA - X141
+
+Fidelity National Information _$ (partial) 04/06/2022 05/03/2022 $1,001 - $15,000
+Services, Inc. (FIS) [ST
+
+F oS :New
+s © : Morgan Stanley IRA - X141
+
+Johnson Controls International plcP 03/24/2022 05/03/2022 $1,001 - $15,000
+Ordinary Share (JCI) [ST
+
+F oS :New
+
+s © : Morgan Stanley IRA - X141
+
+Johnson Controls International plcP 03/23/2022 05/03/2022 $1,001 - $15,000
+

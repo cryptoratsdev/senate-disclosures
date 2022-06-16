@@ -1,0 +1,60 @@
+Filing ID #2020983
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Patrick Fallon
+Status: Member
+State/District:TX04
+T
+1D Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+
+2000080261 Amazon.com, Inc. (AMZN) [OPS 01/19/2021 01/19/2021 $1,001 - $15,000
+
+F S$: Amended
+
+s © : WE - Investment -3
+
+D Sold 1 put option with a strike price of $3000 and an expiration date of 02/19/21
+2000080300 Amazon.com, Inc. (AMZN) [OPS 02/23/2021 02/23/2021 $1,001 - $15,000
+
+F S$: Amended
+
+s © : WF - Investment -3
+
+D Sold 1 put option with a strike price of $3050 and an expiration date of 03/19/21
+2000080325 Amazon.com, Inc. (AMZN) [OPS 03/23/2021 03/23/2021 $1,001 - $15,000
+
+F S$: Amended
+
+s © : WE - Investment -3
+
+D Sold 1 put option with a strike price of $3050 and an expiration date of 04/16/21
+2000080255 Amazon.com, Inc. (AMZN) [OPS 04/20/2021 04/20/2021 $1,001 - $15,000
+
+F S$: Amended
+
+s © : WF - Investment -3
+
+D Sold 1 put option with a strike price of $3200 and an expiration date of 05/21/21
+2000080256 Amazon.com, Inc. (AMZN) [OPS 04/20/2021 04/20/2021 $1,001 - $15,000
+
+F S$: Amended
+
+s © : WE - Investment -3
+
+D Sold 1 put option with a strike price of $3250 and an expiration date of 05/21/21
+2000080738 Amazon.com, Inc. (AMZN) [OPS 05/21/2021 05/21/2021 $1,001 - $15,000
+
+FS __: Amended
+

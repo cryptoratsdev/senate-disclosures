@@ -1,0 +1,49 @@
+Filing ID #2021134
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Cindy Axne
+Status: Member
+
+State/District:IA03
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+
+Danaher Corporation (DHR) (ST) P 05/10/2022 05/11/2022 $1,001 - $15,000
+F oS New
+s © : Cindy Axne IRA
+
+SP Danaher Corporation (DHR) [ST] P 05/10/2022 05/11/2022 $1,001 - $15,000
+F oS: New
+s © : John Axne IRA
+
+SP Danaher Corporation (DHR) [ST] P 05/10/2022 05/11/2022 $1,001 - $15,000
+F oS New
+s © : Creation Agents LLC 401K
+Johnson & Johnson (JNJ) (ST) $ 05/04/2022 05/05/2022 $1,001 - $15,000
+F oS :New
+s © : Cindy Axne IRA
+
+SP Johnson & Johnson (NJ) [ST] $ 05/04/2022 05/05/2022 $1,001 - $15,000
+FS New
+s © : John Axne IRA
+
+SP Johnson & Johnson (NJ) [ST] $ 05/04/2022 05/05/2022 $1,001 - $15,000
+F oS: New
+s O : Creation Agents LLC 401K
+JP Morgan Chase & Co. (JPM) [STS 05/12/2022 05/13/2022 $1,001 - $15,000
+
+FS :New
+

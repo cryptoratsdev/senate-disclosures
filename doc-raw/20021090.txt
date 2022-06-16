@@ -1,0 +1,60 @@
+ 
+
+T R
+
+Filing ID
+
++#20021090
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+T
+ID Owner Asset TransactionDate —_—Notification Amount
+Type Date
+SP Constellation Brands Inc[CS]_ P 05/02/2022 05/21/2022 $15,001 -
+$50,000
+FS :New
+s © : Neuberger Berman - Traditional IRA
+D Interest rate is 3.60%, maturity date is 05/09/2024
+SP Intercontinental Exchange Inc. (ICE\partial) _ 05/05/2022 05/21/2022 $1,001 - $15,000
+[st
+F oS :New
+s © : Neuberger Berman - Traditional IRA
+SP _ Intercontinental Exchange Inc. (ICB) 05/06/2022 05/21/2022 $15,001 -
+(sv) $50,000
+FS :New
+s © : Neuberger Berman - Traditional IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A
+
+Cc
+
+D
+
+Neuberger Berman - Traditional IRA (Owner: SP)
+
+Cc
+
+P
+No
+
+oO
+
+s
+
+Cap.
+Gains >
+$200?
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+

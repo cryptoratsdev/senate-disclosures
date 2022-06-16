@@ -1,0 +1,52 @@
+ 
+
+Filing ID #2021166
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F
+Name: Hon. Debbie Dingell
+Status: Member
+State/District:MI12
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+Ally Financial Inc. [C'S P 05/31/2022 06/06/2022 $15,001 -
+$50,000
+F oS: New
+s © : Morgan Stanley Smith Barney LLC IRA
+D Corporate Bond - Maturity Date - 03/30/2025; Coupon Rate - 4.62%
+PARAMOUNT GLOBAL FXD [CS] P 05/31/2022 06/06/2022 $15,001 -
+$50,000
+F oS: New
+s © : Morgan Stanley Smith Barney LLC IRA
+D Corporate Bond - Maturity Date - 03/30/2062; Fixed Floating Rate - 6.375% to 3/20/2027 - Variable Rate
+
+‘Thereafter to 3/30/2062
+
+* For the complete list of asset type abbreviations, please visit https,/fd house. cov/reference/asset-type-codes.aspx.
+
+A
+
+D
+
+© Morgan Stanley Smith Bamey LLC IRA
+
+Cc
+
+oO
+
+s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Debbie Dingell , 06/12/2022
+

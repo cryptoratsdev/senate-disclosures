@@ -1,0 +1,42 @@
+Filing ID #2020925
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NCO6
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT ASML Holding N.V.- New York P 04/29/2022 05/03/2022 $1,001 - $15,000
+Registry Shares (ASML) [ST
+F oS :New
+s © : Charles Schwab- Edgewood Management LLC
+SP Citigroup, Inc. (C) [ST] s 04/19/2022 05/03/2022 $1,001 - $15,000
+F oS :New
+s © : MY Capital -RRK Roth IRA #3
+SP Citigroup, Inc. (C) [ST! s 04/19/2022 05/03/2022 $1,001 - $15,000
+F oS :New
+s © : ManKap Family LLC > MV Capital - Brokerage #3
+JT ServiceNow, Inc. (NOW) [ST] P 04/27/2022 05/03/2022 $1,001 - $15,000
+F oS :New
+s © : Charles Schwab- Edgewood Management LLC
+JT Visa inc. (V) [ST] S (partial) 04/27/2022 05/03/2022 $1,001 - $15,000
+F oS :New
+s © : Charles Schwab- Edgewood Management LLC
+JT Visa Inc. (V) [ST] S (partial) 04/29/2022 05/03/2022 $1,001 - $15,000
+F oS :New
+s © : Charles Schwab- Edgewood Management LLC
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+

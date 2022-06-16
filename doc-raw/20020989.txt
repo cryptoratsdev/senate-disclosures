@@ -1,0 +1,56 @@
+ 
+
+Filing ID #20020989
+
+T
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Zoe Lofgren
+Status: Member
+State/District:CA19
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP KLACorporation (KLAC) [ST] P 04/04/2022 05/10/2022 $1,001 - $15,000
+FS :New
+s © : John Marshall Collins Rollover IRA
+SP Synchrony Financial (SYF) [ST] _$ 04/28/2022 05/10/2022 $1,001 - $15,000
+F oS :New
+s © : John Marshall Collins Rollover IRA
+SP Union Pacific Corporation (UNP) P 04/04/2022 05/10/2022 $15,001 -
+sv! $50,000
+
+F
+s
+
+Ss :New
+
+* For the complete list of asset type abbreviations,
+
+A Cc D
+
+© : John Marshall Collins Rollover IRA
+
+, please visit httpsy//fd house, qov/reference/asset-type-codes. aspx.
+
+John Marshall Collins Rollover IRA (Owner: SP)
+
+P
+No
+
+oO
+
+Yes
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+

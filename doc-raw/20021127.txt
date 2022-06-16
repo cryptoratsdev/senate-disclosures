@@ -1,0 +1,52 @@
+Filing ID #2021127
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+
+State/District:NCO5
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+
+JT Altria Group, Inc. (MO) [ST] P 05/02/2022 05/02/2022 $1,001 - $15,000
+F oS New
+
+JT Archer-Daniels-Midland Company S 05/19/2022 05/19/2022 $100,001 -
+(ADM) [ST $250,000
+F oS: New
+
+JT AT&T INC 5% PFDPFD SER A [CSP 05/06/2022 05/06/2022 $1,001 - $15,000
+F oS: New
+D AT&T INC 5% PEDPED SER A
+
+JT AT&T Inc. (1) [ST P 05/03/2022 05/03/2022 $1,001 - $15,000
+F oS: New
+
+JT Enterprise Products Partners L.P. P 05/13/2022 05/13/2022 $1,001 - $15,000
+(EPD) [ST
+F oS New
+
+JT Green Plains Partners LP- Commo® 05/16/2022 05/16/2022 $1,001 - $15,000
+Units (GPP) [ST
+F oS: New
+
+JT Hercules Capital, Inc. (HTGC) [STP 05/09/2022 05/09/2022 $1,001 - $15,000
+F oS New
+
+JT Hercules Capital, Inc. (HTGC) [STS 05/19/2022 05/19/2022 $50,001 -
+
+$100,000
+
