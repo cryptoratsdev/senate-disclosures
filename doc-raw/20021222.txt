@@ -1,0 +1,52 @@
+Filing ID #2021222
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. William R. Keating
+Status: Member
+
+State/District:MA09
+
+ 
+
+T
+ID _ Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+NETFLIX INC. SERBNOTE S$ 05/19/2022 06/14/2022 $15,001 -
+4.87500% 04/15/2028 CALL MAKE $50,000
+WHOLE [CS
+F oS :New
+s ©: Bill's IRA
+D 64110LAS5
+UNITED STATES TREAS SER BC-P 05/26/2022 06/14/2022 $1,001 - $15,000
+2024 2.50000% 05/31/2024 NTS
+NOTE [CS
+F oS :New
+s ©: Bill's IRA
+D 91282CERB
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+o Bill's IRA
+
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. William R. Keating , 06/17/2022
+

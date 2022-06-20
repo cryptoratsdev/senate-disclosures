@@ -1,0 +1,46 @@
+Filing ID #2021202
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+
+State/District:CA52
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+SP CASTDEPTWIRUTILIGS] —P 05/18/2022 05/31/2022 $250,001 -
+$500,000
+F oS New
+SP Cerritos CA CCD COLL EDUC [GSP 05/20/2022 05/31/2022 $100,001 -
+$250,000
+F oS: New
+D cusIP: 15679269
+SP East Bay MUD SYS CA [GS P 05/16/2022 05/31/2022 $500,001 -
+$1,060,000
+F oS New
+SP Mammoth CA USD IMPT SCH [GSP 05/24/2022 05/31/2022 $100,001 -
+$250,000
+F oS: New
+SP Orange CTYCA REV UTX(GS] P 05/18/2022 05/31/2022 $100,001 -
+$250,000
+F oS New
+SP San Francisco CABART [GS] P 05/26/2022 05/31/2022 $250,001 -
+$500,000
+F oS: New
+SP San Francisco CA IMP SCH [GS] P 05/26/2022 05/31/2022 $100,001 -
+$250,000
+
+FS :New
+
