@@ -1,0 +1,49 @@
+Filing ID #2021248
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Marjorie Taylor Greene
+Status: Member
+
+State/District:GA14
+
+ 
+
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Costco Wholesale Corporation P 06/10/2022 06/14/2022 $15,001 -
+(Cost) [ST $50,000
+F oS :New
+s ©: Perry IRA
+SP Goldman Sachs Group, Inc. (GS) [" 06/10/2022 06/14/2022 $1,001 - $15,000
+F oS :New
+s O: Perry IRA
+SP Home Depot, Inc. (HD) [ST P 06/10/2022 06/14/2022 $15,001 -
+$50,000
+F oS :New
+s ©: Perry IRA
+SP Intel Corporation (INTC) [ST] P 06/10/2022 06/14/2022 $1,001 - $15,000
+F oS :New
+s O: Perry IRA
+SP Invesco QQQ Trust, Series 1 (QQQP 06/10/2022 06/14/2022 $15,001 -
+(sv! $50,000
+F oS :New
+s ©: Perry IRA
+SP Nestle SA Sponsored ADR P 06/10/2022 06/14/2022 $15,001 -
+representing Registered Shares Series $50,000
+B (NSRGY) (ST)
+F oS :New
+
+s ©: Perry IRA
+
