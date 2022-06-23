@@ -1,0 +1,47 @@
+Filing ID #2021201
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Christopher L. Jacobs
+Status: Member
+State/District:NY27
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+New York City NY5.000% [OT] $ 05/09/2022 06/13/2022 $100,001 -
+$250,000
+FS :New
+s © : CL TRUST > LDJ FAM INVLLC > GWK
+L us
+D Municipal Bond
+New York City NY5.000% [OT] $ 05/17/2022 06/13/2022 $100,001 -
+$250,000
+FS :New
+s © : CL TRUST > LDJ FAM INVLLC > GWK
+L us
+D Municipal Bond
+Washington ST 5.000% [OT P 05/10/2022 06/13/2022 $250,001 -
+$500,000
+FS :New
+s © : CL TRUST > LDJ FAM INVLLC > GWK
+L us
+D Municipal Bond
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+A Cc D
+
+° CLTRUST
+© CL TRUSE+LDJ FAM INV LLC
+© CL TRUSE+LDJ FAM INV LL@ GWK
+
