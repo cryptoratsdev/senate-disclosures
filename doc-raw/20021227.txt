@@ -1,0 +1,49 @@
+ 
+
+T
+
+Filing ID #2021227
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Suzan K. DelBene
+Status: Member
+State/District:WAO1
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+JT Connecticut ST Go BDS 2018 C 5.00% 06/14/2022 06/14/2022 $15,001 -
+Ics! $50,000
+F oS New
+JT Honolulu HI City 4.00% Go Ute DuB 06/13/2022 06/13/2022 $15,001 -
+10/01/32 [GS $50,000
+F oS: New
+JT New York ST Dorm Auth ST Pers P 06/09/2022 06/09/2022 $1,001 - $15,000
+Income 5.00% Due 03/15/27 (GS.
+F oS New
+JT Prince Georges CNTY MDGo_ P 06/07/2022 06/07/2022 $100,001 -
+Consolidated 5.00% Due 07/15/31 $250,000
+
+[GS]
+F oS :New
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+Cc
+
+P
+No
+
+oO
+
+s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Suzan K. DelBene , 06/23/2022
+
