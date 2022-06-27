@@ -1,0 +1,49 @@
+ 
+
+Filing ID #2021251
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Alan S. Lowenthal
+Status: Member
+State/District:CA47
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Equinix Inc. Note5.375%; Due $ 06/02/2021 06/21/2022 $15,001 -
+5/15/2027 [CS $50,000
+FS :New
+s © : Neuberger Berman - Traditional IRA
+D Corporate Bond
+SP General Motors Company (GM) [S'S 08/23/2021 06/21/2022 $15,001 -
+$50,000
+F oS :New
+s © : Neuberger Berman - Traditional IRA
+SP International Flavors & Fragrances, 02/04/2021 06/21/2022 $1,001 - $15,000
+Inc. (IFF) [ST
+FS :New
+s © : Neuberger Berman - Beneficiary IRA
+D Received shares of International Flavors & Fragrances, Inc. (IFF) in exchange for DuPont (DD) 4s result
+spinoff.
+JT International Flavors & Fragrances, 02/04/2021 06/21/2022 $1,001 - $15,000
+Inc. (IFF) [ST]
+F oS :New
+s © : Neuberger Berman - Malumed Lowenthal Rev Trust
+D Received shares of International Flavors & Fragrances (IFF) in exchange for DuPont (DD) as result of sp
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc
+
+D
+
+© Neuberger Berman - Beneficiary IRA (Owner: SP)
+
