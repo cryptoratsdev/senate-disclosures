@@ -1,0 +1,49 @@
+ 
+
+Filing ID #2021374
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Nancy Pelosi
+Status: Member
+State/District:CA12
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Apple Inc. (AAPL) [OP S (partial) 06/17/2022 06/17/2022 $100,001 -
+$250,000
+F oS :New
+D Sold 50 call options with a strike price of $100 and an expiration date of 6/17/22.
+SP NVIDIA Corporation (NVDA) [ST] P 06/17/2022 06/17/2022 $1,000,001 -
+$5,000,000
+F oS :New
+D Exercised 200 call options (20,000 shares) expiring 6/17/22 at a strike price of $100,
+SP Visa Inc. (V) [ST! S (partial) 06/21/2022 06/21/2022 $1,000,001 -
+$5,000,000
+F oS :New
+D Sold 10,000 shares.
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+Cc
+
+P
+No
+
+oO
+
+s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Nancy Pelosi , 07/14/2022
+
