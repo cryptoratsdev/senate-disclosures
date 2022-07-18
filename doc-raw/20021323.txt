@@ -1,0 +1,53 @@
+ 
+
+T
+
+Filing ID #2021323
+
+ 
+
+F
+
+Name:
+Status:
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+Hon. Scott H. Peters
+Member
+
+State/District:CA52
+
+T
+ID
+
+‘Owner Asset
+
+SP East Bay MUD Sys CA[GS
+FS :New
+SP Lodi CAUSD GO UTX [GS
+
+F oS :New
+
+‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+P 06/21/2022 06/30/2022 $250,001 -
+$500,000
+P 06/02/2022 06/30/2022 $100,001 -
+$250,000
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+Cc
+
+P oO
+No
+
+s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+Digitally Signed: Hon. Scott H. Peters , 07/15/2022
+

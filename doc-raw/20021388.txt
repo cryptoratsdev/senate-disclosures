@@ -1,0 +1,74 @@
+T
+
+ 
+
+Filing ID #2021388
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+
+Name: Hon. Kevin Hern
+
+Status: Member
+
+State/District:OK01
+
+T
+
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+
+$200?
+
+JT AGCO Corporation (AGCO) [ST] P
+
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+Cerner Corporation (CERN) [ST] $ 06/10/2022 06/11/2022
+F oS :New
+s © : Kevin Hern Traditional IRA
+D Corporate Action - Cash Merger
+
+JT Devon Energy Corporation (DVN) P 06/30/2022 07/01/2022
+(STI
+F oS :New
+s © : Hern Family Foundation
+D Dividend Reinvestment
+
+JT Devon Energy Corporation (DVN) P 06/30/2022 07/01/2022
+IST]
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+
+JT Emerson Electric Company (EMR)P
+(STI
+
+FS :New
+
+s ©: Hern Family Revocable Trust > Brokerage Investment Account
+
+D Dividend Reinvestment
+
+06/21/2022 06/22/2022
+
+06/10/2022 06/11/2022
+
+$1,001 - $15,000
+
+$15,001 -
+$50,000
+
+$1,001 - $15,000
+
+$15,001 -
+$50,000
+
+$1,001 - $15,000
+
