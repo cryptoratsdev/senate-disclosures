@@ -1,0 +1,54 @@
+T
+
+ 
+
+Filing ID #2021351
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+  
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate _—_—Notification Amount
+Type Date
+JT Apple Inc. (AAPL) (ST! S (partial) 06/14/2022 07/08/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT _Arcutis Biotherapeutics, Inc. P 06/15/2022 07/08/2022 $1,001 - $15,000
+Common stock (ARQT) [
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Avient Corporation (AVNT) [ST] § (partial) 06/21/2022 07/07/2022 $1,001 - $15,000
+
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Capital One Financial Corporations (partial) _ 06/14/2022 07/08/2022 $1,001 - $15,000
+
+(COF) [ST]
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Daifuku Co., Ltd ADR (DFKCY) [OR 06/29/2022 07/08/2022 $1,001 - $15,000
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+L us
+D ADR stock
+JT Daifuku Co., Ltd ADR (DFKCY) [OR 06/30/2022 07/08/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+L us
+
+Cap.
+Gains >
+$200?
+

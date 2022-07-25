@@ -1,0 +1,49 @@
+Filing ID #2021322
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Maria Elvira Salazar
+Status: Member
+State/District:FL27
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+7 Heaven for Kids, LLC ffk/a 7S 06/21/2022 06/23/2022 $100,001 -
+Heaven for Kids PPEC, LLC [01 $250,000
+F oS New
+s 0: MES Health Holding, Inc.
+L Miami, FL, US
+D Filer sold her 20% interest in LLC (20,000 Class B shares) in exchange for forgiveness of the loan Buyer
+initially made to Filer to invest in PPEC.
+c [Asset did not produce any income during time Filer held shares in asset. This sales transaction was not fo
+
+proceeds but for forgiveness of the loan Buyer originally made to Filer to invest in LLC.
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© MES Health Holding, Inc. (100% Interest)
+L : Coral Gables, FL, US
+D: Filer is sole owner of incorporated entity.
+
+Cc
+I P oO
+Yes © No
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Maria Elvira Salazar , 07/22/2022
+
