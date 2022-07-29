@@ -1,0 +1,67 @@
+ 
+
+T
+
+Filing ID #2021398
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Christopher L. Jacobs
+Status: Member
+
+State/District:NY27
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+
+ACADIA Pharmaceuticals Inc. $ 06/16/2022 07/18/2022 $1,001 - $15,000
+(ACAD) [ST
+F oS: New
+s 0 : CL TRUST > LD] FAM INVLLC > Parametric
+
+AGNC Investment Corp. (AGNC) [S¥]
+
+06/21/2022 07/18/2022 $1,001 - $15,000
+
+F oS :New
+
+s ©: CL TRUST > LD] FAM INVLLC > Parametric
+
+Allakos Inc. (ALLK) (ST) P 06/16/2022 07/18/2022 $1,001 - $15,000
+
+FS :New
+
+s ©: CL TRUST > LD] FAM INVLLC > Parametric
+
+Anaplan, Inc. (PLAN) [ST] s 06/16/2022 07/18/2022 $1,001 - $15,000
+
+F oS :New
+
+s ©: CL TRUST > LD] FAM INVLLC > Parametric
+
+Associated Banc-Corp (ASB) [ST] P 06/16/2022 07/18/2022 $1,001 - $15,000
+
+FS :New
+
+s ©: CL TRUST > LD] FAM INVLLC > Parametric
+
+Atreca, Inc. - Class A (BCEL) [ST] P 06/16/2022 07/18/2022 $15,001 -
+$50,000
+
+F oS :New
+
+s ©: CL TRUST > LD] FAM INVLLC > Parametric
+
+Axsome Therapeutics, Inc. (AXSM)P 06/16/2022 07/18/2022 $15,001 -
+
+[ST]
+
+$50,000
+
