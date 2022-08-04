@@ -1,0 +1,51 @@
+Filing ID #2021454
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. David B. McKinley
+Status: Member
+State/District:WV01
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+Costco Wholesale Corporation (COSTpartial) 07/07/2022 07/31/2022 $1,001 - $15,000
+(st!
+F oS: New
+s 0 : IRA's > IRA- Spouse
+Jacobs Engineering Group Inc. (J) S (partial) 07/07/2022 07/31/2022 $1,001 - $15,000
+i
+F oS: New
+s 0 : IRA's > IRA- Spouse
+
+O'Reilly Automotive, Inc. (ORLY) [‘Si(partial) 07/07/2022 07/31/2022 $1,001 - $15,000
+FS :New
+
+s 0: IRA's > IRA- Spouse
+
+UnitedHealth Group Incorporated $ (partial) 07/07/2022 07/31/2022 $1,001 - $15,000
+Common Stock (UNH) [ST
+
+F oS :New
+
+s © IRA's > IRA- Spouse
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+o IRA's
+
+© IRA’s=IRA- Spouse
+D: Traditional Financial Investments in SEP, IRA, Rollover IRA and Filer-owned are primarily managed by a third party
+Registered Investment Advisory manager who has discretion for trades.
+

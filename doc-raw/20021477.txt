@@ -1,0 +1,41 @@
+T R
+
+ 
+
+Filing ID #2021477
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+T
+ID Owner Asset TransactionDate —_—Notification Amount
+Type Date
+Airbnb, Inc. - Class A (ABNB) [OP |S 07/29/2022 08/03/2022 $1,001 - $15,000
+F oS :New
+s O : Brokerage Account
+D Call options; Strike price $120; Expires 08/05/22
+Block, Inc. Class A Common StockS 07/22/2022 08/03/2022 $1,001 - $15,000
+(SQ) [OP
+F oS :New
+s O : Brokerage Account
+D Call options: Strike price $70; Expires 07/22/22
+DoorDash, Inc. Class A (DASH) [05] 07/05/2022 08/03/2022 $1,001 - $15,000
+F oS :New
+s O : Brokerage Account
+D Call options; Strike price $80; Expires 07/15/22
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+© Brokerage Account
+L :US
+I P oO
+Yes © No
+
