@@ -1,0 +1,46 @@
+ 
+
+Filing ID #20009266
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Mary Gay Scanlon
+Status: Member
+State/District:PA05
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Corteva, Inc. (CTVA) [ST! s 02/12/2021 03/01/2021 $1,001 - $15,000
+FS :New
+s © : Northwestern Mutual IRA # 2
+SP Dow Inc. (DOW) [ST! s 02/12/2021 03/01/2021 $1,001 - $15,000
+F oS :New
+s © : Northwestern Mutual IRA # 2
+SP DuPont de Nemours, Inc. (DD) [STE 02/01/2021 03/01/2021 $1,001 - $15,000
+FS :New
+s © : Northwestern Mutual IRA # 2
+D DuPont de Nemours, Inc. (DD) exchanged for International Flavors & Fragrances, Inc. (IFF) following
+merger.
+SP International Flavors & Fragrance§, 02/12/2021 03/01/2021 $1,001 - $15,000
+Inc. (IFF) [ST
+F oS :New
+s © : Northwestern Mutual IRA # 2
+SP Oracle Corporation (ORCL) [ST] $ 02/12/2021 03/01/2021 $15,001 -
+$50,000
+FS :New
+s © : Northwestern Mutual IRA # 2
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+A Cc
+
+D
+

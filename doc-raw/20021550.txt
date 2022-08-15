@@ -1,0 +1,44 @@
+ 
+
+Filing ID #2021550
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Susie Lee
+Status: Member
+State/District:NV03
+T
+1D Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+2000081228 JT Ally Financial Inc. (ALLY) [ST] P 06/15/2021 07/01/2021 $1,001 - $15,000
+Fos
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+2000080036 JT Dollar Tree, Inc. (DLTR) [ST] S$ 05/27/2021 06/01/2021 $1,001 - $15,000
+Fos
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+2000075142 JT Grocery Outlet Holding Corp. S 01/28/2021 02/01/2021 $1,001 - $15,000
+(Go) (ST)
+Fos
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+JT Hologic, Inc. (HOLX) [ST] P 09/30/2021 08/13/2022 $1,001 - $15,000
+Fos
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+JT Synchrony Financial (SYF) [ST]S 09/30/2021 08/13/2022 $1,001 - $15,000
+Fos
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+2000075121 JT © WESCO International, Inc. (WCE) 01/12/2021 02/01/2021 $1,001 - $15,000
+[ST]
+Fos
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+2000080040 JT Williams-Sonoma, Inc. CommonS 05/27/2021 06/01/2021 $1,001 - $15,000
+
+Stock (WSM) [ST'
+

@@ -1,0 +1,40 @@
+Filing ID #2021538
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Brian Mast
+Status: Member
+State/District:FL18
+T
+1D Owner Asset ‘TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+2000077079 UGRO [07 P 02/16/2021 02/16/2021 $15,001 -
+$50,000
+FS: Amended
+L us
+D Symbol did not populate correctly because it was misspelled
+2000077080 UGRO [07 P 02/18/2021 02/18/2021 $1,001 - $15,000
+FS: Amended
+L us
+D Symbol did not populate because it was misspelled
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Brian Mast , 08/12/2022
+

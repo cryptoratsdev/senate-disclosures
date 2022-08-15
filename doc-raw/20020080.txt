@@ -1,0 +1,39 @@
+Filing ID #20020080
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Peter Welch
+Status: Member
+State/District:VT00
+T
+1D Owner Asset ‘TransactionDate _—NotificationAmount —_—Cap.
+Type Date Gains >
+$200?
+2000052768 Vaisala Oy Ordinary Shares -A- P 07/16/2019 07/18/2019 $1,001 - $15,000
+(AIAF) (ST)
+FS: Amended
+s ©: Welch Account
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+o Welch Account
+L :US
+
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Peter Welch , 08/13/2022
+
