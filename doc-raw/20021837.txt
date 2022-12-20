@@ -1,0 +1,49 @@
+ 
+
+Filing ID #2021837
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+ 
+
+F I
+Name: Hon. Nancy Pelosi
+Status: Member
+State/District:CA12
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Alphabet Inc. - Class C Capital StoBk 09/16/2022 09/16/2022 $1,000,001 -
+(6006) (ST) $5,000,000
+FS :New
+D Exercised 200 call options purchased 12/1 7/21 (20,000 shares) at a strike price of $100 with an expirati
+date of 9/16/22.
+SP Micron Technology, Inc. (MU) [OPS 09/16/2022 09/16/2022 $15,001 - $50,000
+F oS :New
+D Sold 100 call options purchased 12/21/21 with a strike price of $50 and an expiration date of 9/16/22
+© Sold 100 call options purchased 12/21/21 (10,000 shares) at a price of $1.84 per share for a total loss of
+$392,575
+SP NVIDIA Corporation (NVDA) [OP] S 09/16/2022 09/16/2022 $100,001 -
+$250,000
+F oS :New
+D Sold 50 call options purchased 7/23/21 with a strike price of $100 and an expiration date of 9/16/22.
+c Sold 50 call options purchased 7/23/21 (5,000 shares) at a price of $26.86 per share for a total loss of $36
+SP Walt Disney Company (DIS) [OP] S 09/16/2022 09/16/2022 $1.00
+F oS :New
+D 50 call options purchased 12/17/21 with a strike price of $130 and an expiration date of 9/16/22 expired
+no value.
+© 50 call options purchased 12/17/21 with a strike price of $130 and an expiration date of 9/16/22 expired
+
+value for a total loss of $132,824.
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+Cc
+

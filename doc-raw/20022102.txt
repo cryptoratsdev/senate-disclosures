@@ -1,0 +1,45 @@
+ 
+
+T R
+
+Filing ID #20022102
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Accenture ple Class A Ordinary ShBres 11/15/2022 11/16/2022 $1,001 - $15,000
+(ACN) (ST
+FS: New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Ameriprise Financial, Inc. (AMP) [ST] 11/21/2022 11/22/2022 $1,001 - $15,000
+F oS: New
+s O : Kevin Hern Insurance Trust
+D sell to close position
+JT Crane Holdings, Co. (CR) [ST] S 11/21/2022 11/22/2022 $1,001 - $15,000
+F oS: New
+s ©: Kevin Hern Insurance Trust
+D sell to close position
+JT Magellan Midstream Partners L.P.P 11/14/2022 11/15/2022 $1,001 - $15,000
+Limited Partnership (MMP) [ST]
+F oS: New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+D Reinvestment of ROC
+JT Marsh & McLennan Companies, In. 11/21/2022 11/22/2022 $1,001 - $15,000
+(MMC) (ST)
+F oS: New
+s ©: Kevin Hern Insurance Trust
+D sell to close position
+JT ONEOK, Inc. (OKE) [ST] P 11/14/2022 11/15/2022 $1,001 - $15,000
+

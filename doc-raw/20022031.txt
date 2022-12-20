@@ -1,0 +1,49 @@
+Filing ID #2022031
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Suzan K, DelBene
+Status: Member
+
+State/District:WA01
+
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT IDST BLDG Auth 5%23 5.00 % Dus 11/17/2022 11/17/2022 $50,001 -
+Sep 1, 2023 (GS. $100,000
+FS :New
+JT Illinois HSG Dev Auth Rev BDS Se8 11/17/2022 11/17/2022 $250,001 -
+1.70 % Due Apr 1, 2031 [GS $500,000
+F oS :New
+JT Michigan ST HSG Dev Auth SingleP 11/10/2022 11/10/2022 $15,001 - $50,000
+Family 1.25 % Due Jun 1, 2027 [GS
+FS :New
+JT New York NY City Transitional FiP 11/04/2022 11/04/2022 $15,001 - $50,000
+5.00 % Due Nov 1, 2027 [GS
+F oS :New
+JT North Dakota ST HSG Fin Agy Hotfte 11/17/2022 11/17/2022 $250,001 -
+MTG 1.85 % Due Jan 1, 2032 [6S $500,000
+FS :New
+JT United States Treas Bills Zero CP/P 11/09/2022 11/09/2022 $250,001 -
+0.00 % Due Feb 21, 2023 (GS! $500,000
+F oS :New
+JT United States Treas Bills Zero CPP 11/10/2022 11/10/2022 $1,000,001 -
+0.00 % Due May 11, 2023 [G' $5,000,000
+
+ 
+
+FS :New
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+

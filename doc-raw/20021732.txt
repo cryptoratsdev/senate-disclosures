@@ -1,0 +1,57 @@
+Filing ID #2021732
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Lois Frankel
+Status: Member
+
+State/District:FL21
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+
+Accenture plc Class A Ordinary $ (partial) 09/14/2022 09/20/2022 $1,001 - $15,000
+Shares (ACN) (ST)
+
+FS :New
+s ©: Morgan Stanley IRA - X141
+
+Accenture plc Class A Ordinary $ (partial) _ 09/07/2022 09/20/2022 $1,001 - $15,000
+Shares (ACN) [ST]
+
+F oS :New
+s © : Morgan Stanley IRA - X141
+
+Analog Devices, Inc. (ADI) [ST] P 09/12/2022 09/20/2022 $1,001 - $15,000
+FS :New
+
+s © : Morgan Stanley IRA - X142
+
+Colgate-Palmolive Company (CL) S (partial) 09/07/2022 09/20/2022 $1,001 - $15,000
+[ST]
+
+F oS :New
+s © : Morgan Stanley IRA - X141
+
+Danaher Corporation (DHR) [ST] S (partial) 09/14/2022 09/20/2022 $1,001 - $15,000
+FS :New
+
+s ©: Morgan Stanley IRA - X141
+
+Eaton Corporation, PLC Ordinary S (partial) 09/07/2022 09/20/2022 $1,001 - $15,000
+Shares (ETN) [ST
+
+F oS :New
+s © : Morgan Stanley IRA - X141
+

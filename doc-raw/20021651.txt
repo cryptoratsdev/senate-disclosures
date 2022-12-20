@@ -1,0 +1,45 @@
+ 
+
+T R
+
+Filing ID #2021651
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Earl Blumenauer
+Status: Member
+State/District:OR03
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+SP Carrier Global Corporation (CARRP 08/03/2022 09/05/2022 $1,001 - $15,000
+(st)
+F oS: New
+D Part ofmy spouse's retirement portfolio
+SP Deere & Co 3.1%30 Due 04/15/30 P 08/11/2022 09/05/2022 $15,001 -
+[cs] $50,000
+F oS: New
+D Part of my spouse's retirement portfolio,
+SP Intel Corporation (INTC) [ST] $ 08/03/2022 09/05/2022 $1,001 - $15,000
+F oS: New
+D Part ofmy spouse's retirement portfolio
+SP Northwest Natural Holding Compdhy 08/15/2022 08/22/2022 $1,001 - $15,000
+(NWN) [ST]
+F oS :New
+D Dividend reinvestment. Part of my spouse's retirement portfolio,
+SP The Allstate Cor 1.45%30 Due P 08/09/2022 09/05/2022 $15,001 -
+12/15/30 [CS $50,000
+F oS: New
+D Part ofmy spouse's retirement portfolio
+SP US TreasurNT 2% 07/22(GS] 08/01/2022 09/05/2022 $15,001 -
+$50,000
+F oS: New
+
+D Full Redemption. Part of my spouse's retirement portfolio.
+

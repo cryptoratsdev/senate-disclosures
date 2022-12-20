@@ -1,0 +1,59 @@
+ 
+
+T R
+
+Filing ID #2021165
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+
+Name: Hon. Thomas Suozzi
+
+Status: Member
+
+State/District:NY03
+
+T
+
+1D Owner Asset Transaction Date Notification Amount
+
+Type Date
+
+Advanced Micro Devices, Inc. S (partial) _ 07/30/2019 07/31/2019 $1,001 -
+(AMD) [ST $15,000
+F oS :New
+s © : Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. S (partial) 06/18/2019 06/30/2019 $1,001 -
+(AMD) [ST] $15,000
+F oS :New
+s © : Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. S (partial) 03/05/2019 03/31/2019 $15,001 -
+(AMD) [ST $50,000
+F oS :New
+s © : Merrill Lynch- Advisor Discretion Account
+Advanced Micro Devices, Inc. P 01/08/2019 01/31/2019 $15,001 -
+(AMD) [ST] $50,000
+F oS :New
+s © : Merrill Lynch- Advisor Discretion Account
+
+2000086992 Advanced Micro Devices, Inc. S (partial) 11/18/2021 11/30/2021 $50,001 -
+(AMD) [ST $100,000
+F S$: Amended
+s © : National Securities- Advisor Discretion Account
+
+2000084709 Allstate Corporation (ALL) [ST] S (partial) 06/04/2021 06/30/2021 $1,001 -
+
+$15,000
+
+FS __: Amended
+s © : Merrill Lynch- Advisor Discretion Account
+
+Cap.
+Gains >
+$200?
+

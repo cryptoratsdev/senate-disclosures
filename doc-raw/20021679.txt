@@ -1,0 +1,59 @@
+Filing ID #2021679
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+
+State/District:VA01
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+Alphabet Inc. - Class C Capital StoBk 08/10/2022 08/12/2022 $1,001 - $15,000
+(G006) [ST
+F oS: New
+s © : Morgan Stanley INH IRA
+Amazon.com, Inc. (AMZN) [ST] P 08/10/2022 08/12/2022 $1,001 - $15,000
+F oS: New
+s O : Morgan Stanley INH IRA
+
+Goldman Activebeta US LC ETF (CS'{partial) 08/16/2022 08/18/2022 $1,001 - $15,000
+
+Ss :New
+© : Morgan Stanley INH IRA
+us
+Mutual Fund
+
+cram
+
+iShares US Technology ETF [OT] $ (partial) 08/16/2022 08/18/2022 $1,001 - $15,000
+
+Ss :New
+© : Morgan Stanley INH IRA
+us
+Mutual Fund
+
+oran
+
+iShares US Technology ETF [OT] P 08/10/2022 08/12/2022 $1,001 - $15,000
+
+Ss :New
+© : Morgan Stanley INH IRA
+us
+Mutual Fund
+
+cram
+
+Microsoft Corporation (MSFT) [STP 08/10/2022 08/12/2022 $1,001 - $15,000
+

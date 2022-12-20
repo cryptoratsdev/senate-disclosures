@@ -1,0 +1,50 @@
+ 
+
+Filing ID #2021553
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT CITIGROUP GLOBAL MKTS HLDGB 07/22/2022 07/22/2022 $250,001 -
+IN SER A.07/27/2027MTN [CS $500,000
+F oS :New
+s © : Hern Family Foundation
+D Buy Open CITI Medium Term Note
+JT FS Energy & Power Fund CommonP 07/13/2022 07/14/2022 $1,001 - $15,000
+[Ps,
+F oS :New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+L us
+D Dividend Reinvestment
+JT iShares TIPS Bond ETF (TIP) (ST) P 07/08/2022 07/09/2022 $1,001 - $15,000
+F oS :New
+s © : Hern Family Foundation
+D Dividend Reinvestment
+JT JP Morgan Chase & Co. (PM) [STIP 07/31/2022 07/31/2022 $1,001 - $15,000
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+A
+
+Cc
+
+D
+
+Hern Family Foundation (100% Interest) (Owner: JT)
+

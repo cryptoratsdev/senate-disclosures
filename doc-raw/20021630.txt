@@ -1,0 +1,51 @@
+Filing ID #2021630
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+
+State/District:NCO5
+
+ 
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+JT Alcoa Corporation (AA) [ST] P 08/02/2022 08/02/2022 $1,001 - $15,000
+F oS New
+JT Alcoa Corporation (AA) [ST] P 08/04/2022 08/04/2022 $1,001 - $15,000
+F oS: New
+JT Alcoa Corporation (AA) [ST] P 08/19/2022 08/19/2022 $1,001 - $15,000
+F oS New
+JT Alcoa Corporation (AA) [ST] P 08/22/2022 08/22/2022 $1,001 - $15,000
+F oS: New
+JT Alcoa Corporation (AA) [ST] P 08/30/2022 08/30/2022 $1,001 - $15,000
+F oS New
+JT Alcoa Corporation (AA) [ST] P 08/31/2022 08/31/2022 $1,001 - $15,000
+F oS: New
+JT AT&T Inc. Depositary Shares, eacP 08/19/2022 08/19/2022 $1,001 - $15,000
+
+representing a 1/1,000th interest in a
+share of 5.000% Perpetual Preferred
+Stock, Series A (TSA) [ST
+
+FS :New
+
+  
+
+JT British American Tobacco Indust
+p.Le. Common Stock ADR (BTI) [ST
+
+08/23/2022 08/23/2022 $1,001 - $15,000
+

@@ -1,0 +1,37 @@
+Filing ID #2021506
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+State/District:CA52
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+SP San Francisco CA Sewer Util [GS]P 07/06/2022 07/31/2022 $100,001 -
+$250,000
+F oS New
+SP San Francisco CA Sewer Util [GS]P 07/06/2022 07/31/2022 $500,001 -
+$1,060,000
+F oS: New
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Scott H. Peters , 08/16/2022
+

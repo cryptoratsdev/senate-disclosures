@@ -1,0 +1,50 @@
+T R
+
+ 
+
+Filing ID #2021629
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. William R. Keating
+Status: Member
+
+State/District:MA09
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+
+ORACLE CORP NOTE CALL MAKES 09/15/2022 10/20/2022 $15,001 -
+WHOLE 2.30000% 03/25/2028 [CS $50,000
+F oS New
+s ©: Bill's IRA,
+D 68389XCD5
+Ross Stores, Inc. (ROST) [ST] S 09/09/2022 10/20/2022 $1,001 - $15,000
+F oS: New
+s ©: Bill's IRA,
+‘TJX Companies, Inc. (TJX) [ST] P 09/09/2022 10/20/2022 $1,001 - $15,000
+F oS New
+s ©: Bill's IRA,
+UNITED STATES TREAS SER C-20B2 07/20/2022 09/01/2022 $15,001 -
+2.87500% 05/15/2032 NTS NOTE $50,000
+[Gs
+F oS: New
+s ©: Bill's IRA,
+VERIZON COMMUNICATIONS INC 09/30/2022 10/20/2022 $15,001 -
+4.01600% 12/03/2029 SER C NOTE $50,000
+
+CALL MAKE WHOLE [CS.
+
+FS :New
+s 0: Bil's IRA
+D 92343 VEU4
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+

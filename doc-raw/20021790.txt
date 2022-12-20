@@ -1,0 +1,59 @@
+Filing ID #2021790
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Virginia Foxx
+Status: Member
+
+State/District:NCO5
+
+ 
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+
+JT Alcoa Corporation (AA) [ST] P 09/01/2022 09/01/2022 $1,001 - $15,000
+F oS New
+
+JT Alcoa Corporation (AA) [ST] 09/28/2022 09/28/2022 $15,001 -
+
+$50,000
+
+F oS: New
+
+JT Apollo Asset Management, Inc. P 09/16/2022 09/16/2022 $1,001 - $15,000
+6.375% Series A Preferred Stock
+(AAMSA) [ST
+F oS New
+
+JT Apollo Asset Management, Inc. P 09/23/2022 09/23/2022 $1,001 - $15,000
+6.375% Series A Preferred Stock
+(AAMSA) [ST
+F oS: New
+
+JT CF Industries Holdings, Inc. (CF) P 09/01/2022 09/01/2022 $15,001 -
+sv! $50,000
+F oS New
+
+JT CF Industries Holdings, Inc. (CF) P 09/07/2022 09/07/2022 $1,001 - $15,000
+(STI
+F oS: New
+
+JT CF Industries Holdings, Inc. (CF) P 09/12/2022 09/12/2022 $1,001 - $15,000
+
+ 
+
+ian
+FS :New
+

@@ -1,0 +1,47 @@
+Filing ID #2021795
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Suzan K, DelBene
+Status: Member
+
+State/District:WA01
+
+T
+ID _ Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Illinois ST Sales Tax Rev JR Oblig P 09/22/2022 09/22/2022 $1,001 - $15,000
+4.00 % Due Jun 15, 203016:
+FS :New
+JT King CNTY Wash LTD Tax Go Ref P 09/26/2022 09/26/2022 $500,001 -
+BDS Ser. 5.00 % Due Jul 1, 2024 [GS $1,000,000
+F oS :New
+JT New York ST Dorm Auth Sales Tax? 09/22/2022 09/22/2022 $15,001 - $50,000
+Rev 5.00 % Due Mar 15, 2025 [GS)
+FS :New
+JT _US Treasury Bill23 US TBill Due P 09/28/2022 09/28/2022 $1,000,001 -
+09/07/23 [GS $5,000,000
+F oS :New
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, 1 CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Suzan K. DelBene , 10/10/2022
+

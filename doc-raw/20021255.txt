@@ -1,0 +1,46 @@
+Filing ID #2021255
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Daniel Crenshaw
+Status: Member
+
+State/District:TX02
+
+ 
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+Alphabet Inc. - Class C Capital Stodk 10/25/2022 10/25/2022 $1,001 - $15,000
+(G006) [ST
+F oS New
+Amazon.com, Inc. (AMZN) [ST] P 10/25/2022 10/25/2022 $1,001 - $15,000
+F oS: New
+Apple Inc. (AAPL) [ST P 10/25/2022 10/25/2022 $1,001 - $15,000
+F oS New
+Direxion Financial Bull 3X Shares P 10/25/2022 10/25/2022 $1,001 - $15,000
+(FAS) [ST
+F oS: New
+ta Platforms, Inc. - Class A (MEFA) 10/25/2022 10/25/2022 $1,001 - $15,000
+Ne
+F oS New
+United States Oil Fund (USO) [STIP 10/25/2022 10/25/2022 $1,001 - $15,000
+F oS: New
+‘Wynn Resorts, Limited (WYNN) [SP) 10/25/2022 10/25/2022 $1,001 - $15,000
+F oS New
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+I P oO
+

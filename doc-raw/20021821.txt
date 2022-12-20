@@ -1,0 +1,56 @@
+T
+
+ 
+
+Filing ID #2021821
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate —_—Notification Amount
+Type Date
+JT ABIOMED, Inc. (ABMD) [ST] 09/14/2022 10/05/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Allianz SEADR (ALIZY) [OT] (partial) 09/15/2022 10/05/2022 $1,001 - $15,000
+
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+L us
+D ADR stock
+
+JT Alnylam Pharmaceuticals, Inc. P 09/28/2022 10/05/2022 $1,001 - $15,000
+(ALNY) (ST.
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Automatic Data Processing, Inc. P 09/26/2022 10/05/2022 $1,001 - $15,000
+(ADP) [ST]
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT BHP Group Limited American —_S (partial) _ 09/15/2022 10/05/2022 $1,001 - $15,000
+
+Depositary Shares (BHP) [ST
+
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Blackstone Inc. (BX) [ST] S (partial) 09/14/2022 10/05/2022 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley - Select UMA Account # 1
+
+Cap.
+Gains >
+$200?
+

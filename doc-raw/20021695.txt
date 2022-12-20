@@ -1,0 +1,43 @@
+ 
+
+T R
+
+Filing ID #2021695
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NCO6
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Alphabet Inc. - Class A (GOOGL) [SP 08/05/2022 09/06/2022 $1,001 - $15,000
+FS :New
+s © : The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+SP Alphabet Inc. - Class C Capital Sod 08/05/2022 09/06/2022 $1,001 - $15,000
+(GOOG) (ST)
+F oS :New
+s © : The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Altria Group, Inc. (MO) [ST s 08/03/2022 09/06/2022 $1,001 - $15,000
+F oS :New
+s © : Charles Schwab - O'Shaughnessy Asset Management
+SP Amazon.com, Inc. (AMZN) [ST] P. 08/05/2022 09/06/2022 $1,001 - $15,000
+F oS :New
+s © : The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #3
+JT Amcor ple Ordinary Shares (AMCRS 08/03/2022 09/06/2022 $1,001 - $15,000
+(STI
+F oS :New
+s © : Charles Schwab - O'Shaughnessy Asset Management
+JT American International Group, IncS 08/03/2022 09/06/2022 $1,001 - $15,000
+New (AIG) [ST]
+F oS :New
+s O : Charles Schwab - O'Shaughnessy Asset Management
+JT Ameriprise Financial, Inc. (AMP) (ST) 08/03/2022 09/06/2022 $1,001 - $15,000
+

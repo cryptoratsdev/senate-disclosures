@@ -1,0 +1,49 @@
+Filing ID #20022027
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Dwight Evans
+Status: Member
+
+State/District:PA03
+
+ 
+
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+DBA Sempra (SRE) [ST P 11/14/2022 11/18/2022 $1,001 - $15,000
+F oS :New
+s © : PROEQUITIES
+Global X NASDAQ-100 Covered Ca 11/14/2022 11/18/2022 $1,001 - $15,000
+ETF (QYLD) [ST
+F oS :New
+s © : PROEQUITIES
+Pacer Data & Infrastructure Real S 11/14/2022 11/18/2022 $1,001 - $15,000
+Estate ETF (SRVR) [ST
+F oS :New
+s © : PROEQUITIES
+Principal Healthcare Innovators EEF 11/14/2022 11/18/2022 $1,001 - $15,000
+(BTEC) (ST)
+F oS :New
+s © : PROEQUITIES
+Raytheon Technologies Corporatio® 11/14/2022 11/18/2022 $1,001 - $15,000
+(RTX)[
+F oS :New
+s © : PROEQUITIES
+Roche Holdings AG Basel Americal? 11/14/2022 11/18/2022 $1,001 - $15,000
+Depositary Shares (RHHBY) [ST
+F oS :New
+
+s 0: PROEQUITIES
+

@@ -1,0 +1,79 @@
+T
+
+ 
+
+Filing ID #2021929
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. James R. Langevin
+Status: Member
+
+State/District:RI02
+
+T
+
+ID Owner Asset ‘Transaction Date
+Type
+
+Airbnb, Inc. - Class A (ABNB) [ST] $
+
+FS :New
+s © : Brokerage Account
+D Call options; Strike price $110; Expires 10/07/22
+
+Airbnb, Inc. - Class A (ABNB) [ST] S
+
+F oS :New
+s © : Brokerage Account
+D Call options; Strike price $118; Expires 10/21/22
+
+Airbnb, Inc. - Class A (ABNB) [ST] $
+
+FS :New
+s © : Brokerage Account
+
+Airbnb, Inc. - Class A (ABNB) (ST]P
+
+F oS :New
+s © : Brokerage Account
+
+Airbnb, Inc. - Class A (ABNB) (ST) P
+FS :New
+
+s © : Brokerage Account
+
+Block, Inc. Class A Common StockS
+(SQ) [ST]
+
+F oS :New
+
+s © : Brokerage Account
+
+Notification Amount Cap.
+Date Gains >
+$200?
+
+10/03/2022 11/02/2022 $1,001 - $15,000
+
+10/13/2022 11/02/2022 $1,001 - $15,000
+
+10/21/2022 11/02/2022 $100,001 -
+
+$250,000
+
+10/27/2022 11/02/2022 $100,001 -
+
+$250,000
+
+10/28/2022 11/02/2022 $1,001 - $15,000
+
+10/28/2022 11/02/2022 $50,001 ~
+
+$100,000
+

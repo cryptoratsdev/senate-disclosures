@@ -1,0 +1,57 @@
+Filing ID #2021881
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Lois Frankel
+Status: Member
+
+State/District:FL21
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+Boston Scientific Corporation (BSX) 09/28/2022 10/21/2022 $1,001 - $15,000
+STI
+F oS: New
+s © : Morgan Stanley IRA - X141
+
+Broadridge Financial Solutions, In (partial) 10/13/2022 10/21/2022 $1,001 - $15,000
+
+(BR) (ST!
+F oS :New
+s © : Morgan Stanley IRA - X142
+
+CarGurus, Inc. - Class A (CARG) [SS{partial) 09/20/2022 10/21/2022 $1,001 - $15,000
+
+FS :New
+s © : Morgan Stanley IRA - X142
+
+Comcast Corporation -Class AP 10/12/2022 10/21/2022 $1,001 - $15,000
+(CMCSA) (ST
+
+F oS :New
+
+s © : Morgan Stanley IRA - X141
+
+Danaher Corporation (DHR) [ST] S (partial) 09/28/2022 10/21/2022 $1,001 - $15,000
+
+FS :New
+s ©: Morgan Stanley IRA - X141
+
+Danaher Corporation (DHR) [ST] S 10/12/2022 10/21/2022 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley IRA - X141
+
+Diamondback Energy, Inc. (FANGS (partial) 10/07/2022 10/21/2022 $1,001 - $15,000
+

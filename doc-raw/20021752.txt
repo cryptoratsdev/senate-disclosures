@@ -1,0 +1,36 @@
+Filing ID #2021752
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Ed Perlmutter
+Status: Member
+State/District:CO07
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+SP ChargePoint Holdings, Inc. (CHPTP 09/02/2022 09/23/2022 $1,001 - $15,000
+(st)
+F oS New
+SP Kroger Company (KR) (ST) P 07/19/2022 09/26/2022 $1,001 - $15,000
+F oS: New
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, 1 CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Ed Perlmutter , 09/26/2022
+

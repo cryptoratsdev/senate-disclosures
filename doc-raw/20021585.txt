@@ -1,0 +1,45 @@
+Filing ID #2021585
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Debbie Wasserman Schultz
+Status: Member
+
+State/District:FL23
+
+ 
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+DC Hill International, Inc. (HIL) [ST] 08/17/2022 08/17/2022 $1,001 - $15,000
+F oS New
+DC Hill International, Inc. (HIL) [ST] $ 08/17/2022 08/17/2022 $1,001 - $15,000
+F oS: New
+Hill International, Inc. (HIL) [ST] S 08/17/2022 08/17/2022 $1,001 - $15,000
+F oS New
+DC _ SPDR Select Sector Fund - EnergyS 08/19/2022 08/20/2022 $1,001 - $15,000
+Select Sector (XLE) [ST
+F oS: New
+SPDR Select Sector Fund - Energy 08/19/2022 08/20/2022 $1,001 - $15,000
+Select Sector (XLE) (S
+F oS New
+DC _ SPDR Select Sector Fund - EnergyS 08/19/2022 08/20/2022 $1,001 - $15,000
+Select Sector (XLE) [ST
+F oS: New
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+I P oO
+Yes © No
+

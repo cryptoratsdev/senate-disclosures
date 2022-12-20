@@ -1,0 +1,50 @@
+Filing ID #2021951
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Cindy Axne
+Status: Member
+
+State/District:IA03
+
+ 
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Lockheed Martin Corporation (LMS) 11/03/2022 11/04/2022 $1,001 - $15,000
+(st)
+F oS New
+s © : Creation Agents LLC 401K
+PayPal Holdings, Inc. (PYPL) [ST] § 11/09/2022 11/10/2022 $1,001 - $15,000
+F oS :New
+s © : Cindy Axne IRA
+SP PayPal Holdings, Inc. (PYPL) [ST] S 11/09/2022 11/10/2022 $1,001 - $15,000
+F oS New
+s © : Creation Agents LLC 401K
+SP PayPal Holdings, Inc. (PYPL) [ST] S 11/09/2022 11/10/2022 $1,001 - $15,000
+F oS: New
+s © : John Axne IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© Cindy Axne IRA
+© Creation Agents LLC 401K (Owner
+© John Axne IRA (Owner: SP)
+
+ 
+
+I P oO
+

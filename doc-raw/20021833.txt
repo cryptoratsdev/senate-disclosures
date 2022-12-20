@@ -1,0 +1,69 @@
+T
+
+ 
+
+Filing ID #2021833
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+
+Name: Hon. Bradley S. Schneider
+
+Status: Member
+
+State/District:IL10
+
+T
+
+ID Owner Asset ‘Transaction Date
+
+Type
+
+M Financial Holding (MFH), —S
+(Insurance, Portland, OR) [PS
+F oS: New
+s 0:25 - Other Individual Investments
+L us
+D Life insurance distribution company
+
+MZ Capital Mundelein, LLC [OI] P
+
+F oS :New
+s ©: 25 - Other Individual Investments
+D Multifamily Development
+
+SP MZ Capital Mundelein, LLC [Ol] P
+
+FS :New
+s © :20-CD Family Investment Partnership
+D Multifamily Development
+
+Notification Amount Cap.
+Date Gains >
+$200?
+
+09/16/2022 09/16/2022 $50,001 ~
+
+$100,000
+
+09/20/2022 10/09/2022 $100,001 -
+
+$250,000
+
+09/20/2022 10/09/2022 $1,001 - $15,000
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+ 25- Other Individual Investments
+L :US
+
+© 26-CD Family Investment Partnership (Owner: SP)
+L :US
+

@@ -1,0 +1,51 @@
+ 
+
+Filing ID #2021964
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT FS Energy & Power Fund Commor? 10/19/2022 10/20/2022 $1,001 - $15,000
+(PS,
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+L us
+D Dividend Reinvestment
+JT Inland Real Estate Income Trust [IPs 10/07/2022 10/10/2022 $1,001 - $15,000
+F oS :New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+L us
+D Dividend Reinvestment
+JT JP Morgan Chase & Co. (JPM) [STP 10/31/2022 11/01/2022 $1,001 - $15,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT JPMorgan Equity Premium IncomeP 10/06/2022 10/07/2022 $1,001 - $15,000
+ETF (EPI) [ST
+F oS :New
+s O : Hern Family Foundation
+D Dividend Reinvestment
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A
+
+Cc
+
+D
+
+Hern Family Foundation (100% Interest) (Owner: JT)
+

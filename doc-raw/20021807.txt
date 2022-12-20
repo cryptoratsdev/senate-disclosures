@@ -1,0 +1,49 @@
+Filing ID #2021807
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+
+State/District:VA01
+
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+Comcast Corporation -Class AS 09/15/2022 09/19/2022 $1,001 - $15,000
+(CMCSA) (ST)
+F oS :New
+s © : Morgan Stanley
+Energy Sel Sect SPDR FD [OT] P 09/27/2022 09/29/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley INH IRA
+L us
+D Mutual Fund
+Franklin FTSE UK ETF (07! s 09/27/2022 09/29/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley INH IRA
+L us
+D Mutual Fund
+Global X US INF DEVETF [OT] 09/27/2021 09/29/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley INH IRA
+L us
+D Mutual Fund
+
+International Flavors & Fragrance§ (partial) _ 09/15/2022 09/19/2022 $1,001 - $15,000
+Inc. (IFF) [ST)
+
+FS :New
+
+s © : Morgan Stanley
+

@@ -1,0 +1,89 @@
+ 
+
+T
+
+Filing ID #2021836
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name:
+Status:
+
+Hon. Scott Franilin
+Member
+
+State/District:FL15
+
+T
+
+ID Owner Asset
+
+SP
+
+SP
+
+‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+Cisco Systems, Inc. (CSCO) [ST] _P 09/13/2022 09/30/2022 $15,001 -
+$50,000
+
+FS :New
+s  : Fidelity Traditional IRA
+
+Cisco Systems, Inc. (CSCO) [ST] P
+
+F oS :New
+s © : Fidelity Roth IRA
+
+Fidelity Advisor Total Bond CLZ S
+(FBKWX) [CS
+
+FS :New
+s O : Fidelity Traditional IRA
+D Sold 18,669.832 shares at $9.00
+
+Fidelity Advisor Total Bond CLZ S
+(FBKWX) (CS,
+
+F oS :New
+s © : Fidelity Roth IRA
+D Sold 2,290.102 shares at $9.60
+
+Fidelity Advisor Total Bond CLZ S
+(FBKWX) [CS
+
+FS :New
+s ©: Fidelity Roth IRA
+D Sold 925.633 shares at $9.01
+
+Fidelity Contrafund (FCNTX) [CS]P
+
+09/13/2022 09/30/2022
+
+09/08/2022 09/30/2022
+
+09/08/2022 09/30/2022
+
+09/09/2022 09/30/2022
+
+09/13/2022 09/30/2022
+
+$1,001 - $15,000
+
+$100,001 -
+
+$250,000
+
+$15,001 -
+$50,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+

@@ -1,0 +1,41 @@
+Filing ID #2022024
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. William R. Keating
+Status: Member
+State/District: MA09
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+Adobe Inc. (ADBE) [ST s 11/09/2022 11/21/2022 $1,001 - $15,000
+F oS :New
+s ©: Bill's IRA
+MORGAN STANLEY MTN CALL [(S5 11/04/2022 11/21/2022 $15,001 -
+$50,000
+F oS :New
+s © : Bill's IRA
+D 61746BDQ6 MORGAN STANLEY MTN CALL MAKE WHOLE 3.87500% 04/29/2024
+MORGAN STANLEY SERIMTN P 11/04/2022 11/21/2022 $15,001 -
+6.34200% 10/18/2033 [CS $50,000
+F oS :New
+s ©: Bill's IRA
+D 61747 YEY7 MORGAN STANLEY SER I MTN 6.34200% 10/18/2033 CALL MAKE WHOLE
+ServiceNow, Inc. (NOW) [ST] P 11/09/2022 11/21/2022 $1,001 - $15,000
+F oS :New
+s ©: Bill's IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+o Bill's IRA
+

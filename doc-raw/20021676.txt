@@ -1,0 +1,50 @@
+T
+
+ 
+
+Filing ID
+
++#20021676
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate _—_—Notification Amount
+Type Date
+JT Apple Inc. (AAPL) (ST! S (partial) 08/26/2022 09/06/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Automatic Data Processing, Inc. P 08/12/2022 09/06/2022 $1,001 - $15,000
+(ADP) [ST]
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT BioCryst Pharmaceuticals, Inc. P 08/11/2022 09/06/2022 $1,001 - $15,000
+(BCRX) (ST)
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Blackstone Inc. (BX) [ST] S (partial) 08/11/2022 09/06/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Cerence Inc. (CRNC) [ST s 08/15/2021 09/06/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT ChemoCentryx, Inc. (CCXI) [ST] S (partial) _ 08/11/2022 09/06/2022 $1,001 - $15,000
+
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Coca-Cola Company (KO) [ST] P 08/05/2022 09/06/2022 $1,001 - $15,000
+
+Cap.
+Gains >
+$200?
+

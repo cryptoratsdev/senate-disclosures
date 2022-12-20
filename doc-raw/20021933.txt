@@ -1,0 +1,51 @@
+T
+
+ 
+
+Filing ID #2021933
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate _—Notification Amount
+Type Date
+JT Airbnb, Inc. - Class A (ABNB) [ST] P 10/19/2022 11/03/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Allianz SE ADR (ALIZY) [OT] P 10/17/2022 11/03/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+L us
+D ADR stock,
+
+JT Alphabet Inc. - Class C Capital Sto&k(partial) 10/27/2022 11/03/2022 $1,001 - $15,000
+
+(6006) [sT)
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Amgen Inc. (AMGN) [ST] P 10/19/2022 11/03/2022 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Apple Inc. (AAPL) [ST’ S (partial) 10/25/2022 11/03/2022 $1,001 - $15,000
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Apple Inc. (AAPL) (ST) P 10/19/2022 11/03/2022 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley - Select UMA Account # 1
+
+Cap.
+Gains >
+$200?
+

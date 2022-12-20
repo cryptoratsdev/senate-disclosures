@@ -1,0 +1,44 @@
+Filing ID #2022048
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon, Donald Sternoff Beyer Jr.
+Status: Member
+State/District:VA08
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Clark Cnty Nev Limited 3.00% — P 11/10/2022 11/29/2022 $15,001 -
+06/01/37 IGS $50,000
+FS :New
+s © : Stocks, Bonds, & Mutual Funds
+D 30,000 units Clark County Nevada Limited 3.00% 06,01/37
+JT Virginia St Pub 3.00% 10/01/38 [GS) 11/10/2022 11/29/2022 $15,001 -
+$50,000
+F oS :New
+s © : Stocks, Bonds, & Mutual Funds
+D redemption of 30,000 units of Virginia State Public 3.00% 10/01/38
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+A Cc D
+© Stocks, Bonds, & Mutual Funds (Owner: JT)
+L : VA, US
+Cc
+I P oO
+Yes © No
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+

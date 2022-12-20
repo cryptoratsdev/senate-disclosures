@@ -1,0 +1,59 @@
+Filing ID #2021965,
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+
+Name: Hon. John Curtis
+
+Status: Member
+
+State/District:UT03
+
+T
+
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+
+$200?
+
+JT Abbott Laboratories (ABT) [ST] $ (partial) 10/21/2022 11/01/2022 $1,001 - $15,000
+
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT Adobe Inc. (ADBE) (ST! P 10/21/2022 11/01/2022 $1,001 - $15,000
+F oS :New
+s © : Northwestern Mutual -Joint
+
+JT Chipotle Mexican Grill, Inc. (CMG)P 10/21/2022 11/01/2022 $1,001 - $15,000
+[ST]
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT COLUMBUS OHIO GO BDs 2018 10/28/2022 11/01/2022 $1,001 - $15,000
+5.000% 04/01/23 [CS.
+F oS :New
+s © : Northwestern Mutual -Joint
+D Columbus, OH
+
+JT T-Mobile US, Inc. (TMUS) (ST) (partial) 10/21/2022 11/01/2022 $1,001 - $15,000
+
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT Waste Management, Inc. (WM) [S'S (partial) 10/21/2022 11/01/2022 $1,001 - $15,000
+
+F oS :New
+s © : Northwestern Mutual -Joint
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+

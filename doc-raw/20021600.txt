@@ -1,0 +1,66 @@
+Filing ID #2021600
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Neal Patrick MD, Facs Dunn
+Status: Member
+
+State/District:FLO2
+
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+ATAT Inc. Depositary Shares, each? 08/15/2022 08/23/2022 $15,001 -
+representing a 1/1,000th interest in a $50,000
+
+share of 5.000% Perpetual Preferred
+Stock, Series A (TSA) [ST.
+
+FS :New
+
+s O:IRA#1
+
+Cadence Bank 5.50% Series AP 08/10/2022 08/23/2022 $15,001 -
+(CADE$A) [ST $50,000
+F oS :New
+
+s O:IRA #1
+
+Cadence Bank 5.50% SeriesA 08/15/2022 08/23/2022 $1,001 - $15,000
+(CADE$A) [ST
+
+FS :New
+s O:IRA#1
+
+Capital One Financial CorporationP 08/15/2022 08/23/2022 $15,001 -
+Depositary shares each representing a $50,000
+1/40th interest in a share of Fixed
+
+Rate Non-Cumulative Perpetual
+
+Preferred Stock, Series I of the Issuer
+
+(COFS) [ST
+
+F oS :New
+
+s IRA #1
+
+Capital One Financial CorporationP 08/10/2022 08/23/2022 $15,001 -
+Depositary shares each representing a $50,000
+
+1/40th interest in a share of Fixed
+Rate Non-Cumulative Perpetual
+Preferred Stock, Series I of the Issuer
+(COFS) [ST
+

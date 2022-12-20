@@ -1,0 +1,82 @@
+T
+
+ 
+
+Filing ID
+
++#20021800
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. David B. McKinley
+Status: Member
+
+State/District:WV01
+
+T
+ID Owner Asset TransactionDate _—Notification Amount
+Type Date
+Abbott Laboratories (ABT) [ST] 09/21/2022 09/30/2022 $1,001 - $15,000
+
+FS :New
+s 0: IRA's > IRA- Spouse
+
+Arthur J. Gallagher & Co. (AJG) [SPI
+
+F oS :New
+s © IRA's > IRA- Spouse
+CarMax Inc (KMX) (ST) s
+FS :New
+
+s 0: IRA's > IRA- Spouse
+
+Centene Corporation (CNC) [ST] P
+
+F oS :New
+s © IRA's > IRA- Spouse
+S&P Global Inc. (SPGI) (ST) s
+FS :New
+
+s 0: IRA's > IRA- Spouse
+
+Stanley Black & Decker, Inc. (SWKS.
+IST}
+
+F oS :New
+s © IRA's > IRA- Spouse
+
+Tesla, Inc. (TSLA) (ST) P
+
+09/21/2022 09/30/2022
+
+09/21/2022 09/30/2022
+
+09/21/2022 09/30/2022
+
+09/21/2022 09/30/2022
+
+09/21/2022 09/30/2022
+
+09/21/2022 09/30/2022
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+Cap.
+Gains >
+$200?
+

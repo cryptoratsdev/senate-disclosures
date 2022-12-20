@@ -1,0 +1,54 @@
+ 
+
+Filing ID #2021945
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F
+Name: Hon. Brad Sherman
+Status: Member
+State/District:CA30
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+US Treasury Inflation Protected N6te 11/03/2022 11/03/2022 $250,001 -
+Ics $500,000
+FS :New
+D ‘This item appears on Page 18 of the filer's 2021 annual financial disclosure statement.
+US Treasury Inflation Protected NBte 11/03/2022 11/03/2022 $500,001 -
+[cs] $1,000,000
+F oS :New
+D ‘This item appears on page 15 of the filer’s 2021 annual financial disclosure statement (4th asset listed o
+page).
+US Treasury Inflation Protected N6te 11/03/2022 11/03/2022 $250,001 -
+#265) $500,000
+FS :New
+D ‘This item appears on page 15 of the filer's 2021 annual financial disclosure statement (Sth asset listed o
+page)
+
+US Treasury Inflation Protected $ (partial) 11/07/2022 11/07/2022 $250,001 -
+
+Notes (GS) $500,000
+
+F oS :New
+
+D ‘This item was acquired by filer on 8/26/2022 as reported via periodic transaction report.
+
+US Treasury Notes [GS s 11/03/2022 11/03/2022 $250,001 -
+$500,000
+
+FS :New
+
+D ‘This item was acquired on 5/10/2022 as reported via periodic transaction report,
+
+US Treasury Notes [GS] s 11/03/2022 11/03/2022 $15,001 - $50,000
+
+F oS :New
+
