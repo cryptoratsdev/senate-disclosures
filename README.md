@@ -2,7 +2,7 @@
 
 * `doc-raw` folder contains all documents processed by tesseract-ocr
 * `reports` contains all stock related reports from https://efdsearch.senate.gov/ portal
-* `reports/all.json` contains all data from `reports` folder
+* [reports/all.json](https://raw.githubusercontent.com/cryptoratsdev/senate-disclosures/main/reports/all.json) contains all data from `reports` folder
 
 ## How often is data updated?
 
