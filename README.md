@@ -11,4 +11,5 @@ All data is automatically generated on hourly basis from https://github.com/cryp
 
 ## Do I need to download the data?
 
-Not really. Simplest way to consume all reports would be by getting json from [Github](https://raw.githubusercontent.com/cryptoratsdev/senate-disclosures/main/reports/all.json)
+Not really.
+Simplest way to consume all reports would be by getting json from [reports/all.json](https://raw.githubusercontent.com/cryptoratsdev/senate-disclosures/main/reports/all.json) directly from Github.
