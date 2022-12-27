@@ -1,0 +1,52 @@
+ 
+
+Filing ID #20020767
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F
+Name: Hon. Nicholas V. Taylor
+Status: Member
+State/District:TX03
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+Bristol-Myers Squibb Company $ (partial) 11/28/2022 11/28/2022 $100,001 -
+(BMY) (ST) $250,000
+F oS :New
+s © : VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+
+Chevron Corporation (CVX) [ST] S (partial) 11/28/2022 11/28/2022 $500,001 -
+$1,000,000
+
+F oS :New
+s © : VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+
+Eli Lilly and Company (LLY) (ST) S (partial) 11/28/2022 11/28/2022 $1,000,001 -
+$5,000,000
+
+FS :New
+s ©: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+
+Exxon Mobil Corporation (KOM) [SS{partial) 11/28/2022 11/28/2022 $1,000,001 -
+
+$5,000,000
+F oS :New
+s © : VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Moody's Corporation (MCO) [ST] S 11/28/2022 11/28/2022 $250,001 -
+$500,000
+FS :New
+s ©: VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+Occidental Petroleum Corporation. 11/28/2022 11/28/2022 $1,001 - $15,000
+(OXY) [ST]
+F oS :New
+
+s © : VanAnne Holdings LLC GP > Dagger Management LP > Leonidas Capital, LP
+
