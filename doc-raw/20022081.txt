@@ -1,0 +1,44 @@
+Filing ID #2022081
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Susie Lee
+Status: Member
+State/District:NVO3
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Acadia Healthcare Company, Inc. S 11/30/2022 12/05/2022 $1,001 - $15,000
+(ACHO) [ST
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+JT AdaptHealth Corp. (AHCO) [ST] S 11/30/2022 12/05/2022 $1,001 - $15,000
+F oS: New
+s O : DSL Living Trust > Bank of New York Brokerage Account 340
+JT Ally Financial Inc. (ALLY) [ST] $ 11/30/2022 12/05/2022 $1,001 - $15,000
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+JT American Water Works Company, S 11/30/2022 12/05/2022 $1,001 - $15,000
+Inc. (AWK) [ST]
+F oS: New
+s O : DSL Living Trust > Bank of New York Brokerage Account 340
+JT AMETEK, Inc. (AME) (ST! s 11/30/2022 12/05/2022 $1,001 - $15,000
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+JT Aptiv PLC Ordinary Shares (APTS 11/30/2022 12/05/2022 $1,001 - $15,000
+(ST]
+F oS: New
+s O : DSL Living Trust > Bank of New York Brokerage Account 340
+
+JT Avantor, Inc. (AVTR) [ST! s 11/30/2022 12/05/2022 $1,001 - $15,000
+
