@@ -1,0 +1,42 @@
+Filing ID #20022224
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Carol Devine Miller
+Status: Member
+State/District:WV03
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+First Eagle SOGEN Global Fund P 12/02/2022 01/04/2022 $109.03,
+(SGENX) [OT
+F oS: New
+L us
+D 122/22 Purchased 1.837 shares of First Eagle Sogen Global fund at $59.35, this was a dividend reinvest
+iShares 1-3 Year Treasury Bond ETF 12/22/2022 01/04/2022 $100,001 -
+(SHY) [ST] $250,000
+F oS: New
+Schwab U.S. TIPs ETF (SCHP) (STS 12/02/2022 01/04/2022 $100,001 -
+$250,000
+F oS New
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Carol Devine Miller , 01/04/2023
+
