@@ -1,0 +1,42 @@
+Filing ID #2022228
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Lloyd Doggett
+Status: Member
+State/District:TX35
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+Coca-Cola Company (KO) [ST] P 12/16/2022 01/05/2023 $1,001 - $15,000
+F oS :New
+D Reinvest Shares
+Home Depot, Inc. (HD) (ST! P 12/16/2022 01/05/2023 $1,001 - $15,000
+F oS :New
+D Reinvest Shares
+International Business Machines P 12/13/2022 01/05/2023 $1,001 - $15,000
+Corporation (IBM) (ST
+F oS :New
+D Reinvest Shares
+Johnson & Johnson (JNJ) [ST] P 12/07/2022 01/05/2023 $1,001 - $15,000
+F oS :New
+D Reinvest Shares
+PPG Industries, Inc. (PPG) [ST] P 12/13/2022 01/05/2023 $1,001 - $15,000
+F oS :New
+D Reinvest Shares
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+I P oO
+Yes © No
+

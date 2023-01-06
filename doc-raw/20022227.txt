@@ -1,0 +1,65 @@
+ 
+
+T
+
+Filing ID #20022227
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+
+State/District:VA01
+
+T
+
+ID Owner Asset
+
+AB Global Bond Adv [CS
+
+TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+
+S (partial) 12/14/2022 12/15/2022 $1,001 - $15,000
+
+FS :New
+s © : Morgan Stanley
+
+D Mutual fund
+
+Comeast Corporation -ClassA 12/07/2022 12/09/2022 $1,001 - $15,000
+(CMCSA) (ST
+
+F oS :New
+
+s © : Morgan Stanley
+
+Dollar General Corporation (DG) [°' 12/21/2022 12/23/2022 $1,001 - $15,000
+FS :New
+
+s © : Morgan Stanley
+
+Mastercard Incorporated (MA) [STP 12/07/2023 12/09/2022 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley
+
+McDonald's Corporation (MCD) (S'S)(partial) 12/21/2022 12/23/2022 $1,001 - $15,000
+
+FS :New
+s © : Morgan Stanley
+
+Metropolitan West Tot Ret BdI (O'S (partial) 12/14/2022 12/15/2022 $1,001 - $15,000
+
+F oS :New
+s © : Morgan Stanley
+L us
+
+D Mutual fund
+
