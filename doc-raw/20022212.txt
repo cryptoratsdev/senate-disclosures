@@ -1,0 +1,47 @@
+Filing ID #2022212
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. James R. Langevin
+Status: Member
+State/District:RI02
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+Generac Holdlings Inc. (GNRC) (SP, 12/05/2022 01/03/2023 $15,001 -
+$50,000
+F oS :New
+s O : Brokerage Account
+Generac Holdlings Inc. (GNRC) [08 12/12/2022 01/03/2023 $1,001 - $15,000
+F oS :New
+s O : Brokerage Account
+D Call options: Strike price $102; Expires 12/16/2022
+
+Generac Holdlings Inc. (GNRC) (S'S\(partial) 12/20/2022 01/03/2023 $1,001 - $15,000
+
+FS :New
+s © : Brokerage Account
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© Brokerage Account
+L :US
+
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+
