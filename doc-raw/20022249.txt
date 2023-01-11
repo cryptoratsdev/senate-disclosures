@@ -1,0 +1,53 @@
+Filing ID #2022249
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. John Curtis
+Status: Member
+
+State/District:UT03
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Advanced Micro Devices, Inc. (AMB) 12/20/2022 01/03/2023 $1,001 - $15,000
+(STI
+FS New
+s 0: Northwestern Mutual -Joint
+
+JT Bank of America Corporation (BACS (partial) 12/20/2022 01/03/2023 $1,001 - $15,000
+
+IST]
+F oS :New
+s © : Northwestern Mutual -Joint
+
+JT Elevance Health, Inc. (ELV) [ST] § 12/20/2022 01/03/2023 $1,001 - $15,000
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT _ FIRST REPUBLIC BANK (FRC) [SP 12/20/2022 01/03/2023 $1,001 - $15,000
+F oS :New
+s © : Northwestern Mutual -Joint
+
+JT Fiserv, Inc. (FISV) (ST! S (partial) 12/20/2022 01/03/2023 $1,001 - $15,000
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT JP Morgan Chase & Co. (PM) (STIS (partial) 12/20/2022 01/03/2023 $1,001 - $15,000
+
+F oS :New
+s © : Northwestern Mutual -Joint
+
+JT UnitedHealth Group Incorporated S (partial) 12/20/2022 01/03/2023 $1,001 - $15,000
+Common Stock (UNH) [ST
+
