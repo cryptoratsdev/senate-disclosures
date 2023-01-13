@@ -1,0 +1,80 @@
+ 
+
+T R
+
+Filing ID #20022260
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name:
+Status:
+
+Hon. Nancy Pelosi
+Member
+
+State/District:CA12
+
+T
+
+ID Owner Asset TransactionDate _Notification Amount
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+Type Date
+
+Alliance Bernstein Holding L.P. UnStépartial) 12/28/2022 12/28/2022 $500,001 -
+
+[OL $1,000,000
+FS :New
+
+L New York, NY, US
+
+D Sold 20,000 shares.
+
+c Sold 20,000 shares at an average price of $32.95 for a total loss of $11,510.
+
+Alphabet Inc. - Class A (GOOGL) [SS(partial) 12/28/2022 12/28/2022 $500,001 -
+$1,000,000
+
+F oS :New
+D Sold 10,000 shares
+
+Alphabet Inc. - Class A (GOOGL) [SS(partial) 12/20/2022 12/20/2022 $500,001 -
+$1,000,000
+
+FS :New
+D Sold 10,000 shares
+
+Alphabet Inc. - Class A (GOOGL) [SS{partial) 12/21/2022 12/21/2022 $500,001 -
+
+$1,000,000
+F oS :New
+D Sold 10,000 shares
+Netflix, Inc. (NFLX) [ST S (partial) 12/29/2022 12/29/2022 $250,001 -
+$500,000
+FS :New
+D Sold 1,000 shares.
+c Sold 1,000 shares at an average price of $290.04 for a total loss of $00,385.
+Netflix, Inc. (NFLX) [ST! S (partial) 12/30/2022 12/30/2022 $250,001 -
+
+$500,000
+
+Cap.
+Gains >
+$200?
+
