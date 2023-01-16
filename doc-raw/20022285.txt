@@ -1,0 +1,46 @@
+ 
+
+Filing ID #2022285
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Adobe Inc. (ADBE) [ST s 12/19/2022 12/20/2022 $250,001 -
+$500,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Closed position
+JT AreBest Corporation (ARCB) [ST] S 12/19/2022 12/20/2022 $50,001 -
+$100,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Closed position
+JT Ball Corporation (BLL) [ST s 12/19/2022 12/20/2022 $50,001 -
+$100,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Closed position
+JT CareCloud, Inc. (CCLD) [ST] S 12/19/2022 12/20/2022 $1,001 - $15,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D closed position
+JT Devon Energy Corporation (DVN) P 12/30/2022 01/03/2023 $1,001 - $15,000
+(STI
+F oS :New
+s © : Hern Family Foundation
+
+D Dividend Reinvestment
+

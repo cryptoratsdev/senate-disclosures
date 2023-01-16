@@ -1,0 +1,46 @@
+Filing ID #20022272
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Maria Elvira Salazar
+Status: Member
+State/District:FL27
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+U.S. TREASURY BILL ZERO% [CSS 12/15/2022 12/15/2022 $15,001 -
+$50,000
+F oS: New
+s ©: Mermill IRA 1
+D Redeemed a U.S. TREASURY BILL ZERO% bond. The maturity date was December 15, 2022.
+U.S. TREASURY BILL ZERO% [CSP 12/22/2022 12/22/2022 $15,001 -
+$50,000
+F oS: New
+s ©: MemillIRA 1
+D Purchased a U.S. TREASURY BILL ZERO% bond with a yield to maturity of 3.73%. The maturity date is
+
+January 19, 2023,
+
+* For the complete list of asset type abbreviations, please visit https,/fd house. cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+o Merrill IRA 1
+
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Maria Elvira Salazar , 01/15/2023
+

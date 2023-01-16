@@ -1,0 +1,48 @@
+ 
+
+Filing ID
+
+T
+
+#2002219
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate _—Notification Amount
+Type Date
+JT Amgen Inc. (AMGN) [ST] P 12/09/2022 01/04/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Automatic Data Processing, Inc. P 12/20/2022 01/04/2023 $1,001 - $15,000
+(ADP) [ST
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Blackstone Inc. (BX) [ST! S (partial) 12/05/2022 01/04/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT EWiLilly and Company (LLY) [ST] P 12/07/2022 01/04/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Fidelity National Information —P 12/01/2022 01/04/2023 $1,001 - $15,000
+Services, Inc. (FIS) [ST
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Halozyme Therapeutics, Inc. (HALG)(partial) 12/06/2022 01/04/2023 $1,001 - $15,000
+[st
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT _Insmed Incorporated (INSM) [ST] P 12/06/2022 01/04/2023 $1,001 - $15,000
+
+Cap.
+Gains >
+$200?
+
