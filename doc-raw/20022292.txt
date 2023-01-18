@@ -1,0 +1,45 @@
+Filing ID #20022292
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+US Treasury [6S P 01/17/2023 01/17/2023 $1,001 - $15,000
+F oS: New
+D US Treasury BILL 07/20/2023 @ 97.640
+SP US Treasury [GS P 01/17/2023 01/17/2023 $15,001 -
+$50,000
+F oS: New
+s ©: Trust One
+D US Treasury BILL 07/20/2023 @ 97.640
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© Trust One (100% Interest) (Owner: SP)
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Pete Sessions , 01/17/2023,
+
