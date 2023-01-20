@@ -1,0 +1,108 @@
+Filing ID #20022270
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Michael Patrick Guest
+Status: Member
+
+State/District:MS03
+
+T
+
+ID Owner Asset TransactionDate _Notification Amount Cap.
+
+Type Date Gains >
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+ALCORN ST UNIV EDL BLDG MS P
+CORP M REV REF BDS DUE
+09/01/2039 [GS
+
+FS :New
+
+s 0: KINV- cP
+
+MISSISSIPPI DEV BK SPL OBLIG P
+BDS 2019 DUE 02/01/2049 [GS.
+
+F oS :New
+s 0: KINV- cP
+
+MISSISSIPPI DEV BK SPL OBLIG P
+BDS 2019 DUE 03/01/2048 |
+
+FS :New
+s 0: KINV- cP
+
+ 
+
+MISSISSIPPI DEV BK SPL OBLIG P
+RANKIN CNTY SCH DIST BD PJ
+DUE 06/01/2042 [GS
+
+F oS :New
+
+s 0: KINV- cP
+
+MISSISSIPPI DEV BK SPL OBLIG P.
+REF HINDS CMNTY COLLEGE DIST
+(MS) DUE 04/01/2039 [GS
+
+FS :New
+
+s 0: KINV- cP
+
+MISSISSIPPI DEV BK SPL OBLIG P
+SPL OBLIG BDS 2017 DUE
+
+12/21/2022 01/03/2023
+
+12/21/2022 01/03/2023
+
+12/21/2022 01/03/2023
+
+12/21/2022 01/03/2023
+
+12/21/2022 01/03/2023
+
+12/21/2022 01/03/2023
+
+$200?
+
+$15,001 -
+$50,000
+
+$100,001 -
+$250,000
+
+$15,001 -
+$50,000
+
+$15,001 -
+$50,000
+
+$1,001 - $15,000
+
+$15,001 -
+$50,000
+
