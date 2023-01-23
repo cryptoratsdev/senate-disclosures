@@ -1,0 +1,49 @@
+T
+
+ 
+
+Filing ID
+
++#20022265
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Christopher L. Jacobs
+Status: Member
+State/District:NY27
+T
+ID Owner Asset TransactionDate _—Notification Amount
+Type Date
+Anavex Life Sciences Corp. (AVXL)S 12/12/2022 01/10/2023 $1,001 - $15,000
+(ST!
+FS :New
+s 0 : CL TRUST > LD] FAM INVLLC > Parametric
+Archrock, Inc. (AROC) [ST] P 12/12/2022 01/10/2023 $1,001 - $15,000
+FS :New
+s © : CL TRUST > LDJ FAM INVLLC > Parametric
+Athira Pharma, Inc. (ATHA) [ST] P 12/12/2022 01/10/2023 $1,001 - $15,000
+FS :New
+s 0 : CL TRUST > LD] FAM INVLLC > Parametric
+Bank of America Corporation (BACS 12/12/2022 01/10/2023 $1,001 - $15,000
+IST]
+FS :New
+s © : CL TRUST > LDJ FAM INVLLC > Parametric
+Berkshire Hathaway Inc.New — P. 12/12/2022 01/10/2023 $1,001 - $15,000
+(BRK.B) [ST
+FS :New
+s 0 : CL TRUST > LD] FAM INVLLC > Parametric
+BioLife Solutions, Inc. (BLFS) [ST]S 12/12/2022 01/10/2023 $1,001 - $15,000
+FS :New
+s © : CL TRUST > LDJ FAM INVLLC > Parametric
+
+Borr Drilling Limited Common ShaPes 12/12/2022 01/10/2023 $1,001 - $15,000
+
+Cap.
+Gains >
+$200?
+
