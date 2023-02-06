@@ -1,0 +1,56 @@
+ 
+
+Filing ID #2022368
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F
+
+Name:
+Status:
+
+Hon. Steve Cohen
+Member
+
+State/District:TNO9
+
+T
+1D
+
+Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+CHARLES SCHWABBK SSB P. 01/31/2023 02/04/2023 $250,001 -
+WESTLAKE TEX CTF DEP ACT [CS $500,000
+FS :New
+s © : Stephens Advantage Account
+D CHARLES SCHWAB BK SSB WESTLAKE TEX CTF DEP ACT/365 INT RATE 4.750% MATURITY 2/2/24
+FEDERATED HERMES P 01/31/2023 02/04/2023 $100,001 -
+GOVERNMENT OBLIGATIONS $250,000
+FUND CLASS SS [GS
+F oS :New
+s © : Stephens Advantage Account
+FIRST NATL BK & TR P 01/31/2023 02/04/2023 $250,001 -
+WEATHERFORD TEX CTF DEP ACT $500,000
+[cs]
+FS :New
+s © : Stephens Advantage Account
+D FIRST NATL BK & TR WEATHERFORD TEX CTF DEP ACT/365 INT RATE 4.650 MATURITY 2/14/25
+PUTNAM ULTRA SHORT s 01/31/2023 02/04/2023 $100,001 -
+DURATION INCOME FUND CLASS A $250,000
+[oT]
+F oS :New
+s © : Stephens Advantage Account
+L us
+D Asset PSDTX
+Western Asset Inflation-Linked —S 01/31/2023 02/04/2023 $15,001 -
+
+Opportunities & Income Fund (WIW) $50,000
+[st]
+
