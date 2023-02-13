@@ -1,0 +1,55 @@
+ 
+
+T
+
+Filing ID #2022373
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F
+
+Name:
+Status:
+
+Hon. Thomas H. Kean
+Member
+
+State/District:NJO7
+
+T
+1D
+
+‘Owner Asset
+
+TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+‘Aon ple Class A Ordinary Shares S (partial) 01/27/2023 02/01/2023 $15,001 -
+(AON) (ST) $50,000
+FS New
+s O : State Street Bank & Trust Co
+Bank of America 7.25% Conv Pid P 01/27/2023 02/03/2023 $15,001 -
+Series L (BAC.PL) [AB $50,000
+F oS: New
+s O : Kean Family Partnership
+Johnson & Johnson (JNJ) [ST] § (partial) 01/27/2023 02/01/2023 $15,001 -
+$50,000
+FS New
+s O : State Street Bank & Trust Co
+Markel Corporation (MKL) [ST] (partial) 01/10/2023 01/31/2023 $1,001 - $15,000
+F oS: New
+s O : State Street Bank & Trust Co,
+S&P Global Inc. (SPGI) [ST S (partial) 01/10/2023 01/31/2023 $15,001 -
+$50,000
+FS New
+s O : State Street Bank & Trust Co
+S&P Global Inc. (SPGI) [ST S (partial) 01/27/2023 02/02/2023 $15,001 -
+$50,000
+
+F oS :New
+s © : State Street Bank & Trust Co.
+
