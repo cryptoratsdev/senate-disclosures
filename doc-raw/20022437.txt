@@ -1,0 +1,79 @@
+ 
+
+T
+
+Filing ID #20022437
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+
+State/District:VA01
+
+T
+
+ID Owner Asset
+
+AB Global Bond Adv (OT)
+
+Ss :New
+© : Morgan Stanley
+us
+Mutual fund
+
+cram
+
+Baxter International Inc. (BAX) [SS
+
+F oS :New
+s © : Morgan Stanley
+
+Elevance Health, Inc. (ELV) [ST
+
+FS :New
+s © : Morgan Stanley
+
+Harding Loevner Intl Eqty Inst [OTP
+
+Ss :New
+© : Morgan Stanley
+us
+Mutual fund
+
+oran
+
+Harding Loevner Intl Eqty Inst [OTP
+
+Ss :New
+© : Morgan Stanley
+us
+Mutual fund
+
+cram
+
+TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+P 01/17/2023 01/18/2023 $15,001 -
+$50,000
+01/20/2023 01/24/2023 $1,001 - $15,000
+
+S (partial) 01/03/2023 01/05/2023
+
+01/20/2023 01/23/2023,
+
+01/04/2023 01/05/2023,
+
+$1,001 - $15,000
+
+$1,001 - $15,000
+
+$15,001 -
+$50,000
+
