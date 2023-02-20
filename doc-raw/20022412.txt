@@ -1,0 +1,49 @@
+T
+
+ 
+
+Filing ID #2022412
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate _—Notification Amount
+Type Date
+JT AbbVie Inc. (ABBV) [ST! S (partial) 01/27/2023 02/06/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT AbbVie Inc. (ABBV) [ST] S (partial) 01/20/2023 02/06/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Adobe Inc. (ADBE) [ST P 01/31/2023 02/06/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Align Technology, Inc. (ALGN) [STP 01/27/2023 02/06/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Allegro MicroSystems, Inc. (ALGMP 01/23/2023 02/06/2023 $1,001 - $15,000
+(st!
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Allianz SEADR (ALIZY) [OT] __—_S (partial) 01/11/2023 02/06/2023 $1,001 - $15,000
+
+Ss :New
+© : Morgan Stanley - Select UMA Account # 1
+us
+ADR stock
+
+oran
+
+Cap.
+Gains >
+$200?
+

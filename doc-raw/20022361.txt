@@ -1,0 +1,64 @@
+Filing ID #2022361
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Neal Patrick MD, Facs Dunn
+Status: Member
+
+State/District:FLO2
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+KeyCorp Depositary Shares each S 01/05/2023 01/30/2023 $1,001 - $15,000
+
+representing a 1/40th ownership
+interest in a share of Fixed Rate
+Perpetual Non-Cumulative Preferred
+Stock, Series F (KEYS) [ST
+
+FS :New
+s Os IRA #2
+Regions Financial Corporation $ 01/05/2023 01/30/2023 $1,001 - $15,000
+
+Depositary Shares Representing
+1/40th Perpetual Preferred Series A
+
+(RF$A) [ST)
+
+F oS :New
+
+s O:IRA #2
+
+Southem Company (SO) (ST) S$ 01/05/2023 01/30/2023 $15,001 -
+$50,000
+
+FS :New
+
+s Os IRA #2
+
+SP Southem Company (SO)[ST] § 01/05/2023 01/30/2023 $15,001 -
+
+$50,000
+
+F oS :New
+
+s O:IRA #3
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+o IRA#2
+D: Held at Merrill Lynch
+
