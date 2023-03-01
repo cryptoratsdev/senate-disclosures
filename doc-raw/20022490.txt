@@ -1,0 +1,52 @@
+T R
+
+ 
+
+Filing ID
+
++#20022490
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. William R. Keating
+Status: Member
+
+State/District:MA09
+
+T
+ID Owner Asset TransactionDate _—Notification Amount
+Type Date
+Alphabet Inc. - Class A (GOOGL) [SP 02/13/2023 02/28/2023 $1,001 - $15,000
+F oS :New
+s ©: Bill's IRA
+JP Morgan Chase & Co. (JPM) [STIP 02/13/2023 02/28/2023 $1,001 - $15,000
+F oS :New
+s ©: Bill's IRA
+Lam Research Corporation (LRCX)P 02/13/2023 02/28/2023 $1,001 - $15,000
+(st
+F oS :New
+s ©: Bill's IRA
+NXP Semiconductors N.V. (NXPI) P 02/13/2023 02/28/2023 $1,001 - $15,000
+ist
+F oS :New
+s ©: Bill's IRA
+PNC Financial Services Group, IncP 02/13/2023 02/28/2023 $1,001 - $15,000
+(PNC) [ST
+F oS :New
+s ©: Bill's IRA
+Veeva Systems Inc. Class A (VEEVP 02/13/2023 02/28/2023 $1,001 - $15,000
+(st)
+F oS :New
+s ©: Bill's IRA
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+Cap.
+Gains >
+$200?
+
