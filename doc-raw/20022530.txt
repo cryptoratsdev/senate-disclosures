@@ -1,0 +1,55 @@
+Filing ID #2022530
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Scott Mr Franklin
+Status: Member
+
+State/District:FL18
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Apple Inc. (AAPL) [ST S (partial) 02/15/2023 02/22/2023 $15,001 -
+$50,000
+F oS: New
+s O : Fidelity Joint TBE
+
+JT Berkshire Hathaway Inc. (BRKA) S (partial) 02/21/2023 02/22/2023 $15,001 -
+[ST] $50,000
+
+F oS :New
+s O : Fidelity Joint TBE
+
+JT Berkshire Hathaway Inc.New (partial) 02/15/2023 02/22/2023 $50,001 -
+
+(BRK.B) (ST) $100,000
+FS :New
+s © : Fidelity Joint TBE
+
+JT Cisco Systems, Inc. (CSCO) [ST] S (partial) _ 02/15/2023 02/22/2023 $15,001 -
+
+$50,000
+F oS :New
+s O : Fidelity Joint TBE
+JT Comeast Corporation -ClassA 02/15/2023 02/22/2023 $50,001 -
+(CMCSA) [ST $100,000
+FS :New
+s © : Fidelity Joint TBE
+
+JT _ Invesco QQQ Trust, Series 1 (QQQS (partial) _ 02/15/2023 02/22/2023 $50,001 -
+[ST] $100,000
+
+F oS :New
+s O : Fidelity Joint TBE
+
