@@ -1,0 +1,46 @@
+Filing ID #2022550
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Thomas H. Kean
+Status: Member
+State/District:NJO7
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+Johnson & Johnson (JNJ) [ST] $ (partial) 02/24/2023 03/06/2023 $15,001 -
+$50,000
+FS New
+s O : State Street Bank & Trust Co
+
+ 
+
+Stryker Corporation (SYK) [ST] S (partial) _ 02/24/2023 03/06/2023 $15,001 -
+
+$50,000
+F oS :New
+s © : State Street Bank & Trust Co.
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© State Street Bank & Trust Co.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Thomas H. Kean , 03/11/2023
+
