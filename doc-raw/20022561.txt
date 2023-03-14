@@ -1,0 +1,56 @@
+Filing ID #2022561
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. John Curtis
+Status: Member
+
+State/District:UT03
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+
+JT Alphabet Inc. - Class A (GOOGL) (SS(partial) 02/23/2023 03/08/2023 $1,001 - $15,000
+
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT Amazon.com, Inc. (AMZN) [ST] S (partial) 02/23/2023 03/08/2023 $1,001 - $15,000
+
+F oS :New
+s © : Northwestern Mutual -Joint
+
+JT Apple Inc. (AAPL) [ST’ S (partial) 02/23/2023 03/08/2023 $1,001 - $15,000
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT _ Boston Scientific Corporation (BS39 (partial) _ 02/23/2023 03/08/2023 $1,001 - $15,000
+IST]
+
+F oS :New
+s © : Northwestern Mutual -Joint
+
+JT Chevron Corporation (CVX) [ST] S (partial) 02/23/2023 03/08/2023 $1,001 - $15,000
+
+FS :New
+s ©: Northwestern Mutual - Joint
+
+JT Costco Wholesale Corporation _S (partial) 02/23/2023 03/08/2023 $1,001 - $15,000
+
+(COST) (ST)
+F oS :New
+s © : Northwestern Mutual -Joint
+
+JT Johnson & Johnson (JNJ) [ST] (partial) 02/23/2023 03/08/2023 $1,001 - $15,000
+
