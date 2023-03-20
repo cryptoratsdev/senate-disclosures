@@ -1,0 +1,50 @@
+T
+
+ 
+
+Filing ID #2022531
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+State/District:NJO5
+T
+ID Owner Asset TransactionDate _—_—Notification Amount
+Type Date
+JT AbbVie Inc. (ABBV) [ST! S (partial) 02/21/2023 03/07/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT AbbVie Inc. (ABBY) [ST] S (partial) 02/07/2023 03/07/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Adobe Inc. (ADBE) [ST P 02/10/2023 03/07/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Adobe Inc. (ADBE) [ST P 02/02/2023 03/07/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Advanced Micro Devices, Inc. (AMD) 02/13/2023 03/07/2023 $1,001 - $15,000
+(STI
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Advanced Micro Devices, Inc. (AMBpartial) 02/23/2023 03/07/2023 $1,001 - $15,000
+
+[ST]
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Advanced Micro Devices, Inc. (AMBIpartial) 02/17/2023 03/07/2023 $1,001 - $15,000
+
+[ST]
+
+Cap.
+Gains >
+$200?
+
