@@ -1,0 +1,48 @@
+Filing ID #2021261
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. David Trone
+Status: Member
+State/District:MD06
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Citigroup Inc. Variable Rate Note S 02/16/2023 02/16/2023 $100,001 -
+(or $250,000
+FS :New
+s © : JP Morgan Investment Account
+L us
+D Fixed Income
+JT Citigroup Inc. Variable Rate Note S 02/16/2023 02/16/2023 $50,001 -
+(or $100,000
+FS :New
+s © : JP Morgan Investment Account
+L us
+D Fixed Income
+JT Goldman Sachs Group Inc [OT] 02/16/2023 02/16/2023 $50,001 -
+$100,000
+FS :New
+s © : JP Morgan Investment Account
+L us
+D Fixed Income
+JT JP Morgan Chase & Company 02/16/2023 02/16/2023 $50,001 -
+Variable Rate Note [OT $100,000
+FS :New
+s © : JP Morgan Investment Account
+L us
+D Fixed Income
+JT JP Morgan Chase & Company S. 02/16/2023 02/16/2023 $50,001 -
+
+Variable Rate Note [OT) $100,000
+
