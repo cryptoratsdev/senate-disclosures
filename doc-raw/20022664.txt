@@ -1,0 +1,40 @@
+Filing ID #2022664
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Nancy Pelosi
+Status: Member
+State/District:CA1 1
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Apple Inc. (AAPL) (ST! P 03/17/2023 03/17/2023 $500,001 -
+$1,000,000
+FS :New
+D Exercised 100 call options purchased 5/13/22 (10,000 shares) at a strike price of $80 with an expiration
+of 3/17/23.
+SP REOF XXV, LLC [AB P 03/09/2023 03/09/2023 $500,001 -
+$1,000,000
+F oS :New
+D Investment in LLC which is acquiring and restoring a luxury hotel property in San Francisco, CA.
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+Cc
+I P oO
+Yes © No
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Nancy Pelosi , 04/06/2023
+
