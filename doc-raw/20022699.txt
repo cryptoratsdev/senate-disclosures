@@ -1,0 +1,45 @@
+ 
+
+Filing ID #20022699
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Devon Energy Corporation (DVN) P 03/31/2023 04/03/2023 $1,001 - $15,000
+(STI
+F oS :New
+s © : Hern Family Foundation
+D Dividend Reinvestment
+JT Devon Energy Corporation (DVN) P 03/31/2023 04/03/2023 $15,001 - $50,000
+IST]
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Emerson Electric Company (EMR)P 03/10/2023 03/13/2023 $1,001 - $15,000
+(STI
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST] P 03/23/2023 03/24/2023 $1,001 - $15,000
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Home Depot, Inc. (HD) [ST P 03/23/2023 03/24/2023 $1,001 - $15,000
+F oS :New
+s © : Hern Family Foundation
+D Dividend Reinvestment
+JT Intel Corporation (INTC) [ST] P. 03/01/2023 03/02/2023 $1,001 - $15,000
+
