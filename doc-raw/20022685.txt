@@ -1,0 +1,51 @@
+T R
+
+ 
+
+Filing ID #2022685
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Michael C. Burgess
+Status: Member
+
+State/District:TX26
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+Amgen Inc. (AMGN) [ST) P 04/05/2023 04/10/2023 $15,001 -
+$50,000
+F oS: New
+D Purchase of 100 shares
+SP Microsoft Corporation (MSFT) [STS 04/10/2023 04/11/2023 $15,001 -
+$50,000
+F oS: New
+Philips 66 (PSX) (ST) P 04/05/2023 04/10/2023 $15,001 -
+$50,000
+F oS: New
+D Purchase of 200 shares.
+Stryker Corporation (SYK) [ST] § 03/17/2023 03/21/2023 $15,001 -
+$50,000
+F oS: New
+
+struments Incorporated (partial) _ 04/05/2023 04/10/2023
+
+ 
+
+FS :New
+D sale of 29 shares,
+
+$1,001 - $15,000
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+I P oO
+Yes © No
+
