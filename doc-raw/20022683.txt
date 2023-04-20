@@ -1,0 +1,58 @@
+ 
+
+Filing ID
+
+T
+
++#20022683
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Josh Gottheimer
+Status: Member
+
+State/District:NJO5
+
+T
+ID Owner Asset TransactionDate —_—Notification Amount
+Type Date
+JT AbbVie Inc. (ABBV) [ST! P 03/06/2023 04/06/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT AbbVie Inc. (ABBV) [ST] S (partial) 03/24/2023 04/06/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Align Technology, Inc. (ALGN) [STP 03/06/2023 04/06/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+JT Alphabet Inc. - Class C Capital Sto&k(partial) 03/06/2023 04/06/2023 $1,001 - $15,000
+(GOOG) (ST)
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Alphabet Inc. - Class C Capital Sto&k(partial)
+
+03/16/2023 04/06/2023 $1,001 - $15,000
+
+(6006) [sT)
+FS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Alphabet Inc. - Class C Capital Sto&&(partial) _ 03/23/2023 04/06/2023 $1,001 - $15,000
+(GOOG) (ST)
+F oS :New
+s © : Morgan Stanley - Select UMA Account # 1
+
+JT Ameris Bancorp (ABCB) (ST!
+
+S (partial) 03/14/2023 04/06/2023 $1,001 - $15,000
+
+Cap.
+Gains >
+$200?
+
