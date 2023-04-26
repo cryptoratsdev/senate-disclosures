@@ -1,0 +1,47 @@
+Filing ID #2002271
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Doris 0. Matsui
+Status: Member
+
+State/District:CA07
+
+ 
+
+ 
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+SP U.S. Treasury Note due 3/31/2024? 03/30/2023 04/20/2023 Spouse/DC Over
+t $1,000,000
+F oS New
+SP U.S. Treasury Note due 4/15/2023P 03/13/2023 04/20/2023 $100,001 -
+Icsi $250,000
+F oS: New
+SP U.S. Treasury Note due 4/15/2024? 04/18/2023 04/20/2023 $250,001 -
+Ics $500,000
+
+FS :New
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, 1 CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Doris 0. Matsui , 04/25/2023
+

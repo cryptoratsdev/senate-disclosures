@@ -1,0 +1,45 @@
+ 
+
+Filing ID #20022756
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Maria Elvira Salazar
+Status: Member
+State/District:FL27
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+SP Civitas Resources, Inc. (CIVI) [ST]P 03/13/2023 03/13/2023 $1,001 - $15,000
+FS :New
+s © : Neuberger
+SP Energy Transfer LP Common Unit? 03/13/2023 03/13/2023 $15,001 -
+n [ST] $50,000
+F oS :New
+s © : Morgan Stanley IRA 4181
+D ENERGY TRANSFER LP COM UT LTD PREFERENTIAL RATE UNSOLICITED TRADE
+SP Energy Transfer LP Common Units? 03/13/2023 03/13/2023 $50,001 -
+(ET) (ST) $100,000
+F oS :New
+s © : Morgan Stanley 9219
+D ENERGY TRANSFER LP COM UT LTD PREFERENTIAL RATE UNSOLICITED TRADE
+SP Energy Transfer LP Common Unit? 03/13/2023 03/13/2023 $100,001 -
+n [ST] $250,000
+F oS :New
+s © : Morgan Stanley Acct3084
+D ENERGY TRANSFER LP COM UT LTD PREFERENTIAL RATE UNSOLICITED TRADE
+SP Tortoise Energy Infrastructure $ 03/13/2023 03/13/2023 $15,001 -
+Corporation (TYG) [ST $50,000
+F oS :New
+s © : Morgan Stanley IRA 4181
+D TORTOISE ENERGY INFRA CORP PREFERENTIAL RATE
+SP Tortoise Energy Infrastructure 03/13/2023 03/13/2023 $50,001 -
+
