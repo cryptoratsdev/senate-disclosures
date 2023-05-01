@@ -1,0 +1,46 @@
+Filing ID #2022805
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Lois Frankel
+Status: Member
+
+State/District:FL22
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+American Express Company (AXP)P 03/29/2023 04/28/2023 $1,001 - $15,000
+(STI
+F oS: New
+s © : Morgan Stanley IRA - X141
+Bank of Hawaii Corporation (BOH)S 03/20/2023 04/28/2023 $1,001 - $15,000
+(STI
+F oS: New
+s O : Morgan Stanley IRA - X142
+Boston Scientific Corporation (BSXS (partial) _ 03/29/2023 04/28/2023 $1,001 - $15,000
+pos
+F oS: New
+s © : Morgan Stanley IRA - X141
+ConocoPhillips (COP) (ST) P 03/22/2023 04/28/2023 $1,001 - $15,000
+F oS: New
+s O : Morgan Stanley IRA - X141
+FIRST REPUBLIC BANK (FRC) [S'S 03/16/2023 04/28/2023 $1,001 - $15,000
+F oS: New
+s © : Morgan Stanley IRA - X142
+Fluor Corporation (FLR) [ST] S (partial) 03/16/2023 04/28/2023 $1,001 - $15,000
+F oS: New
+s O : Morgan Stanley IRA - X142
+
+Halliburton Company (HAL) (ST) $ (partial) 03/20/2023 04/28/2023 $1,001 - $15,000
+
