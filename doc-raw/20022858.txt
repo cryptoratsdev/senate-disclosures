@@ -1,0 +1,42 @@
+Filing ID #2022858
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Eleanor Holmes Norton
+Status: Member
+State/District:DC00
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+DC Rev NPR MAY13 4.0% APROL S 04/03/2023 05/04/2023 $50,001 -
+2087 [GS $100,000
+F oS New
+s O : MERRILL LYNCH #806,
+D Bond Redemption
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+MERRILL LYNCH #806
+L :US
+
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Eleanor Holmes Norton , 05/04/2023
+
