@@ -1,0 +1,47 @@
+Filing ID #20022876
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Dan Bishop
+Status: Member
+State/District:NCO8
+T
+1D Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+2000099605 JT United States Treasury Notes [(PS 12/01/2022 12/01/2022 $100,001 -
+$250,000
+F S$: Amended
+s © : TD Ameritrade brokerage account
+2000104990 JT United States Treasury Notes [(PS 12/12/2022 12/12/2022 $1,000,001 -
+$5,000,000
+F S$: Amended
+s © : TD Ameritrade brokerage account
+© ‘The submittal of this report is late because I mistakenly left it in draft and failed to submit when origi
+posted in Dec 2022.
+2000099604 JT United States Treasury Notes [(PS 11/28/2022 11/28/2022 $100,001 -
+$250,000
+F S$: Amended
+s © : TD Ameritrade brokerage account
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+TD Ameritrade brokerage account (Owner: JT)
+L :US
+
+Cc
+This amendment is to reflect that each of the previously reported US Treasury security purchases were Joint with filer’s spouse.
+
+I P oO
+

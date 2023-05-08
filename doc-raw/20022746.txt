@@ -1,0 +1,44 @@
+Filing ID #20022746
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Robert J. Wittman
+Status: Member
+State/District:VA01
+T
+ID _ Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+Cisco Systems, Inc. (CSCO) [ST] S$ 04/20/2023 04/24/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley (JT)
+Exxon Mobil Corporation (XOM) [" 04/20/2023 04/24/2023 $1,001 - $15,000
+F oS :New
+s © : Morgan Stanley (JT)
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© Morgan Stanley (JT)
+L :US
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Robert J. Wittman , 05/07/2023
+
