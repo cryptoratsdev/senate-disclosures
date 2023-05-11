@@ -1,0 +1,45 @@
+Filing ID #2022908
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+DC —AdaptHealth Corp. (AHCO) [ST] S 04/06/2023 04/07/2023 $1,001 - $15,000
+FS :New
+s © : Gabrielle Ashtyn Hern Trust
+D Sell to close
+DC —AdaptHealth Corp. (AHCO) [ST] S 04/06/2023 04/07/2023 $1,001 - $15,000
+F oS :New
+s © : Kaden Everett Hern Trust
+D Sell to Close
+JT FS Energy & Power Fund Commor? 04/13/2023 04/14/2023 $1,001 - $15,000
+(PS,
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+L us
+D Dividend Reinvestment
+JT Inland Real Estate Income Trust [15] 04/06/2023 04/07/2023 $1,001 - $15,000
+F oS :New
+s O : Hern Family Revocable Trust > Brokerage Investment Account
+L us
+D Dividend Reinvestment
+JT JP Morgan Chase & Co. (JPM) [STP 04/28/2023 05/01/2023 $1,001 - $15,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+
+D Dividend Reinvestment
+

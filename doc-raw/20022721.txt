@@ -1,0 +1,52 @@
+Filing ID #2022721
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. John Curtis
+Status: Member
+
+State/District:UT03
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+
+JT Berkshire Hathaway Inc. New — P 04/26/2023 05/02/2023 $1,001 - $15,000
+(BRKB) [ST
+FS New
+s 0: Northwestern Mutual -Joint
+
+JT Boston Scientific Corporation (BSY (partial) 04/26/2023 05/02/2023 $1,001 - $15,000
+(ST)
+F oS: New
+s ©: Northwestern Mutual -Joint
+
+JT Caterpillar, Inc. (CAT) [ST S (partial) 04/26/2023 05/02/2023 $1,001 - $15,000
+FS New
+s 0: Northwestern Mutual -Joint
+
+JT CSX Corporation (CSX) [ST] P 04/26/2023 05/02/2023 $1,001 - $15,000
+F oS: New
+s ©: Northwestern Mutual -Joint
+
+JT Edwards Lifesciences CorporationP 04/26/2023 05/02/2023 $1,001 - $15,000
+(EW) (ST.
+FS New
+s 0: Northwestern Mutual -Joint
+
+JT Elevance Health, Inc. (ELV) [ST] P 04/26/2023 05/02/2023 $1,001 - $15,000
+F oS: New
+s ©: Northwestern Mutual -Joint
+
+JT Mastercard Incorporated (MA) [S'S (partial) 04/26/2023 05/02/2023 $1,001 - $15,000
+
