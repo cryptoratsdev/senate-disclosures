@@ -1,0 +1,46 @@
+ 
+
+Filing ID #2022841
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+F I
+Name: Hon. Susie Lee
+Status: Member
+State/District:NVO3
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+JT Arthur. Gallagher & Co. (AJG) [S'S 04/20/2023 05/03/2023 $15,001 -
+$50,000
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+JT IQVIA Holdings, Inc. (QV) [ST] (partial) 04/20/2023 05/03/2023 $1,001 - $15,000
+F oS: New
+s O : DSL Living Trust > Bank of New York Brokerage Account 340
+JT LPL Financial Holdings Inc. (LPLAS 04/20/2023 05/03/2023 $15,001 -
+st! $50,000
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.qov/reference/asset-ty pe-codes.aspx.
+
+A
+
+Cc
+
+D
+
+© DSL Living Trust (Owner: JT)
+
+© DSL Living Trust Bank of New York Brokerage Account 340 (Owner: JT)
+
+Yes
+
+No
+

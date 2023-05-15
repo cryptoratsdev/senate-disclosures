@@ -1,0 +1,92 @@
+ 
+
+T
+
+Filing ID
+
+#2002795
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name:
+Status:
+
+Hon. Jonathan Jackson
+Member
+
+State/District:IL01
+
+T
+
+ID Owner Asset
+
+Iv
+
+Jv
+
+wv
+
+Iv
+
+Iv
+
+TransactionDate —_—Notification Amount
+Type Date
+
+3 T Roadwork, Inc. [OL s 04/28/2023 05/10/2023 $1,001 - $15,000
+
+FS :New
+
+L Chicago, IL, US
+
+D Roadwork Company
+
+AMETEK, Inc. (AME) [ST! P 01/23/2023 04/25/2023 $15,001 -
+$50,000
+
+F oS :New
+
+s © : Morgan Stanley Trust Account
+
+Brighthouse Financial, Inc. (BHF) P 02/28/2023 04/25/2023 $15,001 -
+
+ist) $50,000
+
+F oS :New
+
+s © : Morgan Stanley Trust Account
+
+Brighthouse Financial, Inc. (BHF) S 04/14/2023 05/10/2023 $15,001 -
+
+ist) $50,000
+
+F oS :New
+
+s © : Morgan Stanley Trust Account
+
+Deere & Company (DE) (ST! P 01/17/2023 04/25/2023 $15,001 -
+$50,000
+
+F oS :New
+
+s © : Morgan Stanley Trust Account
+
+Ilinois Housing Dev Auth 1.9%; Die
+10/1/2033 [GS
+
+Fos
+s © : Morgan Stanley Trust Account
+
+New
+
+04/14/2023 05/10/2023 $1,001 - $15,000
+
+Cap.
+Gains >
+$200?
+
