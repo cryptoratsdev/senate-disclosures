@@ -1,0 +1,43 @@
+Filing ID #20022978
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kathy Manning
+Status: Member
+State/District:NCO6
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+Abbott Laboratories (ABT) [ST] P 04/28/2023 05/02/2023 $1,001 - $15,000
+F oS :New
+s © : Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+AbbVie Inc. (ABBV) [ST] S (partial) 04/28/2023 05/02/2023 $1,001 - $15,000
+F oS :New
+s © : Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+SP AbbVie Inc. (ABBV) [ST S (partial) 04/28/2023 05/02/2023 $1,001 - $15,000
+Fo oS :New
+s © : MV Capital - GST Exempt Trust #2
+SP AbbVie Inc. (ABBV) [ST] S (partial) 04/28/2023 05/02/2023 $1,001 - $15,000
+F oS :New
+s © : The 2011 Randall R. Kaplan Living Trust > MV Capital - Brokerage #2
+SP Accenture ple Class A Ordinary P 04/28/2023 05/02/2023 $1,001 - $15,000
+Shares (ACN) [ST
+Fo oS :New
+s © : MV Capital - GST Exempt Trust #2
+Accenture plc Class A Ordinary P 04/28/2023 05/02/2023 $1,001 - $15,000
+Shares (ACN) [ST]
+F oS :New
+s © : Kathy Manning GST FBO Randall Kaplan > ManKap Family LLC > MV Capital - Brokerage #2
+
+SP Alphabet Inc. - Class A (GOOGL) (SS(partial) 04/28/2023 05/02/2023 $1,001 - $15,000
+

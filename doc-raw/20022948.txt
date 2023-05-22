@@ -1,0 +1,44 @@
+T R
+
+ 
+
+Filing ID #2022948
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Daniel Goldman
+Status: Member
+State/District:NY10
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+AbbVie Inc. (ABV) [ST) S (partial) 04/10/2023 05/03/2023 $15,001 -
+$50,000
+F oS: New
+s © : Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Acadia Realty Trust (AKR) [ST] $ 04/10/2023 05/03/2023 $1,001 - $15,000
+F oS: New
+s O : Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Accenture plc Class A Ordinary ShBres 04/10/2023 05/03/2023 $50,001 -
+(ACN) (ST $100,000
+F oS: New
+s © : Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+Affirm Holdings, Inc. -Class AP 04/10/2023 05/03/2023 $1,001 - $15,000
+(AFRM) [ST]
+F oS: New
+s © : Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+AGNC Investment Corp. (AGNC) [SS 04/10/2023 05/03/2023 $1,001 - $15,000
+F oS: New
+s © : Daniel Goldman 12/9/2011 Trust > Aperio Group LLC
+Albemarle Corporation (ALB) [ST] $ 04/10/2023 05/03/2023 $15,001 -
+$50,000
+F oS: New
+
+s © : Daniel Goldman Grandchildren 1986 Trust > TACS R3K
+
