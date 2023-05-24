@@ -1,0 +1,45 @@
+Filing ID #2023004
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Adrian Smith
+Status: Member
+State/District:NE03
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+SP CarterBaldwin [PS P 01/19/2022 01/19/2022 $1,001 - $15,000
+F oS: New
+L us
+D Partner stock
+SP CarterBaldwin [PS P 06/18/2022 06/18/2022 $1,001 - $15,000
+F oS: New
+L us
+D Partner stock
+SP CarterBaldwin [PS P 02/01/2023 02/01/2023 $1,001 - $15,000
+F oS: New
+L us
+D Partner stock
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Adrian Smith , 05/23/2023
+

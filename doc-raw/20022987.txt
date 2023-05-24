@@ -1,0 +1,51 @@
+T R
+
+ 
+
+Filing ID #20022987
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Scott Mr Franklin
+Status: Member
+
+State/District:FL18
+
+  
+
+T
+ID Owner Asset TransactionDate _ Notification Amount Cap.
+Type Date Gains >
+$200?
+
+JT Apple Inc. (AAPL) [ST S (partial) 04/19/2023 04/24/2023 $1,001 - $15,000
+F oS: New
+s O : Fidelity Joint TBE
+Comeast Corporation -Class AP. 04/19/2023 04/24/2023 $50,001 -
+(cMcsa) [ST $100,000
+F oS: New
+s O : Fidelity Traditional IRA
+Comeast Corporation -Class AP. 04/19/2023 04/24/2023 $1,001 - $15,000
+(cMcsa) (ST)
+F oS: New
+s O : Fidelity Roth IRA
+Costco Wholesale Corporation 04/19/2023 04/24/2023 $1,001 - $15,000
+(Cost) [ST
+F oS: New
+s O : Fidelity Roth IRA
+Costco Wholesale Corporation 04/19/2023 04/24/2023 $50,001 -
+(COST) [ $100,000
+F oS: New
+s O : Fidelity Traditional IRA
+
+SP FCNTX [OT P 04/19/2023 04/24/2023 $1,001 - $15,000
+F oS: New
+s O : Fidelity Roth IRA
+
+L us
+
