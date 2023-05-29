@@ -1,0 +1,62 @@
+ 
+
+T R
+
+Filing ID #2023000
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+
+Name: Hon. Susie Lee
+Status: Member
+State/District:NV03
+
+T
+
+ID Owner Asset
+
+Iv
+
+Iv
+
+Jv
+
+Iv
+
+Jv
+
+Iv
+
+Jv
+
+TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+Evoqua Water Technologies Corp. S 05/09/2023 05/19/2023 $15,001 -
+(aqua) [ST $50,000
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+Gartner, Inc. (IT) [ST] s 05/09/2023 05/19/2023 $1,001 - $15,000
+F oS: New
+s O : DSL Living Trust > Bank of New York Brokerage Account 340
+IQVIA Holdings, Inc. (QV) [ST] S 05/09/2023 05/19/2023 $1,001 - $15,000
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+Keysight Technologies Inc. (KEYS) 05/09/2023 05/19/2023 $1,001 - $15,000
+(sT]
+F oS: New
+s O : DSL Living Trust > Bank of New York Brokerage Account 340
+Motorola Solutions, Inc. (MSI) (STS 05/09/2023 05/19/2023 $15,001 -
+$50,000
+F oS: New
+s © : DSL Living Trust > Bank of New York Brokerage Account 340
+Nasdag, Inc. (NDAQ) [ST] s 05/09/2023 05/19/2023 $1,001 - $15,000
+F oS: New
+s O : DSL Living Trust > Bank of New York Brokerage Account 340
+ON Semiconductor Corporation (08!) 05/09/2023 05/19/2023 $1,001 - $15,000
+

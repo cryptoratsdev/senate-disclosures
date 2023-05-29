@@ -1,0 +1,61 @@
+Filing ID #2023020
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Dan Newhouse
+Status: Member
+
+State/District:WA04
+
+ 
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+
+Adobe Inc. (ADBE) [ST P 11/02/2021 11/02/2021 $1,001 - $15,000
+
+F oS New
+
+Adobe Inc. (ADBE) [ST P 03/08/2022 03/08/2022 $1,001 - $15,000
+
+F oS: New
+
+Alphabet Inc. - Class A (GOOGL) (SF 03/08/2022 03/08/2022 $1,001 - $15,000
+
+F oS New
+
+Amazon.com, Inc. (AMZN) [ST] P 03/08/2022 03/08/2022 $1,001 - $15,000
+
+F oS: New
+
+Appalachian Power Co Sr Note [CP 04/26/2023 04/26/2023 $1,001 - $15,000
+
+F oS New
+
+D 7.00%, Due 04/01/2038
+
+Apple Inc. (AAPL) [ST P 03/08/2022 03/08/2022 $1,001 - $15,000
+
+F oS: New
+
+ATT Inc. (T) [ST P 03/17/2023 03/17/2023 $1,001 - $15,000
+
+F oS New
+
+AT&T Inc. Global Note [CS P 04/26/2023 04/26/2023 $1,001 - $15,000
+
+F oS: New
+
+D 5.250%, due 03/01/2037
+

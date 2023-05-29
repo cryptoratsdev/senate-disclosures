@@ -1,0 +1,63 @@
+Filing ID #2023022
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Neal Patrick MD, Facs Dunn
+Status: Member
+
+State/District:FLO2
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+
+Cadence Bank 5.50% Series P 05/05/2023 05/09/2023 $1,001 - $15,000
+(CADESA) [ST
+F oS: New
+s O: IRA #1
+Capital One Financial Corporation 05/05/2023 05/09/2023 $1,001 - $15,000
+
+Depositary shares each representing a
+1/40th interest in a share of Fixed
+Rate Non-Cumulative Perpetual
+Preferred Stock, Series I of the Issuer
+(COFS) [ST
+
+F oS :New
+s O:IRA #1
+
+JP Morgan Chase & Co DepositanP 05/05/2023 05/09/2023 $1,001 - $15,000
+Shares, each representing a 1/400th
+
+interest in a share of JPMorgan Chase
+
+& Co. 4.75% Non-Cuimulative
+
+Preferred Stock, Series GG (JPM$])
+
+(ST
+
+FS :New
+s Os IRA #2
+JP Morgan Chase & Co DepositarP 05/05/2023 05/09/2023 $1,001 - $15,000
+
+Shares, each representing a 1/400th
+interest in a share of JPMorgan Chase
+& Co. 4.75% Non-Cuimulative
+Preferred Stock, Series GG (JPM$])
+[ST]
+
+F oS :New
+
+s IRA #1
+
