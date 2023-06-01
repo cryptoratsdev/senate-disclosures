@@ -1,0 +1,56 @@
+Filing ID
+
+T R
+
+ 
+
++#20023045
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Maria Elvira Salazar
+Status: Member
+State/District:FL27
+T
+ID Owner Asset TransactionDate _—Notification Amount
+Type Date
+Invesco S&P 500 Equal Weight ETF 04/13/2023 04/13/2023 $1,001 - $15,000
+(RSP) (ST)
+F oS :New
+s © : Merrill IRA 1
+D INVESCO S&P 500 EQUAL WEIGHT ETF
+iShares Dow Jones U.S. ETF (IYY) S 04/13/2023 04/13/2023 $1,001 - $15,000
+[ST]
+F oS :New
+s © : Merrill IRA 1
+D ISHARES DOWJONES US FINL SVCS COMPOSITE INDEX FD VSP 05/27/2020
+iShares Russell 1000 Value ETFS 04/13/2023 04/13/2023 $1,001 - $15,000
+(WD) (ST)
+F oS :New
+s © : Merrill IRA 1
+D ISHARES RUSSELL 1000 VALUE VSP 05/11/2021
+iShares Russell 1000 Value ETFS 04/13/2023 04/13/2023 $1,001 - $15,000
+(WD) [ST]
+F oS :New
+s © : Merrill IRA 1
+D ISHARES RUSSELL 1000 VALUE VSP 08/17/2021
+SP NextEra Energy Partners, LPS 04/13/2023 04/13/2023 $1,001 - $15,000
+
+Common Units representing limited
+partner interests (NEP) [7
+
+FS :New
+
+s © : Neuberger
+
+D NEXTERA ENERGY PARTNERS LPCOM UNIT LTD PARTNERSHIP INT
+
+Cap.
+Gains >
+$200?
+
