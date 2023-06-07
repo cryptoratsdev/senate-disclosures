@@ -1,0 +1,55 @@
+Filing ID #2023052
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Suzan K, DelBene
+Status: Member
+
+State/District:WA01
+
+ 
+
+T
+ID _ Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+
+JT Colorado Health Fac 5% Hosp HLTH 05/24/2023 05/24/2023 $15,001 - $50,000
+Due 08/01/49 [6S
+FS :New
+
+JT Maricopa CNTY Ariz. Uni SCH Dists 05/18/2023 05/18/2023 $250,001 -
+No 69 5.00 % Due Jul 1, 2027 (GS. $500,000
+F oS :New
+
+JT Maryland ST Go BDS Ser. 2017 B P. 05/31/2023 05/31/2023 $15,001 - $50,000
+5.00 % Due Aug 1, 2026 [Gs
+FS :New
+
+JT NEW YORK NYGO BDS SER 05.06% 05/18/2023 05/18/2023 $500,001 -
+08/01/2030 [GS $1,000,000
+F oS :New
+
+JT New York ST Dorm Auth Sales TaxS 05/23/2023 05/23/2023 $500,001 -
+Rev 5.00 % Due Mar 15, 2025 [G5) $1,000,000
+FS :New
+
+JT Oklahoma City Okla Go BDS Ser. P 05/17/2023 05/17/2023 $500,001 -
+2023 4.00 % Due Mar 1, 2035 (GS: $1,000,000
+F oS :New
+
+JT Wise CNTY VA Indl Dev Auth Solid? 05/22/2023 05/22/2023 $500,001 -
+Waste 1.20 % Due Nov 1, 2040 [GS $1,000,000
+FS :New
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+

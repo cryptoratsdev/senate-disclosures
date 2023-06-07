@@ -1,0 +1,48 @@
+Filing ID #20023077
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Jonathan Jackson
+Status: Member
+
+State/District:IL01
+
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT ASML Holding N.V. - New York P 05/26/2023 06/05/2023 $15,001 -
+Registry Shares (ASML) [ST $50,000
+F oS :New
+s © : Morgan Stanley Trust Account
+JT BPpl.c. (BP) [ST P 05/12/2023 06/05/2023 $15,001 -
+$50,000
+F oS :New
+s © : Morgan Stanley Trust Account
+JT Estee Lauder Companies, Inc. (ELIP 05/02/2023 06/05/2023 $15,001 -
+Isr $50,000
+F oS :New
+s © : Morgan Stanley Trust Account
+JT Honeywell International Inc. (HON 05/01/2023 06/05/2023 $50,001 -
+[st] $100,000
+F oS :New
+s © : Morgan Stanley Trust Account
+JT MercadoLibre, Inc. (MELD [ST] P 05/23/2023 06/05/2023 $15,001 -
+$50,000
+F oS :New
+s © : Morgan Stanley Trust Account
+JT extra Energy, Inc. (NEE) [ST] (partial) 05/26/2023 06/05/2023 $15,001 -
+$50,000
+
+F oS :New
+s © : Morgan Stanley Trust Account
+

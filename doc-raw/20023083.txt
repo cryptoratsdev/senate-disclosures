@@ -1,0 +1,51 @@
+ 
+
+T
+
+Filing ID
+
++#20023083
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Zoe Lofgren
+Status: Member
+State/District:CA18
+T
+ID Owner Asset TransactionDate —_—Notification Amount
+Type Date
+SP AbbVie Inc. (ABBV) [CS s 05/26/2023 06/06/2023 $1,001 - $15,000
+FS :New
+s © : John Marshall Collins Rollover IRA
+D Corporate bond
+SP Accenture plc Class A Ordinary ShSres 05/25/2023 06/06/2023 $1,001 - $15,000
+(ACN) [ST
+F oS :New
+s © : John Marshall Collins Rollover IRA
+SP Adobe Inc. (ADBE) [ST s 05/25/2023 06/06/2023 $1,001 - $15,000
+FS :New
+s © : John Marshall Collins Rollover IRA
+SP Amazon.com, Inc. (AMZN) [CS] S. 05/26/2023 06/06/2023 $1,001 - $15,000
+F oS :New
+s © : John Marshall Collins Rollover IRA
+D Corporate bond
+SP American Electric Power CompanyS. 05/25/2023 06/06/2023 $1,001 - $15,000
+Inc. (AEP) [ST
+FS :New
+s © : John Marshall Collins Rollover IRA
+SP American Electric Power CompanyS. 05/26/2023 06/06/2023 $1,001 - $15,000
+
+Inc. (AEP) [CS)
+
+F oS :New
+s © : John Marshall Collins Rollover IRA
+
+Cap.
+Gains >
+$200?
+

@@ -1,0 +1,48 @@
+ 
+
+Filing ID #2023094
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+TOBACCO SETTLEMENT FING S$ 05/19/2023 06/06/2023 $1,001 - $15,000
+CORP VA SER Al (CS)
+F oS :New
+s 0: FMS IRA
+D Tobacco Settlement 6.706% bond called TOBACCO SETTLEMENT FING CORP VA SER Al TAXABLE
+SENIOR B/E CPN [CS] [CS]
+SP US Treasury [GS] s 05/15/2023 05/18/2023 $50,001 -
+$100,000
+F oS :New
+s © : Trust One
+D US TREASURY BILL23U ST BILL DUE 07/06/23
+SP US Treasury [GS s 05/15/2023 05/18/2023 $15,001 -
+$50,000
+FS :New
+s © : Trust One
+D US TREASURY BILL23U ST BILL DUE 07/20/23
+SP US Treasury [GS] s 05/15/2023 05/18/2023 $15,001 -
+$50,000
+F oS :New
+s © : Trust One
+D US TREASURY BILL23U S T BILL DUE 04/27/23
+SP US Treasury [GS s 05/14/2023 05/18/2023 $15,001 -
+$50,000
+FS :New
+s © : Trust One
+
+D US TREASU NT 0.125%07/23UST NOTE DUE 07/31/23
+
