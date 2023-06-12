@@ -1,0 +1,74 @@
+T
+
+ 
+
+Filing ID #2005641
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+
+Name: Hon. Brian Babin
+
+Status: Member
+
+State/District:TX36
+
+T
+
+ID Owner Asset ‘Transaction Date
+‘Type
+
+BHP Group Limited American P
+Depositary Shares (BHP) [ST
+
+FS :New
+s 0: UBS SEP IRA
+
+JT BHP Group Limited American P
+Depositary Shares (BHP) [ST
+
+F oS :New
+s ©: UBS Resource Management Account
+
+FTAI Infrastructure Inc. (FIP) (STIP
+
+FS :New
+s 0: UBS SEP IRA
+D Spin-off from FTA
+
+Woodside Energy Group Limited P
+American Depositary Shares, each
+representing one Ordinary Share
+
+(WDS) [ST]
+F oS :New
+
+s 0: UBS SEP IRA
+D Spin-off from BHP
+
+Notification Amount Cap.
+Date Gains >
+$200?
+
+03/29/2022 03/29/2022 $1,001 - $15,000
+
+06/27/2022 06/27/2022 $15,001 -
+
+$50,000
+
+08/02/2022 08/02/2022 $1,001 - $15,000
+
+06/02/2022 06/02/2022 $1,001 - $15,000
+
+* Forthe complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc D
+
+© UBS Resource Management Account (Owner: JT)
+L :US
+
