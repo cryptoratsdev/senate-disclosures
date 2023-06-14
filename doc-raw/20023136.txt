@@ -1,0 +1,46 @@
+ 
+
+T R
+
+Filing ID #2023136
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT ABB Ltd (ABB) [ST P 05/11/2023 05/12/2023 $1,001 - $15,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Accenture pic Class A Ordinary ShEres 05/17/2023 05/18/2023 $1,001 - $15,000
+(ACN) [ST]
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Magellan Midstream Partners L.P.P 05/15/2023 05/16/2023 $1,001 - $15,000
+Limited Partnership (MMP) [ST
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Reinvestment of Return of Principal
+JT ONEOK, Inc. (OKE) [ST] P 05/15/2023 05/16/2023 $1,001 - $15,000
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Texas Instruments Incorporated P 05/16/2023 05/17/2023 $1,001 - $15,000
+(TXN) [ST]
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
