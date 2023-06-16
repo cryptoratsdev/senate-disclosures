@@ -1,0 +1,55 @@
+ 
+
+T R
+
+Filing ID #2023065,
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F
+
+Name:
+Status:
+
+Hon. Daniel Goldman
+Member
+
+State/District:NY10
+
+T
+1D
+
+07/15/27 JJ [GS
+
+‘Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+Alabama St Pub Sch & College AS 05/11/2023 06/02/2023 $15,001 -
+5.000% Due 02-01-26 [CS $50,000
+FS New
+s © : Daniel Goldman 1997 Trust > AWD, LLC > Breckinridge Capital Advisors, Inc
+NY CITY MUN WIRFIN AUTH P 05/04/2023 06/02/2023 $250,001 -
+WTR SWR SYS REV 5% 06/15/28-CA $500,000
+JDIGS,
+FS iNew
+s O : Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NY ST ENV FACS CORP REV 5% P 05/17/2023 06/02/2023 $100,001 -
+06/15/25 JD [Gs $250,000
+FS iNew
+s © : Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW JERSEY (STATE OF) GO 5% S 05/11/2023 06/02/2023 $500,001 -
+06/01/24 JD [GS $1,060,000
+Fos: New
+s O : Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK NY CITY P 05/11/2023 06/02/2023 $250,001 -
+‘TRANSITIONAL REV 5% 07/15/25 JJ $500,000
+ics!
+FS New
+s © : Daniel Goldman Grandchildren 1986 Trust > MUNI ESG
+NEW YORK N Y CITY P 05/03/2023 06/02/2023 $250,001 -
+TRANSITIONAL REV 5.0000% $500,000
+
