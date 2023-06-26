@@ -1,0 +1,51 @@
+Filing ID #2023194
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Lois Frankel
+Status: Member
+
+State/District:FL22
+
+T
+ID Owner Asset ‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+Alexandria Real Estate Equities, In. 05/30/2023 06/22/2023 $1,001 - $15,000
+(ARE) [ST]
+F oS: New
+s © : Morgan Stanley IRA - X142
+Alexandria Real Estate Equities, In. 05/16/2023 06/22/2023 $1,001 - $15,000
+(ARE) [ST)
+F oS: New
+s O : Morgan Stanley IRA - X142
+Boston Scientific Corporation (BSX) 05/30/2023 06/22/2023 $1,001 - $15,000
+pos
+F oS: New
+s © : Morgan Stanley IRA - X142
+
+Boston Scientific Corporation (BSX9 (partial) _ 05/31/2023 06/22/2023 $1,001 - $15,000
+IST]
+
+F oS :New
+s © : Morgan Stanley IRA - X141
+
+Dollar General Corporation (DG) [SSi(partial) 06/06/2023 06/22/2023 $1,001 - $15,000
+
+FS :New
+s © : Morgan Stanley IRA - X142
+
+Dominion Energy, Inc. (D) ST] P 06/08/2023 06/22/2023 $1,001 - $15,000
+F oS :New
+
+s © : Morgan Stanley IRA - X141
+

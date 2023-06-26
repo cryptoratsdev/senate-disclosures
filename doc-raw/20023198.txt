@@ -1,0 +1,47 @@
+Filing ID #2023198
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Pete Sessions
+Status: Member
+State/District:TX17
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+SP JPMorgan Chase & Co. OH 5.55% BD 06/23/2023 06/23/2023 $50,001 -
+07/29/2024 [CS $100,000
+F oS: New
+s O:SEP1
+D JPMorgan Chase & Co. OH 5.55% CD 07/29/2024
+SP US Treasury BILL 12/21/2023 @ P 06/23/2023 06/23/2023 $50,001 -
+97.445 [CS $100,000
+F oS: New
+s O:SEP1
+D US Treasury BILL 12/21/2028 @ 97.445
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+A Cc D
+
+SEP 1 (Owner: SP)
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Pete Sessions , 06/23/2023,
+
