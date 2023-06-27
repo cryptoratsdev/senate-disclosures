@@ -1,0 +1,95 @@
+ 
+
+T
+
+Filing ID #2002321
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name:
+Status:
+
+Hon. Pete Sessions
+Member
+
+State/District:TX17
+
+T
+
+ID Owner Asset
+
+SP
+
+SP
+
+SP
+
+SP
+
+SP
+
+TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+
+American Tower Corporation (AMB)
+[ST]
+
+FS :New
+s ©: Trust One
+D UBS Trust 50
+
+Discover Financial Services (DFS) S
+[ST]
+
+F oS :New
+s ©: Trust One
+D UBS Trust 350
+
+lululemon athletica inc. (LULU) [S'
+
+FS :New
+s ©: Trust One
+D UBS Trust 50
+
+Medtronic plc. Ordinary Shares $
+(MDT) [ST
+
+F oS :New
+s ©: Trust One
+D UBS Trust 300
+
+NVIDIA Corporation (NVDA) [ST] P
+
+FS :New
+s 0: TRA One
+D CS ROTH 1 share
+
+06/15/2023 06/26/2023
+
+06/15/2023 06/26/2023
+
+06/15/2023 06/26/2023
+
+06/15/2023 06/26/2023
+
+06/23/2023 06/26/2023
+
+$1,001 - $15,000
+
+$15,001 -
+$50,000
+
+$15,001 -
+$50,000
+
+$15,001 -
+$50,000
+
+$424.53
+
