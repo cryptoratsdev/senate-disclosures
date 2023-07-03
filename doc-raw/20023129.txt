@@ -1,0 +1,48 @@
+ 
+
+T R
+
+Filing ID #2023129
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Donald Sternoff Beyer Jr
+Status: Member
+State/District:VA08
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT District Columbia Go 5.00% — P 06/06/2023 06/13/2023 $15,001 -
+06/01/35 [GS $50,000
+FS :New
+s © : Stocks, Bonds, & Mutual Funds
+D 25,000 units District of Columbia Government 5.00% 06/01/35,
+JT —_Union-Endicott NY Cent 3.75% 06/30/2023 07/01/2023 $1,001 - $15,000
+06/30/23 [GS
+F oS :New
+s © : Stocks, Bonds, & Mutual Funds
+D Bond reached maturity
+JT Virginia College Bldg 4.00% 06/06/2023 06/13/2023 $15,001 -
+02/01/33 [GS $50,000
+FS :New
+s © : Stocks, Bonds, & Mutual Funds
+D tender cash receipt, Virginia College Building 4.00% 02/01/33
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A
+
+Cc
+
+D
+
+© Stocks, Bonds, & Mutual Funds (Owner: JT)
+
+: VA, US
+
