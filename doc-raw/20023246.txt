@@ -1,0 +1,53 @@
+Filing ID #2023246
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Dwight Evans
+Status: Member
+State/District:PA03
+T
+ID Owner Asset TransactionDate —_—Notification Amount Cap.
+Type Date Gains >
+$200?
+Baidu, Inc. - American Depositary S 06/22/2023 06/28/2023 $1,001 - $15,000
+
+Shares, each representing 8 ordinary
+share (BIDU) (ST)
+
+FS :New
+s 0 : PERSHING LLC
+
+CVS Health Corporation (CVS) [STP 06/22/2023 06/28/2023 $1,001 - $15,000
+F oS :New
+
+s 0 : PERSHING LLC
+
+Kyndryl Holdings, Inc. (KD) (ST) P 06/22/2023 06/28/2023 $1,001 - $15,000
+FS :New
+
+s 0 : PERSHING LLC
+
+Sempra Energy 6% Mandatory P 06/22/2023 06/28/2023 $1,001 - $15,000
+Convertible Preferred Stock, Series A
+
+(SRE$A) (ST
+
+F oS :New
+
+s 0 : PERSHING LLC
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-ty pe-codes.aspx.
+
+A Cc D
+
+© PERSHING LLC
+
