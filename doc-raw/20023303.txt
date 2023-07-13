@@ -1,0 +1,46 @@
+ 
+
+Filing ID #2023303
+
+T R
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Kevin Hern
+Status: Member
+State/District:OK01
+T
+ID Owner Asset TransactionDate _—_—Notification Amount Cap.
+Type Date Gains >
+$200?
+JT Argo Group International Holding? 06/20/2023 06/21/2023 $1,001 - $15,000
+Ltd. (ARGO) (ST)
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Devon Energy Corporation (DVN) P 06/30/2023 07/03/2023 $15,001 - $50,000
+IST]
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Devon Energy Corporation (DVN) P 06/30/2023 07/03/2023 $1,001 - $15,000
+(STI
+F oS :New
+s © : Hern Family Foundation
+D Dividend Reinvestment
+JT Emerson Electric Company (EMR)P 06/09/2023 06/12/2023 $1,001 - $15,000
+[ST]
+F oS :New
+s 0 : Hern Family Revocable Trust > Brokerage Investment Account
+D Dividend Reinvestment
+JT Exxon Mobil Corporation (KOM) [97° 06/09/2023 06/12/2023 $1,001 - $15,000
+F oS :New
+s © : Hern Family Revocable Trust > Brokerage Investment Account
+
+D Dividend Reinvestment
+
