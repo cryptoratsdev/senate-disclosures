@@ -1,0 +1,96 @@
+ 
+
+T
+
+Filing ID #20023247
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name:
+Status:
+
+T
+
+ID Owner Asset
+
+SP
+
+SP
+
+SP
+
+SP
+
+Hon. Michael Patrick Guest
+Member
+State/District:MS03
+
+‘TransactionDate _NotificationAmount Cap.
+Type Date Gains >
+$200?
+MISSISSIPPI DEV BK SPL OBLIG P 06/28/2023 07/05/2023 $1,001 - $15,000
+
+MISSISSIPPI GULF COAST CMNTY
+(MS) DUE 12/01/2039 03.375% JD
+{Gs
+
+FS :New
+s 0: KINV- cP
+
+MISSISSIPPI DEV BK SPL OBLIG P
+SPL OBLIG BDS 2012 DUE
+09/01/2036 03.375% MS [GS)
+
+F oS :New
+
+s 0: KINV- cP
+
+MISSISSIPPI DEV BK SPL OBLIG P
+SPL OBLIG BDS 2017 DUE
+07/01/2035 03.375% JJ [GS
+
+F oS :New
+
+s ©: KINV- cP
+
+WEST RANKIN MISS UTIL AUTH P
+REV BDS 2018 DUE 01/01/2039
+03.500% JJ
+F oS :New
+
+s ©: KINV- cP
+
+ 
+
+06/02/2023 07/05/2023
+
+06/02/2023 07/05/2023
+
+06/02/2023 07/05/2023
+
+$50,001 ~
+$100,000
+
+$15,001 -
+$50,000
+
+$50,001 ~
+$100,000
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+A Cc
+
+D
+
+ KINV- CP (Owner: SP)
+
+L
+
+:US
+

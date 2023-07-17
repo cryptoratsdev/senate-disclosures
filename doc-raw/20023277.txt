@@ -1,0 +1,47 @@
+Filing ID #20023277
+
+T R
+
+ 
+
+ 
+
+Clerk of the House of Representatives + Legislative Resource Center + 135 Cannon Building + Washington, DC 20515
+
+ 
+
+F I
+Name: Hon. Scott H. Peters
+Status: Member
+
+State/District:CA50
+
+T
+ID Owner Asset TransactionDate _Notification Amount Cap.
+Type Date Gains >
+$200?
+SP San Francisco CA IMPT SCH [GS]$ (partial) 06/15/2023 06/30/2023 $250,001 -
+$500,000
+F oS New
+SP US Treasury Bill (GS P 06/26/2023 06/30/2023 Spouse/DC Over
+$1,000,000
+F oS: New
+SP US Treasury Bill [GS P 06/23/2023 06/30/2023 $250,001 -
+$500,000
+F oS New
+SP US Treasury Bill (GS S (partial) 06/22/2023 06/30/2023 Spouse/DC Over
+$1,000,000
+F oS: New
+
+* For the complete list of asset type abbreviations, please visit https,/fd house.cov/reference/asset-type-codes.aspx.
+
+I P oO
+Yes © No
+
+Cc s
+
+1 CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to t
+my knowledge and belief. Further, 1 CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Scott H. Peters , 07/14/2023,
+
